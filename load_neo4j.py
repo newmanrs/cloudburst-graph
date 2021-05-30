@@ -7,7 +7,7 @@ def create_hops(tx):
         hoplist = f.read().splitlines();
 
     #remove empty strings
-    hoplist = [h for h in hoplist if len(h) > 0]
+    hoplist = [h.capitalize() for h in hoplist if len(h) > 0]
     hoplist = sorted(hoplist)
 
     query = """
