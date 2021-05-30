@@ -2,6 +2,8 @@
 
 Web-scraping [Cloudburst Brewing's](https://cloudburstbrew.com/) beer descriptions to create a Neo4j graph database showing relationships between various beers and hop varietals.
 
+![azacca](img/azacca.svg)
+
 ## Installation
 
 Scrape webpage using provided
