@@ -45,9 +45,18 @@ def create_contains_hop_edges(tx):
         """
     tx.run(query)
 
+def create_styles(tx):
+    query = """
+        match (b:Beer)
+        with distinct b.style as styles
+        MERGE (s:Style {style : styles})
+        with s
+        match (b:Beer) where b.style = s.style
+        MERGE (b)-[:STYLE]-(s)
+        """
+    tx.run(query)
+
 if __name__ == '__main__':
-
-
 
     uri = "neo4j://localhost:7687"
     driver = GraphDatabase.driver(uri, auth=("neo4j", os.environ['NEO4J_PW']))
@@ -56,4 +65,5 @@ if __name__ == '__main__':
         session.write_transaction(create_hops)
         session.write_transaction(create_beers)
         session.write_transaction(create_contains_hop_edges)
+        session.write_transaction(create_styles)
     driver.close()
