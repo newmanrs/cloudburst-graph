@@ -2,22 +2,6 @@ from neo4j import GraphDatabase
 import json
 import os
 
-uri = "neo4j://localhost:7687"
-driver = GraphDatabase.driver(uri, auth=("neo4j", os.environ['NEO4J_PW']))
-
-"""
-def create_friend_of(tx, name, friend):
-    tx.run("MATCH (a:Person) WHERE a.name = $name "
-           "CREATE (a)-[:KNOWS]->(:Person {name: $friend})",
-           name=name, friend=friend)
-
-with driver.session() as session:
-    session.write_transaction(create_friend_of, "Alice", "Bob")
-
-with driver.session() as session:
-    session.write_transaction(create_friend_of, "Alice", "Carl")
-"""
-
 def create_hops(tx):
     with open('hoplist.txt') as f:
         hoplist = f.read().splitlines();
@@ -63,8 +47,10 @@ def create_contains_hop_edges(tx):
 
 if __name__ == '__main__':
 
+
+
     uri = "neo4j://localhost:7687"
-    driver = GraphDatabase.driver(uri, auth=("neo4j", "test"))
+    driver = GraphDatabase.driver(uri, auth=("neo4j", os.environ['NEO4J_PW']))
 
     with driver.session() as session:
         session.write_transaction(create_hops)
