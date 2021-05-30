@@ -25,6 +25,41 @@ Parsing the website are done in a series of python scripts, starting with `parse
 
 Be mindful that making changes to these scripts and reexecuting may require you to manually wipe the neo4j database from the console with `match (n) detach delete (n)`.  
 
-## Example DB queries and images
+## Example DB queries
 
-Forthcoming
+### Beers containing a hop (and their styles)
+
+I claim these are among the most delicious.
+
+```
+match p = (h:Hop)-[]-(b:Beer)-[]-(s:Style)
+where h.name = 'Azacca'
+return p
+```
+
+![azacca](img/azacca.svg)
+
+### All beers of a particular style and their hop graph
+
+```
+match p = (h:Hop)-[]-(b:Beer)-[]-(s:Style)
+where s.style = 'Pale'
+return p
+```
+![pales](img/pale_ales_hops.svg)
+
+
+###  Largest ABV
+```
+match (b:Beer)
+with b order by b.abv DESC
+return b.name, b.abv, b.style limit 10
+```
+
+### Most frequent hop pairings
+
+```
+match p = (a:Hop)-[]-(b:Beer)-[]-(c:Hop)
+where a.name < c.name
+return a.name as hop1, c.name as hop2, count(b) as count, collect(b.name) as beer_list order by count DESC
+```
