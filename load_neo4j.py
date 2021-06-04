@@ -59,7 +59,15 @@ def create_styles(tx):
 if __name__ == '__main__':
 
     uri = "neo4j://localhost:7687"
-    driver = GraphDatabase.driver(uri, auth=("neo4j", os.environ['NEO4J_PW']))
+
+    try:
+        pw = os.environ['NEO4j_PW']
+    except KeyError as e:
+        msg = "No environment variable `NEO4j_PW` found.  Consider running export NEO4J_PW='yourpassword' in the current shell environment or in your shell config file."
+        raise KeyError(msg)
+        
+
+    driver = GraphDatabase.driver(uri, auth=("neo4j", pw))
 
     with driver.session() as session:
         session.write_transaction(create_hops)
