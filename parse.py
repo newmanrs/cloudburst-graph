@@ -20,7 +20,8 @@ for i, beer in enumerate(beers):
     b['beer_style'] = beer.find("span","cb-beer-style").text
     b['abv'] = beer.find("span", "cb-beer-abv").text
 
-    if ibu:= beer.find("span","cb-beer-ibu"):
+    ibu = beer.find("span","cb-beer-ibu")
+    if ibu is not None:
         b['ibu'] = ibu.text.split(" ")[0]
 
 
