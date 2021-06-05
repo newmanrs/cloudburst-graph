@@ -28,7 +28,7 @@ Updating the database with new scrapes should merge nodes and relationships.  If
 
 ## Example DB Queries
 
-Some additional Neo4j cypher queries to help those not familiar with the [syntax](https://neo4j.com/developer/cypher/).
+I provide here some Neo4j cypher queries as examples to help those not familiar with Neo4j's [query language syntax](https://neo4j.com/developer/cypher/).
 
 ### Beers containing a hop (and their styles)
 
@@ -183,6 +183,6 @@ This returns the following json (beer lists shown are truncated to fit better in
 
 ## Neo4j Bloom
 
-Neo4j Bloom is an enterprise UI that can run with locally on Neo4j Desktop (or Neo4j Enterprise if you're willing to pay for a server license).  Sorry Neo4j Community users.  It allows for the wrapping cypher queries with more human-usable phrases such as `find beers containing hop named Azacca`.  Target audience here is likely business users.
+Neo4j Bloom is an enterprise UI that can run with locally on Neo4j Desktop for a single user (or Neo4j Enterprise if you're willing to pay for a server license for sharing with other users).  Sorry Neo4j Community users.  Bloom allows for the wrapping cypher queries with more human-usable phrases such as `find beers containing hop named Azacca` into something more akin to a dashboard that they call a database perspective.  I have exported a copy of my [bloom perspective](../neo4j-bloom-perspective/cloudburst-beer-graph.json) here that should be importable into Bloom via their GUI.
 
 Example pictures are forthcoming.
