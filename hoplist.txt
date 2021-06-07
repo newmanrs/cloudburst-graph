@@ -34,5 +34,6 @@ sabro
 saphir
 secret
 simcoe
+talus
 waimea
 warrior

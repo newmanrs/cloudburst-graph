@@ -61,9 +61,9 @@ if __name__ == '__main__':
     uri = "neo4j://localhost:7687"
 
     try:
-        pw = os.environ['NEO4j_PW']
+        pw = os.environ['NEO4J_PW']
     except KeyError as e:
-        msg = "No environment variable `NEO4j_PW` found.  Consider running export NEO4J_PW='yourpassword' in the current shell environment or in your shell config file."
+        msg = "No environment variable `NEO4J_PW` found.  Consider running export NEO4J_PW='yourpassword' in the current shell environment or in your shell config file."
         raise KeyError(msg)
         
 
