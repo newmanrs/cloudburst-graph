@@ -13,7 +13,7 @@ A sample docker script for setup of Neo4j is provided in `start_neo4j.sh`, but y
 
 The python scripts and provided docker scripts assume an environmental variable for the database password is set as:
 ```
-export NEO4j_PW="yourpassword"
+export NEO4J_PW="yourpassword"
 ```
 with the default user `neo4j`, and that the ports are still set to the defaults for the console of 7474, and bolt database driver on 7678.  
 
