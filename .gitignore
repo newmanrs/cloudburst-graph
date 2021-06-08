@@ -1,1 +1,11 @@
+*.swp
+*.swo
 tmp/
+yakima-chief-hop-parse/pages
+yakima-chief-hop-parse/pdf.txt
+yakima-chief-hop-parse/yakchiefhops.pdf
+yakima-chief-hop-parse/yakchiefhops.txt
+yakima-chief-hop-parse/hopnames.txt
+*.ipynb_checkpoints
+
+
