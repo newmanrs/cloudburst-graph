@@ -1,5 +1,4 @@
 from neo4j import GraphDatabase
-import neo4j
 import json
 import os
 
@@ -34,7 +33,7 @@ def create_beers(tx):
         if not 'hops' in beer:
             beer['hops'] = ['unknown']
 
-    query2 = """
+    query = """
         UNWIND $beers as beer
         MERGE (b:Beer {name : beer.beer_name,
             abv : beer.abv,
@@ -44,7 +43,7 @@ def create_beers(tx):
         })
         RETURN count(b) as c
         """
-    records = tx.run(query2, beers = beers)
+    records = tx.run(query, beers = beers)
     print('Merged {} Beer nodes'
         .format(records.single()['c']))
 
@@ -76,23 +75,26 @@ def create_styles(tx):
 
 def create_indexes(session):
 
-    wt = session.write_transaction
+    swt = session.write_transaction
+
     propindex = {'Beer':'name',
         'Hop':'name',
         'Style':'style',
         }
 
     for label, prop in propindex.items():
-        wt(create_property_index, label, prop)
+        swt(create_property_index, label, prop)
 
     index_name = 'titlesAndDescriptions'
     nodes = ['Beer']
     properties = ['name', 'description']
 
-    if not wt(index_exists,index_name):
-        wt(create_fulltext_index,index_name, nodes, properties)
+    # Fun fact - Neo4j's query to check indexes is
+    # rejected if run as a read transaction. Mkay.
+    if not swt(index_exists,index_name):
+        swt(create_fulltext_index,index_name, nodes, properties)
 
-    wt(print_db_indexes) 
+    swt(print_db_indexes) 
 
 
 def create_property_index(tx,label,prop):
@@ -102,6 +104,9 @@ def create_property_index(tx,label,prop):
     tx.run(query)        
 
 def index_exists(tx,index_name):
+    """ Check for index existence to prevent throwing
+    exceptions in the code.
+    """
 
     records = tx.run("SHOW INDEXES")
     for r in records:
@@ -133,7 +138,57 @@ def print_db_indexes(tx):
         s = json.dumps(d,indent=2)
         lines = s.splitlines(keepends=True)
         print(''.join(['  '+l for l in lines]))
+
+def load_yakima_chief_ontology(tx):
+    with open(os.path.join('yakima-chief-hop-parse',
+        'yakimachiefhopdata.json'),'r') as f:
+        ych = json.load(f)
+    print(json.dumps(ych,indent=2))
+
+    print(ych['hops'][2])
+    query_params = []
+    for i,hop in enumerate(ych['hops']):
+        query_params.append([i,hop])
     
+    query = """
+        UNWIND $query_params as params
+        MERGE (b:YC_Hop { idx : params[0]})
+        SET b += params[1]
+        RETURN count(b) as c
+        """
+
+    records = tx.run(query, query_params = query_params)
+    print('Merged {} YC_Hop nodes'
+        .format(records.single()['c']))
+
+    query = """
+        match (b:YC_Hop)
+        UNWIND b.styles as styles
+        with distinct styles as style
+        MERGE (s:YC_Style {style : style})
+        with s
+        match (b:YC_Hop) where s.style in b.styles
+        MERGE (b)-[e:RECOMMENDED]-(s)
+        return count(e) as c
+        """
+    records = tx.run(query)
+    print("Merged {} (:YC_Hop)-[:RECOMMENDED]-(:YC_Style) relationships"
+        .format(records.single()['c']))
+
+    query = """
+        match (b:YC_Hop)
+        UNWIND b.aroma_profile as aromas
+        with distinct aromas as aroma
+        MERGE (s:YC_Aroma {aroma : aroma})
+        with s
+        match (b:YC_Hop) where s.aroma in b.aroma_profile
+        MERGE (b)-[e:HAS_AROMA]-(s)
+        return count(e) as c
+        """
+    records = tx.run(query)
+    print("Merged {} (:YC_Hop)-[:RECOMMENDED]-(:YC_Style) relationships"
+        .format(records.single()['c']))
+
 
 if __name__ == '__main__':
 
@@ -149,9 +204,11 @@ if __name__ == '__main__':
     driver = GraphDatabase.driver(uri, auth=("neo4j", pw))
 
     with driver.session() as session:
-        session.write_transaction(create_hops)
-        session.write_transaction(create_beers)
-        session.write_transaction(create_contains_hop_edges)
-        session.write_transaction(create_styles)
+        swt = session.write_transaction
+        swt(create_hops)
+        swt(create_beers)
+        swt(create_contains_hop_edges)
+        swt(create_styles)
+        swt(load_yakima_chief_ontology)
         create_indexes(session)
     driver.close()
