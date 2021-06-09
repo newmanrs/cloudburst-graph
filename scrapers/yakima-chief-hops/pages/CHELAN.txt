@@ -1,0 +1,44 @@
+CHELAN
+Developed by John I Haas, Inc. and released in 1994, Chelan is similar to Galena but
+contains higher alpha acids.
+
+
+COUNTRY              AROMA PROFILE
+UNITED               MILD
+STATES
+
+
+BEER STYLES
+AMERICAN-STYLE ALE
+
+
+
+  B R E W I N G VA L U E S
+
+ACID/OIL              RANGE                                  LOW            HIGH
+
+ALPHA ACIDS (33 - 35% CO-HUMULONE)
+                                                             12%            14.5%
+ 0                                             20
+
+BETA ACIDS
+                                                             8.5%           9.8%
+ 0                                             15
+
+TOTAL OIL
+                                                             1.5            1.9mL/100g
+ 0                                              4
+
+
+TOTAL OIL BREAKDOWN
+
+B-PINENE
+MYRCENE               45 - 55% OF TOTAL OIL
+LINALOOL
+CARYOPHYLLENE         9 - 12% OF TOTAL OIL
+FARNESENE             <1% OF TOTAL OIL
+HUMULENE              12 - 15% OF TOTAL OIL
+GERANIOL
+SELINENE
+OTHER                 17 - 33% OF TOTAL OIL
+

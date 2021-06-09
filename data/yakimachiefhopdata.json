@@ -1,0 +1,2218 @@
+{
+  "hops": [
+    {
+      "name": "Admiral",
+      "description": "Bred at Wye College and released in 1998, Admiral is a cross between Challenger and Northdown and was designed to be a complement to Target. Its mild aroma characteristics make it suitable for late-hopping and dry hopping applications in combination with other varieties.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Fresh",
+        "Orange",
+        "Sap",
+        "Tea"
+      ],
+      "styles": [
+        "English-Style Ale",
+        "English-Style Bitter",
+        "Ipa",
+        "Pale Ale",
+        "Weisse"
+      ]
+    },
+    {
+      "name": "Ahtanum",
+      "hop_id": "YCR 1 CV",
+      "description": "Bred by Yakima Chief Ranches, Ahtanum\u00ae YCR 1 cv. is an aroma-type cultivar used for its aromatic properties and moderate bittering. The variety is named after the location where Charles Carpenter established the first hop farm east of the Cascade Mountains in Washington State in 1869.",
+      "country": "United States",
+      "aroma_profile": [
+        "Cedar",
+        "Floral",
+        "Grapefruit"
+      ],
+      "styles": [
+        "Ipa",
+        "Lager",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Amarillo",
+      "hop_id": "VGXP01 CV",
+      "description": "Discovered by Virgil Gamache Farms, Amarillo\u00ae is one of the top ten aroma varieties utilized by craft brewers. It features relatively high alpha acids along with extremely high levels of myrcene for citrus and grapefruit flavors.",
+      "country": "United States",
+      "aroma_profile": [
+        "Apricot",
+        "Grapefruit",
+        "Lemon",
+        "Melon",
+        "Orange",
+        "Peach"
+      ],
+      "styles": [
+        "American-Style Ale",
+        "Ipa"
+      ]
+    },
+    {
+      "name": "Aramis",
+      "description": "Developed in 2002 as a cross between French Strisselspalt and UK WGV, Aramis is an aroma variety with sweet and spicy characteristics. It resembles Strisselspalt, but contains higher oil and alpha content.",
+      "country": "France",
+      "aroma_profile": [
+        "Citrus",
+        "Green",
+        "Herbal",
+        "Spicy"
+      ],
+      "styles": [
+        "Biere De Saison",
+        "Pale Ale",
+        "Porter",
+        "Trappist/Belgian-Style Ale"
+      ]
+    },
+    {
+      "name": "Aurora",
+      "description": "A diploid hybrid of Northern Brewer and a TG seedling of unknown origin, Aurora displays an intense yet pleasant aroma in finished beers. It is also known as Super Styrian.",
+      "country": "Slovenia",
+      "aroma_profile": [
+        "Noble"
+      ],
+      "styles": [
+        "English Or Belgian-Style Ale"
+      ]
+    },
+    {
+      "name": "Azacca",
+      "hop_id": "ADHA 483",
+      "description": "Azacca\u00ae, named for the Haitian god of agriculture, is a hop big in citrus and tropical fruit tones. It\u2019s excellent aromatic qualities have quickly made Azacca\u00ae a go-to hop for late and dry hop additions in varying styles of beer.",
+      "country": "United States",
+      "aroma_profile": [
+        "Citrus",
+        "Grapefruit",
+        "Grassy",
+        "Lemon",
+        "Mango",
+        "Orange",
+        "Papaya",
+        "Pineapple",
+        "Pine",
+        "Spicy",
+        "Tropical Fruit"
+      ],
+      "styles": [
+        "American-Style Ale",
+        "Ipa",
+        "Saison"
+      ]
+    },
+    {
+      "name": "Bitter Gold",
+      "description": "Released in 1999, Bitter Gold is a high alpha variety with excellent aroma capabilities. Its lineage includes Brewer\u2019s Gold, Bullion, Comet and Fuggle. Bitter Gold offers limited aroma when used as a bittering hop but delivers diverse stone and tropical fruit flavors in later additions.",
+      "country": "United States",
+      "aroma_profile": [
+        "Fresh Cut Grass",
+        "Pear",
+        "Stone Fruit",
+        "Watermelon"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "Ipa",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Boadicea",
+      "description": "Bred at Wye College and released in 2004, Boadicea is a dwarf variety derived from open pollination of a second-generation wild, Japanese female hop. Its aroma is very mild with subtle grass, floral and fruit characteristics.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Floral",
+        "Orchard Blossom",
+        "Ripe Fruit"
+      ],
+      "styles": [
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Bobek",
+      "description": "A diploid hybrid of Northern Brewer and a TG seedling of unknown origin, Bobek displays an intense yet pleasant aroma in finished beers.",
+      "country": "Slovenia",
+      "aroma_profile": [
+        "Noble"
+      ],
+      "styles": [
+        "English-Style Ale",
+        "English-Style Bitter",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Bouclier",
+      "description": "Developed in 2005 as a cross between Strisselspalt and a UK male, Bouclier is the most recent release from the French varietal research program. Its UK lineage includes Wye Challenger, Early Bird Golding and Northern Brewer. Bouclier\u2019 s combination of French and English aromas allows it to bring a French touch to English-style beers.",
+      "country": "France",
+      "aroma_profile": [
+        "Grass",
+        "Herbal",
+        "Spicy"
+      ],
+      "styles": [
+        "Lager",
+        "Pilsner",
+        "Saison",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Bramling Cross",
+      "description": "Bred at Wye College in 1927, Bramling Cross is a cross between Bramling (a traditional Golding variety) and a male seedling of the Manitoban wild hop. It is often used in traditional cask conditioned beers due to its distinct characteristics.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Blackcurrant",
+        "Loganberry",
+        "Vanilla"
+      ],
+      "styles": [
+        "Black Ale",
+        "Brown Ale",
+        "Dunkel",
+        "English-Style Bitter",
+        "Porter"
+      ]
+    },
+    {
+      "name": "Bravo",
+      "hop_id": "HOPSTEINER 01046",
+      "description": "Developed by Hopsteiner Breeding Program and released in 2006, Bravo\u2122 is a second generation super-alpha variety. It is an excellent bittering variety and can provide pleasant fruit and sweet floral aroma characteristics in some applications.",
+      "country": "United States",
+      "aroma_profile": [
+        "Orange",
+        "Vanilla"
+      ],
+      "styles": [
+        "Barley Wine",
+        "Ipa",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Brewer\u2019S Gold",
+      "description": "Bred circa 1917 and first produced in 1919, Brewer\u2019s Gold is one of the first varieties to emerge from a UK breeding program by professor E.S. Salmon. It is an open pollinated seedling of a wild Manitoba hop. Brewer\u2019s Gold has a high resin content and provides well- balanced bitterness which is ideally complemented by late hop additions in lager beers.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Blackcurrant",
+        "Spicy"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "English-Style Ale",
+        "German-Style Ale"
+      ]
+    },
+    {
+      "name": "Brooklyn",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 2015, Brooklyn is a triploid variety from New Zealand Southern Cross and a selected New Zealand male. It is a big hop with high alpha acid content, however, sensory panels have also indicated the presence of grapefruit, tropical fruit and passionfruit characteristics.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Grapefruit",
+        "Passionfruit",
+        "Spice",
+        "Sweet Hay"
+      ],
+      "styles": [
+        "Double Ipa",
+        "Ipa"
+      ]
+    },
+    {
+      "name": "Bullion",
+      "description": "Recognized as one of the first super-alpha varieties, Bullion is a cross between Wild Manitoba BB1 and an English male hop. It was a major variety throughout the mid-1940s, however commercial production ceased in 1985 due to newer varieties with higher alpha acid content and better storage stability.",
+      "country": "United States",
+      "aroma_profile": [
+        "Blackcurrant",
+        "Zesty"
+      ],
+      "styles": [
+        "Dark Lager",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Cascade",
+      "description": "Originating from the USDA-ARA breeding program, Cascade is an aroma-type cultivar bred in 1956 and released in 1972. It was developed by open pollination of a Fuggle seedling. Cascade is the most popular variety in craft brewing and is known for having a unique floral, spicy and citrus character with balanced bittering potential.",
+      "country": "United States",
+      "aroma_profile": [
+        "Floral",
+        "Grapefruit",
+        "Pine"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Ipa"
+      ]
+    },
+    {
+      "name": "Cashmere",
+      "description": "Released by Washington State University in 2013, Cashmere is a daughter of Cascade, containing Northern Brewer germplasm through the male parent. It contains higher alpha acid content than Cascade and twice as much humulene providing smooth bitterness and a mild citrus fruit aroma.",
+      "country": "United States",
+      "aroma_profile": [
+        "Lemon",
+        "Lime",
+        "Melon",
+        "Spice"
+      ],
+      "styles": [
+        "Ipa"
+      ]
+    },
+    {
+      "name": "Celeia",
+      "description": "A hybrid of Styrian Golding, Aurora and a Slovenia wild hop, Celeia is known for its noble characteristics. It has widespread usage in lager and ale-style beers.",
+      "country": "Slovenia",
+      "aroma_profile": [
+        "Noble"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "Lager",
+        "Red Ale"
+      ]
+    },
+    {
+      "name": "Centennial",
+      "description": "Bred in 1974 and released by Washington State University in 1990, Centennial is an aroma-type cultivar that has found favor as one of the most popular varieties in craft brewing. It is often referred to as a super-Cascade (containing nearly double the alpha content) and can be used for bittering purposes. Centennial is a diploid cross between Brewer\u2019s Gold and a USDA male.",
+      "country": "United States",
+      "aroma_profile": [
+        "Floral",
+        "Lemon",
+        "Orange Blossom"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Ipa"
+      ]
+    },
+    {
+      "name": "Challenger",
+      "description": "Bred at Wye College and introduced in 1972, Challenger is a granddaughter of Northern Brewer and niece of Northdown. It is a versatile variety with wide application in both early and late kettle additions.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Cedar",
+        "Green Tea",
+        "Sweet Fruit"
+      ],
+      "styles": [
+        "Brown Ale",
+        "English-Style Ale",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Chelan",
+      "description": "Developed by John I Haas, Inc. and released in 1994, Chelan is similar to Galena but contains higher alpha acids.",
+      "country": "United States",
+      "aroma_profile": [
+        "Mild"
+      ],
+      "styles": [
+        "American-Style Ale"
+      ]
+    },
+    {
+      "name": "Chinook",
+      "description": "Developed by the USDA breeding program in Washington State and released in 1985 as a high alpha bittering variety, Chinook is a cross between Petham Golding and a USDA male. In recent years, it has found favor as a dual purpose hop in the craft brewing community as a result of its spice and pine aroma characteristics.",
+      "country": "United States",
+      "aroma_profile": [
+        "Grapefruit",
+        "Pine",
+        "Spicy"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Ipa",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Citra",
+      "hop_id": "HBC 394 CV",
+      "description": "Developed by Hop Breeding Company and released in 2007, Citra\u00ae HBC 394 cv. features high alpha acid and total oil content with a low percentage of co-humulone. It is one of the top ten aroma varieties for craft brewers imparting distinct citrus and tropical fruit flavors.",
+      "country": "United States",
+      "aroma_profile": [
+        "Gooseberry",
+        "Grapefruit",
+        "Lime",
+        "Melon",
+        "Passion Fruit"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Ipa"
+      ]
+    },
+    {
+      "name": "Cluster",
+      "description": "Cluster is one of the oldest hop varieties grown in the United States and until the late 1970s, accounted for the majority of the country\u2019s hop acreage. Its pedigree is unknown, however hybridization of imported varieties and indigenous male hops has been suggested. Cluster is an excellent dual purpose hop and is often used in the reproduction of historical beer styles.",
+      "country": "United States",
+      "aroma_profile": [
+        "Earthy",
+        "Floral",
+        "Sweet Fruit"
+      ],
+      "styles": [
+        "Lager",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Columbia",
+      "description": "Selected in 1967 at Oregon State University in Corvallis, Oregon, Columbia is a descendant of Fuggle and sister selection of Willamette. Commercial production was discontinued in the early 1980s in favor of Willamette, however small quantities are again being produced.",
+      "country": "United States",
+      "aroma_profile": [
+        "Noble"
+      ],
+      "styles": [
+        "English-Style Ale"
+      ]
+    },
+    {
+      "name": "Columbus",
+      "description": "Originally selected by Charles Zimmerman for Hopunion, Inc., Columbus is a descendant of Nugget. It is a high alpha variety and is primarily used for bittering purposes. Columbus is often referred to as CTZ, a trio of similar hops including Tomahawk\u00ae and Zeus.",
+      "country": "United States",
+      "aroma_profile": [
+        "Black Pepper",
+        "Dank",
+        "Red Fruit"
+      ],
+      "styles": [
+        "Imperial Ale",
+        "Ipa",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Comet",
+      "description": "Developed in 1961 and released in 1974 by the USDA, Comet was selected for its high alpha acid content and adaptability to growing conditions in the Yakima Valley. Commercial production ceased in the 1980s in favor of newer super-alpha hops. Comet has made a recent comeback, finding favor in dual purpose applications due to its unique \u201cwild American\u201d aroma.",
+      "country": "United States",
+      "aroma_profile": [
+        "Grapefruit",
+        "Grass",
+        "\u201cWild American\u201d"
+      ],
+      "styles": [
+        "Ale",
+        "Lager"
+      ]
+    },
+    {
+      "name": "Crystal",
+      "description": "Bred in 1983 by the USDA, Crystal is a triploid aroma-type cultivar from Hallertau Mittelfr\u00fch, Cascade, Brewer\u2019s Gold and Early Green. It is primarily grown in Oregon and has become increasingly popular among craft brewers due to its versatility in a variety of beer styles.",
+      "country": "United States",
+      "aroma_profile": [
+        "Green",
+        "Woody"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "English-Style Bitter",
+        "K\u00f6lsch",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Dana",
+      "description": "Developed as a cross between German Magnum and a wild Slovenian male, Dana displays subtle floral and citrus characteristics.",
+      "country": "Slovenia",
+      "aroma_profile": [
+        "Citrus",
+        "Floral"
+      ],
+      "styles": [
+        "Ipa",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Dr. Rudi",
+      "hop_id": "68-4-96",
+      "description": "Developed at the New Zealand Horticultural Research Centre (now New Zealand Institute for Plant and Food Research) and released in 1976 as \u201cSuper Alpha\u201d, Dr. Rudi\u2122 is a triploid variety bred from New Zealand Smoothcone. Its name was changed to Dr. Rudi\u2122 in 2012. Dr. Rudi\u2122 works well in single-hopped beers or in conjunction with multiple aroma varieties.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Lemongrass",
+        "Pine",
+        "Resin"
+      ],
+      "styles": [
+        "Ale",
+        "Lager"
+      ]
+    },
+    {
+      "name": "East Kent Golding",
+      "description": "Developed from wild Canterbury Whitebine and released to market in the late 1700s, East Kent Golding is the quintessential English variety. Its ideal application is late aroma hopping or post-fermentation.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Grapefruit",
+        "Honey",
+        "Lavender",
+        "Lemon",
+        "Orange",
+        "Thyme"
+      ],
+      "styles": [
+        "English-Style Ale",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Ekuanot",
+      "hop_id": "HBC 366 CV",
+      "description": "Developed by Hop Breeding Company and released in 2014, Ekuanot\u00ae HBC 366 cv. features pronounced aroma characteristics and extremely high oil content. This variety bursts out of the spring soil in vibrant yellow and gradually matures to a deep green color by Fall harvest.",
+      "country": "United States",
+      "aroma_profile": [
+        "Apple",
+        "Berry",
+        "Green Pepper",
+        "Lime",
+        "Mandarin Orange",
+        "Mango",
+        "Melon",
+        "Papaya"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "American-Style Ale",
+        "Belgian-Style Ale",
+        "Ipa"
+      ]
+    },
+    {
+      "name": "Ella",
+      "hop_id": "01-220-060",
+      "description": "Bred in 2001 and released in 2007, Ella\u2122 is a half-sister to Galaxy\u2122 and daughter of male parent Spalt. It is reminiscent of a noble variety in lower doses, but imparts strong tropical fruit flavors in larger additions.",
+      "country": "Australia",
+      "aroma_profile": [
+        "Floral",
+        "Grapefruit",
+        "Noble",
+        "Spicy",
+        "Star Anise"
+      ],
+      "styles": [
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "El Dorado",
+      "description": "El Dorado was developed in 2008, and released in 2010 by CLS Farms in the Moxee, Washington.",
+      "country": "United States",
+      "aroma_profile": [
+        "Apricot",
+        "Cherry",
+        "Citrus",
+        "Grass",
+        "Mint",
+        "Pear",
+        "Watermelon",
+        "Wood"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Blonde",
+        "Cream Ale",
+        "Ipa",
+        "Lager",
+        "Red Ale",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Endeavour",
+      "description": "Bred in 2002 at Wye College, Endeavour is a seedling of Cascade and granddaughter of Target. It provides a unique English flavor with notable citrus and red-fruit flavors.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Blackcurrant",
+        "Grapefruit",
+        "Lime",
+        "Loganberry",
+        "Spice"
+      ],
+      "styles": [
+        "English-Style Ale",
+        "Lager"
+      ]
+    },
+    {
+      "name": "Enigma",
+      "hop_id": "02-016-008",
+      "description": "Expanded in 2013, Enigma\u2122 is one of the newest Australian hops. It is a descendant of Swiss Tettnang, but offers many more diverse flavors than its heritage would suggest. Enigma\u2122 is an excellent choice for late additions and dry hop applications.",
+      "country": "Australia",
+      "aroma_profile": [
+        "Pinot Gris",
+        "Raspberry",
+        "Redcurrant",
+        "Tropical Fruit"
+      ],
+      "styles": [
+        "Amber",
+        "Ipa",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Epic",
+      "description": "Found as a chance seedling in 1987 and grown as an ornamental garden plant until 2004, Epic was expanded for commercial production in winter 2014-2015. The history of the field, combined with the oil composition of Epic, strongly suggests that the lineage includes Alliance hops. Early brewing experience indicated medium intensity, deep fruit and berry-like aromas without any citrus or floral notes. Epic is an excellent late aroma hop.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Berry",
+        "Fruity"
+      ],
+      "styles": [
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Eroica",
+      "description": "Released by the Idaho Agricultural Experiment Station, Oregon Agricultural Experiment Station, and USDA-ARS in 1982, Eroica is an open pollinated cross of Brewer\u2019s Gold. It is primarily a bittering hop, however some brewers have noted fruit forward flavors in late applications.",
+      "country": "United States",
+      "aroma_profile": [
+        "Fruit"
+      ],
+      "styles": [
+        "Amber",
+        "English-Style Bitter",
+        "Pale Ale",
+        "Porter"
+      ]
+    },
+    {
+      "name": "Falconer\u2019S Flight",
+      "is_blend": true,
+      "description": "Developed by Hopunion LLC in 2010, Falconer\u2019s Flight\u00ae hop pellets are an exclusive proprietary hop blend created to honor and support the legacy of Northwest brewing legend, Glen Hay Falconer. Proceeds from each Falconer\u2019s Flight\u00ae purchase is contributed to the Glen Hay Falconer Foundation. These hop pellets are an excellent complement to many IPA and Pale Ale-oriented hop varieties. Specific aroma descriptors include distinct tropical, floral, lemon and grapefruit characteristics.",
+      "country": "United States",
+      "aroma_profile": [
+        "Grapefruit",
+        "Lemon"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Ipa"
+      ]
+    },
+    {
+      "name": "Falconer\u2019S Flight 7Cs",
+      "is_blend": true,
+      "description": "This proprietary pellet blend combines seven \u201cC\u201d hops and additional experimental varieties. Like its predecessor, Falconer\u2019s Flight 7Cs\u00ae delivers strong fruit and citrus characteristics, but is layered with additional spicy, earthy overtones that allow it to function as the perfect addition to American-style ales.",
+      "country": "United States",
+      "aroma_profile": [
+        "Citrus",
+        "Earth",
+        "Fruit",
+        "Spice"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Double Ipa",
+        "Ipa"
+      ]
+    },
+    {
+      "name": "First Gold",
+      "description": "Bred at Wye College in 1995, First Gold is a cross between WGV (Whitbread Golding Variety) and a dwarf male. It features many of the flavor characteristics of WGV and has found favor in both general kettle and late or dry hopping applications.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Apricot",
+        "Geranium",
+        "Magnolia",
+        "Orange Marmalade",
+        "Tangerine"
+      ],
+      "styles": [
+        "Belgian-Style Blonde",
+        "Biere De Garde",
+        "Bitter",
+        "English-Style Ale",
+        "Saison"
+      ]
+    },
+    {
+      "name": "Fuggle",
+      "description": "Selected from a seedling in 1861 and released in 1875, Fuggle is the most revered and famous English variety. It is known for its classic English aroma and is often used in conjunction with Golding.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Floral",
+        "Grass",
+        "Green Tea",
+        "Mint"
+      ],
+      "styles": [
+        "Brown Ale",
+        "Enlgish-Style Bitter",
+        "Pale Ale",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Galaxy",
+      "hop_id": "94-203-008",
+      "description": "Commercially available since 2009, Galaxy\u2122 is the most internationally recognized Australian hop variety. Its lineage includes high alpha Australian hops and European cultivars, specifically German Perle.",
+      "country": "Australia",
+      "aroma_profile": [
+        "Clean Citrus",
+        "Passionfruit",
+        "Peach"
+      ],
+      "styles": [
+        "Ipa",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Galena",
+      "description": "Developed by the USDA breeding program in Idaho in 1968 and released in 1978, Galena is an open pollinated cross of Brewer\u2019s Gold. It is a high alpha variety with increasingly popular aroma characteristics.",
+      "country": "United States",
+      "aroma_profile": [
+        "Blackcurrant",
+        "Grapefruit",
+        "Lime",
+        "Pear",
+        "Pineapple"
+      ],
+      "styles": [
+        "American Ale",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Glacier",
+      "description": "Released in 2000 by Washington State University, Glacier is an offspring of French Elsasser, Brewer\u2019s Gold and Northern Brewer. It was selected for its good yield potential and low co-humulone, providing smoothness and balanced bitterness in beer.",
+      "country": "United States",
+      "aroma_profile": [
+        "Blackberry",
+        "Plum",
+        "Wood"
+      ],
+      "styles": [
+        "English-Style Bitter",
+        "English-Style Pale Ale",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Golding",
+      "description": "Golding hops consist of a group of traditional English aroma varieties which have been cultivated since 1790. The cultivar originated in England and was named after villages in East Kent (Petham, Rothersham, Canterbury, Eastwell). US Golding is the Canterbury strain.",
+      "country": "United States",
+      "aroma_profile": [
+        "Delicate",
+        "Sweet Floral"
+      ],
+      "styles": [
+        "Barley Wine",
+        "Bitter",
+        "Pale Ale",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Green Bullet",
+      "description": "Released in 1972 from the New Zealand DSIR (now New Zealand Institute for Plant and Food Research) Green Bullet is a triploid alpha variety bred by open pollination of the New Zealand \u201cSmoothcone\u201d variety. It is traditionally considered a bittering variety for lagers, but also carries a spicy characteristics typical of Slovenia hop varieties.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Dried Fruit",
+        "Floral",
+        "Spicy"
+      ],
+      "styles": [
+        "English-Style Bitter",
+        "Lager",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Hallertau",
+      "description": "US Hallertau originates from the classic Hallertau variety of Germany. It is a noble aroma variety. Despite low yield and low resistance to disease, Hallertau remains a historic hop and is often celebrated in the production of purist recipes and traditional beer styles.",
+      "country": "United States",
+      "aroma_profile": [
+        "Noble"
+      ],
+      "styles": [
+        "Bock",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Hallertau Blanc",
+      "description": "Bred at the Hop Research Institute in H\u00fcll and released in 2012, Hallertau Blanc was commercialized as a new, German aroma variety in response to growing demand from the craft beer industry for distinct flavor profiles. Hallertau Blanc is the daughter of Cascade and displays a wide variety of tropical fruit, stone fruit and citrus flavors.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Grape",
+        "Grapefruit",
+        "Lemongrass",
+        "Passion Fruit",
+        "Pineapple"
+      ],
+      "styles": [
+        "Ipa",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Helga\u00ad",
+      "hop_id": "A-86-29",
+      "description": "Bred in 1986 and formerly known as Southern Hallertau, Helga\u2122 is a descendant of Hallertau Mittelfr\u00fch. Its brewing characteristics resemble that of its parent, however it demonstrates a forgiving and refined character in a variety of beer styles and hop applications.",
+      "country": "Australia",
+      "aroma_profile": [
+        "Noble",
+        "Pleasant"
+      ],
+      "styles": [
+        "Ale",
+        "Lager"
+      ]
+    },
+    {
+      "name": "Herald",
+      "description": "Bred at Wye College and registered in 1996, Herald is a sister to Pioneer and Pilgrim hops. It is known for its clean bittering characteristics and fresh citrus flavors.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Grapefruit",
+        "Orange"
+      ],
+      "styles": [
+        "Dark Ale",
+        "English-Style Bitter",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Herkules",
+      "description": "Bred at the Hop Research Center in H\u00fcll and released in 2006, Herkules is a high alpha, bittering hop that holds true to its name. It is a daughter of Taurus with some citrus and melon characteristics.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Melon",
+        "Robust"
+      ],
+      "styles": [
+        "Ale",
+        "Altbier",
+        "German-Style Lager"
+      ]
+    },
+    {
+      "name": "Hersbrucker",
+      "description": "A landrace variety originating from the Hersbruck region of Southern Germany, Hersbrucker has expanded and is now widely grown throughout the Hallertau and Spalt regions. It displays a delicate aroma profile that is often compared to other noble varieties.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Hay",
+        "Orange",
+        "Tobacco"
+      ],
+      "styles": [
+        "Bock",
+        "Helles",
+        "K\u00f6lsch",
+        "Lager",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Horizon",
+      "description": "Bred in Oregon in 1970 and released in 1997, Horizon is a descendant of Brewer\u2019s Gold and half-sister to Nugget. Its low co-humulone is similar to noble varieties and provides smoothness to beer, however alpha acid levels can reach as high as 12%. Horizon can be utilized in every stage of the brewing process.",
+      "country": "United States",
+      "aroma_profile": [
+        "Floral Bouquet",
+        "Spicy"
+      ],
+      "styles": [
+        "Ale",
+        "Lager"
+      ]
+    },
+    {
+      "name": "Huell Melon",
+      "description": "Bred at the Hop Research Institute in H\u00fcll and released in 2012, Huell (H\u00fcll) Melon was commercialized as a new, German aroma variety in response to growing demand from the craft beer industry for distinct flavor profiles. It displays bold flavors that are not associated with typical hop variety aromas and has found favor in many hop forward, IPA and pale ale beer styles.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Honeydew Melon",
+        "Orange",
+        "Strawberry",
+        "Tropical Fruit",
+        "Vanilla"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "Pale Ale",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Idaho 7",
+      "description": "Idaho 7\u2122 was bred and released by Jackson Farms near Boise, Idaho. Idaho 7\u2122 presents as pungent tropical fruit and citrus (think apricot, orange, red grapefruit, papaya) with big notes of resiny pine and hints of black tea.",
+      "country": "United States",
+      "aroma_profile": [
+        "Black Tea",
+        "Mango",
+        "Peach",
+        "Pine",
+        "Pineapple",
+        "Resin"
+      ],
+      "styles": [
+        "Ipa",
+        "Pale Ale",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Independence",
+      "is_blend": true,
+      "description": "Paying homage to the classic hops, Independence blend merges old world with new world spirit giving a truly American aroma and flavor profile. Bringing forth tobacco, earthy, pine and grassy notes with citrus and herbs to support the aroma profile, Independence symbolizes the pioneer spirit carried through the many generations of growers in the Pacific Northwest.",
+      "country": "United States",
+      "aroma_profile": [
+        "Citrus",
+        "Earth",
+        "Floral",
+        "Grass",
+        "Herbal",
+        "Pine",
+        "Stone Fruit",
+        "Tobacco"
+      ],
+      "styles": [
+        "American-Style Pilsner, Lager,",
+        "Blonde & Pale Ale"
+      ]
+    },
+    {
+      "name": "Jarrylo",
+      "hop_id": "ADHA 881",
+      "description": "Jarrylo\u00ae is named after Jarilo, the Slavic god of fertility and springtime. Jarrylo\u2019s\u00ae banana, pear, spice aroma translates perfectly to Pale Ales, Saisons and Belgians.",
+      "country": "United States",
+      "aroma_profile": [
+        "Banana",
+        "Fruit",
+        "Grass",
+        "Orange",
+        "Pear",
+        "Spicy"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "Pale Ale",
+        "Saison"
+      ]
+    },
+    {
+      "name": "Kazbek",
+      "description": "Selected from breeding material with origin in Russian wild hops, Kazbek was released in 2008. It is named after the highest peak within the middle Caucasus mountain range.",
+      "country": "Czech Republic",
+      "aroma_profile": [
+        "Lemon",
+        "Spicy"
+      ],
+      "styles": [
+        "Ipa",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Kohatu",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 2011, Kohatu\u00ae is a descendant of Hallertau Mittelfr\u00fch. It works well in single hop applications and is described as having intense fruit characteristics.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Tropical Fruit"
+      ],
+      "styles": [
+        "Pale Ale",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Liberty",
+      "description": "Bred in 1983, Liberty is an extension of the Hallertau hop family. It is a half-sister to Ultra, Mt. Hood and Crystal. It displays mild floral and spice characteristics with some subtle citrus notes.",
+      "country": "United States",
+      "aroma_profile": [
+        "Delicate",
+        "Floral",
+        "Herbal",
+        "Lemon",
+        "Noble",
+        "Spicy"
+      ],
+      "styles": [
+        "Bock",
+        "K\u00f6lsch",
+        "Lager",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Loral",
+      "hop_id": "HBC 291 CV.",
+      "description": "Developed by Hop Breeding Company and released in 2016, Loral\u00ae HBC 291 has a noble heritage that straddles the fence between old and new world hop aromatics. It has the ability to complement all beer styles, making it a very versatile hop in the brewery.",
+      "country": "United States",
+      "aroma_profile": [
+        "Citrus",
+        "Dark Fruit",
+        "Floral",
+        "Lemon-",
+        "Pepper"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Belgian-Style Ale",
+        "Ipa",
+        "Pilsner",
+        "Saison",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Magnum",
+      "description": "Bred at the Hop Research Center in H\u00fcll in 1980 and released in 1993, Magnum is a daughter of Galena. It is a high alpha variety with some spice and fruit characteristics.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Apple",
+        "Pepper"
+      ],
+      "styles": [
+        "Ipa",
+        "Lager",
+        "Pilsner",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Mandarina Bavaria",
+      "description": "Bred at the Hop Research Institute in H\u00fcll and released in 2012, Mandarina Bavaria was commercialized as a new, German aroma variety in response to growing demand from the craft beer industry for distinct flavor profiles. It is the daughter of Cascade and displays many citrus characteristics, however, the most notable aroma is tangerine.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Grapefruit",
+        "Lime",
+        "Tangerine"
+      ],
+      "styles": [
+        "Ipa",
+        "Saison"
+      ]
+    },
+    {
+      "name": "Merkur",
+      "description": "Bred at the Hop Research Institute in H\u00fcll and registered in 2001, Merkur was the first mildew- resistant hop variety from the research center. It is a cross between Magnum and German experimental variety 81/8/13. It is a high alpha variety with low co-humulone oil percentages. In some dual purpose applications, Merkur displays subtle earth and citrus notes.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Mint",
+        "Pineapple",
+        "Sugar"
+      ],
+      "styles": [
+        "Lager",
+        "Pilsner",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Millennium",
+      "description": "Bred by the John I. Haas breeding program and released in 2000, Millennium is a super- alpha variety with mild herbal aromas. It is a descendant of Nugget.",
+      "country": "United States",
+      "aroma_profile": [
+        "Floral",
+        "Herbal",
+        "Pear",
+        "Resin"
+      ],
+      "styles": [
+        "Ale",
+        "Barley Wine",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Mittelfr\u00fch",
+      "description": "Despite being grown in regions throughout Germany, Mittelfr\u00fch is commonly referred to as \u201cHallertau Mittelfr\u00fch\u201d as it was once the major Hallertau landrace variety. It is a classic German aroma hop associated with Bavarian-style lager beers, however, due to disease, acreage has been decreasing. Mittelfr\u00fch is distinguished by an intense, pleasantly-harmonic bitterness.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Citrus",
+        "Grass",
+        "Tea"
+      ],
+      "styles": [
+        "Cask-Conditioned Ale",
+        "Lager",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Mosaic",
+      "hop_id": "HBC 369 CV",
+      "description": "Developed by Hop Breeding Company and released in 2012, Mosaic\u00ae HBC 369 cv. contains high alpha content and features a unique and complex aroma profile that translates favorably into a variety of beer styles. It is a daughter of Simcoe\u00ae YCR 14 cv. and a Nugget derived male. Mosaic\u00ae is named in honor of the artistic assortment of aromas and flavors it is capable of presenting.",
+      "country": "United States",
+      "aroma_profile": [
+        "Blossom",
+        "Blueberry",
+        "Bubble Gum",
+        "Papaya",
+        "Rose",
+        "Tangerine"
+      ],
+      "styles": [
+        "Ipa",
+        "Pale Ale",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Motueka",
+      "hop_id": "87.14-20",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 1996, Motueka\u2122 is a cross between a New Zealand breeding selection and Saaz. It offers a unique aroma and flavor profile suitable for producing big beer styles. Motueka\u2122 performs well when used in multiple additions from a single hop bill.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Lemon",
+        "Lime",
+        "Tropical Fruit"
+      ],
+      "styles": [
+        "English-Style Ale",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Mt. Hood",
+      "description": "Bred in 1983 and released from the USDA breeding program in Oregon in 1989, Mt. Hood is a triploid aroma-type cultivar with similarities to German Hallertau and German Hersbrucker. It is named after the famous Oregon volcano.",
+      "country": "United States",
+      "aroma_profile": [
+        "Pungent"
+      ],
+      "styles": [
+        "Altbier",
+        "Bock",
+        "Helles",
+        "Lager",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Mt. Rainier",
+      "description": "Bred by Oregon State University, Mt. Rainier is a dual purpose variety with noble aroma characteristics. It is similar to the classic German variety, Hallertau Mittelfr\u00fch, but features more bittering strength.",
+      "country": "United States",
+      "aroma_profile": [
+        "Floral",
+        "Licorice",
+        "Noble"
+      ],
+      "styles": [
+        "American-Style Ale",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Nelson Sauvin",
+      "hop_id": "85-03-06",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 2000, Nelson Sauvin\u2122 is a triploid variety bred from the New Zealand Smoothcone and a selected New Zealand male. It is known for being one of the most unique hop varieties, displaying strong fruit and white wine aroma characteristics.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Gooseberry",
+        "Grape",
+        "Sauvignon Blanc",
+        "White Wine"
+      ],
+      "styles": [
+        "Ipa",
+        "Lager",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Newport",
+      "description": "Bred in 1992 by Oregon State University and released in 1992 through the USDA, Newport is a descendant of the classic bittering variety, Magnum. It contains high alpha acid, co-humulone and myrcene content, offering more distinct aroma characteristics than its parent.",
+      "country": "United States",
+      "aroma_profile": [
+        "Balsamic",
+        "Wine"
+      ],
+      "styles": [
+        "American-Style Ale",
+        "Barley Wine",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Northdown",
+      "description": "Bred at Wye College in 1970, Northdown is a cross between Northern Brewer and a German male. It is known for its fresh, yet rich flavor.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Berry",
+        "Cedar",
+        "Floral",
+        "Pine"
+      ],
+      "styles": [
+        "Ale",
+        "Barley Wine",
+        "Bock",
+        "Lager",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Northern Brewer",
+      "description": "Originally bred in England in 1934, Northern Brewer is a cross between Canterbury Golding and a male seedling of Brewer\u2019s Gold. It was originally grown in the North of England, but has become one of the main varieties in the Hallertau region of Germany. Northern Brewer displays pleasant pine and mint characteristics in dual purpose brewing applications.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Grass",
+        "Mint",
+        "Pine"
+      ],
+      "styles": [
+        "English-Style Bitter",
+        "English-Style Pale Ale",
+        "Porter"
+      ]
+    },
+    {
+      "name": "Nugget",
+      "description": "Bred in 1970 by the USDA breeding program in Oregon and released in 1983, Nugget is a high alpha cultivar that is beginning to gain some acceptance as a dual purpose variety. Its lineage includes Brewer\u2019s Gold, Canterbury Golding and Early Green.",
+      "country": "United States",
+      "aroma_profile": [
+        "Ginger",
+        "Green",
+        "Wood"
+      ],
+      "styles": [
+        "Esb",
+        "Lager",
+        "Pale Ale",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Olympic",
+      "description": "Released for commercial production in 1983, Olympic is a descendant of Brewer\u2019s Gold, Fuggle and East Kent Golding. It is primarily used as a bittering hop, however some subtle citrus and spice aroma characteristics have been noted.",
+      "country": "United States",
+      "aroma_profile": [
+        "Citrus",
+        "Spicy"
+      ],
+      "styles": [
+        "American-Style Ale",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Opal",
+      "description": "Bred at the Hop Research Institute in H\u00fcll, Opal is a daughter of Hallertau Gold. It is specifically known for its sweet and spicy characteristics, providing subtle pepper and clean citrus flavors.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Anise",
+        "Clean Citrus",
+        "Pepper",
+        "Sweet Spice"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "Summer Ale",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Orion",
+      "description": "Orion is a cross between German Perle and 70/10/15M; it is a half-sister to Challenger. Acreage and availability are limited.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Spicy"
+      ],
+      "styles": [
+        "Dunkel",
+        "German-Style Ale",
+        "Helles",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Pacifica",
+      "hop_id": "77-01",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 1993, Pacifica\u2122 was bred through open pollination of Hallertau Mittelfr\u00fch. It displays classic Hallertau citrus and floral aroma characters but brings a blend of new and old-world taste descriptors to the brewers\u2019 forum.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Marmalade",
+        "Orange Zest"
+      ],
+      "styles": [
+        "Ipa",
+        "Lager",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Pacific Crest",
+      "is_blend": true,
+      "description": "This blend connects the classic noble varieties with an American influence. Bringing together grassy, earthy and tobacco characteristics with mild floral, spicy, herbal and pine. Pacific Crest works well in Pilsner, Lager and Pale Ales.",
+      "country": "United States",
+      "aroma_profile": [
+        "Earthy",
+        "Floral",
+        "Grass",
+        "Herbal",
+        "Spicy"
+      ],
+      "styles": [
+        "Blonde Ale",
+        "Lager",
+        "Pale Ale",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Pacific Gem",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 1987, Pacific Gem is a triploid alpha variety from New Zealand Smoothcone crossed with Californian Late Cluster and Fuggle. It is typically used as a first hop addition for bittering purposes, but is known for showcasing wood and blackberry flavors.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Blackberry",
+        "Oak"
+      ],
+      "styles": [
+        "Ipa",
+        "Lager",
+        "Porter"
+      ]
+    },
+    {
+      "name": "Pacific Jade",
+      "hop_id": "HORT1524",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 2004, Pacific Jade\u2122 is a cross of New Zealand First Choice (a relative of the Late Cluster) and a Saaz male. It is suited for use as a bittering hop but also delivers bold citrus and spice aroma characteristics.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Black Pepper",
+        "Fresh Citrus"
+      ],
+      "styles": [
+        "Ale",
+        "Lager",
+        "Porter"
+      ]
+    },
+    {
+      "name": "Pahto",
+      "hop_id": "HBC 682 CV",
+      "description": "Pahto\u2122 is a super alpha hop that consistently delivers a clean and smooth canvas of bitterness for the boil. The Pahto story is every bit as refreshing. Snow melt from Pahto (the native name for Mt. Adams) and the neighboring Cascades provides irrigation for farms and ranches throughout the Yakima Valley.",
+      "country": "United States",
+      "aroma_profile": [
+        "Earthy",
+        "Floral",
+        "Herbal"
+      ],
+      "styles": [
+        "Ipa",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Palisade",
+      "hop_id": "YCR 4 CV",
+      "description": "Developed by Yakima Chief Ranches, Palisade\u00ae YCR 4 cv. is known for its high yield and unique aroma profile. With moderate alpha acid, Palisade\u00ae borders on being a dual purpose hop, however, more complex characteristics are seen in later additions.",
+      "country": "United States",
+      "aroma_profile": [
+        "Apricot",
+        "Clean",
+        "Floral",
+        "Grass"
+      ],
+      "styles": [
+        "American-Style Ale",
+        "English-Style Ale",
+        "Lager"
+      ]
+    },
+    {
+      "name": "Pekko",
+      "hop_id": "ADHA 871",
+      "description": "Pekko\u00ae is named for the Finnish God of Field and Crops. Pekko\u2019s\u00ae complex and clean characteristics of floral, citrus, and mint lend itself to many different styles of beer.",
+      "country": "United States",
+      "aroma_profile": [
+        "Clean",
+        "Cucumber",
+        "Floral",
+        "Herbal",
+        "Lemon",
+        "Melon",
+        "Mint",
+        "Pear",
+        "Pineapple",
+        "Saaz-Like",
+        "Sage"
+      ],
+      "styles": [
+        "All Styles"
+      ]
+    },
+    {
+      "name": "Perle",
+      "description": "Bred at the Hop Research Institute in H\u00fcll and released in 1978, Perle is a descendant of Northern Brewer. It demonstrates good tolerance to most diseases, being grown in Germany and the United States.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Mint",
+        "Pepper",
+        "Tea"
+      ],
+      "styles": [
+        "K\u00f6lsch",
+        "Lager",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Phoenix",
+      "description": "Bred at Wye College and released in 1996, Phoenix is a seedling of Yeoman. In brewing trials, Phoenix has produced excellent results in both bittering and flavor applications.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Chocolate",
+        "Floral",
+        "Spicy"
+      ],
+      "styles": [
+        "English-Style Bitter",
+        "Helles",
+        "Lager",
+        "Pale Ale",
+        "Saison",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Pilgrim",
+      "description": "Bred at Wye College in the late 1990s and released in 2001, Pilgrim is half-sister to First Gold and sister to Herald. It is often compared to Target. Pilgrim\u2019s selinene content helps enhance brewing performance and produce a \u201choppier\u201d aroma.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Berry",
+        "Grapefruit",
+        "Lemon",
+        "Pear"
+      ],
+      "styles": [
+        "Ale",
+        "Helles",
+        "Lager",
+        "Stout",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Pilot",
+      "description": "Bred at Wye College and released in 2001, Pilot is a result of open pollination of Pioneer. It is known for its distinct marmalade flavor and complete aroma profile being distinctively different than other UK varieties.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Lemon",
+        "Marmalade",
+        "Spice"
+      ],
+      "styles": [
+        "American-Style Ale",
+        "English-Style Ale"
+      ]
+    },
+    {
+      "name": "Pioneer",
+      "description": "Bred at Wye College and released in 1996, Pioneer is a sister to Herald. It displays a distinctly \u201choppy\u201d aroma with crisp and refreshing bittering characteristics.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Cedar",
+        "Grapefruit",
+        "Herbal",
+        "Lemon"
+      ],
+      "styles": [
+        "English-Style Ale",
+        "English-Style Bitter",
+        "Red Ale"
+      ]
+    },
+    {
+      "name": "Polaris",
+      "description": "Bred at the Hop Research Institute in H\u00fcll and released in 2012, Polaris was commercialized as a new, German variety in response to growing demand from the craft beer industry for distinct flavor profiles. It features extremely high alpha content along with intense mint flavors.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Menthol",
+        "Mint",
+        "Pineapple"
+      ],
+      "styles": [
+        "Double Ipa",
+        "Ipa",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Premiant",
+      "description": "Bred from Saaz and released in 1996, Premiant has a relatively high alpha content for Czech varieties. As a result, it has found some application as a dual purpose variety.",
+      "country": "Czech Republic",
+      "aroma_profile": [
+        "Mild",
+        "Pleasant"
+      ],
+      "styles": [
+        "Ale",
+        "Lager",
+        "Saison"
+      ]
+    },
+    {
+      "name": "Pride Of Ringwood",
+      "description": "Bred in 1953 and commercially grown since the 1960s. One of Australia\u2019s most known and utilized hop varieties. Predominantly used for early kettle additions.",
+      "country": "Australia",
+      "aroma_profile": [
+        "Cedar",
+        "Oak"
+      ],
+      "styles": [
+        "Lager",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Progress",
+      "description": "Bred at Wye College in 1951 and released in 1964, Progress is a cross between WGV (Whitbread Golding Variety) and a wild, American male hop. It was originally introduced as an alternative to Fuggle, but showcases a slightly sweeter aroma.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Blackcurrant",
+        "Grass",
+        "Honey",
+        "Mint",
+        "Sweet"
+      ],
+      "styles": [
+        "English-Style Ale",
+        "English-Style Bitter",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Rakau",
+      "hop_id": "70-4-9",
+      "description": "Re-released in 2007 from the New Zealand hop breeding program, Rakau\u2122 is often described as \u201cthe whole orchard.\u201d It is often used in New World styles where brash fruity character and big but well constructed bitterness is desired. Rakau\u2122 performs best when used in combination of late additions and dry hopping.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Apricot",
+        "Fig",
+        "Pine Needle",
+        "Resin",
+        "Stone Fruit"
+      ],
+      "styles": [
+        "Ipa",
+        "Lager",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Riwaka",
+      "hop_id": "85.6-23",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 1996, Riwaka\u2122 is a triploid aroma variety bred from \u201cOld Line\u201d Saaz and New Zealand breeding selections. It is a quintessential New Zealand variety. Riwaka\u2122 is a bold, fruity hop that is best suited for IPA and Imperial beer styles.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Citrus",
+        "Grapefruit"
+      ],
+      "styles": [
+        "Double Ipa",
+        "Ipa",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Saaz",
+      "description": "A Czech Republic landrace variety, Saaz is the most classic \u201cnoble\u201d aroma hop with longstanding and strong traditions. It is associated with and defines Czech-style pilsners.",
+      "country": "Czech Republic",
+      "aroma_profile": [
+        "Mild",
+        "Pleasant"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Sabro",
+      "hop_id": "HBC 438 CV",
+      "description": "Sabro\u2122 HBC 438 cv. is the newest release from the Hop Breeding Company. Sabro\u2122 is an aroma hop that is notable for its complexity of fruity and citrus flavors. Sabro\u2019s\u2122\u00adpedigree is the result of a unique cross pollination of a female neomexicanus hop. With a robust brewing performance, Sabro\u2122 proves to be a strongly expressive hop that translates its flavor incredibly well into beer.",
+      "country": "United States",
+      "aroma_profile": [
+        "Citrus",
+        "Coconut",
+        "Herbal",
+        "Stone Fruit",
+        "Tropical Fruit"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Fruit Beer",
+        "Ipa",
+        "Porter",
+        "Saison",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Santiam",
+      "description": "Released in 1997 by the USDA, Santiam is a triploid selection from Tettnang, Hallertau Mittelfr\u00fch and a cultivar derived from Cascade. It is an American aroma variety with noble hop characteristics.",
+      "country": "United States",
+      "aroma_profile": [
+        "Black Pepper",
+        "Floral",
+        "Spicy"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "Bock",
+        "Helles",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Saphir",
+      "description": "Bred at the Hop Research Institute in H\u00fcll and released in 2002, Saphir is an aroma variety with a distinct hoppy tang.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Floral",
+        "Spicy"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "German-Style Lager",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Savinjski Golding",
+      "description": "Originating from UK Fuggle, Styrian Savinjski Golding is a traditional Slovenian variety with pleasant bittering and noble aroma characteristics.",
+      "country": "Slovenia",
+      "aroma_profile": [
+        "Noble"
+      ],
+      "styles": [
+        "Ale",
+        "Barley Wine",
+        "Bitter",
+        "Lager",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Select",
+      "description": "Bred at the Hop Research Center in H\u00fcll and released in 1993, Select is often referred to as \u201cSpalter Select.\u201d It was bred to be like the Spalt, Tettnang, and Saaz groups.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Grass",
+        "Spicy"
+      ],
+      "styles": [
+        "German-Style Ale",
+        "Lager"
+      ]
+    },
+    {
+      "name": "Simcoe",
+      "hop_id": "YCR 14 CV",
+      "description": "Developed by Yakima Chief Ranches and released in 2000, Simcoe\u00ae YCR 14 cv. is known for its brewing versatility and unique aroma characteristics. It continues to rise in popularity becoming one of the top ten varieties in the craft and home brewing industries.",
+      "country": "United States",
+      "aroma_profile": [
+        "Berry",
+        "Bubble Gum",
+        "Citrus",
+        "Earth",
+        "Passion Fruit",
+        "Pine"
+      ],
+      "styles": [
+        "Amber",
+        "American Pale Ale",
+        "Ipa",
+        "Saison",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Sl\u00e1dek",
+      "description": "A hybrid aroma variety of Saaz-type and Northern Brewer, Sl\u00e1dek displays noble characteristics with a fruity twist. Its name is derived from the Czech word meaning \u201cbeer brewer.\u201d Sl\u00e1dek is noted to be a good complement to Saaz in late-hopping applications.",
+      "country": "Czech Republic",
+      "aroma_profile": [
+        "Grapefruit",
+        "Passion Fruit",
+        "Peach"
+      ],
+      "styles": [
+        "Blonde Ale",
+        "Ipa",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Smaragd",
+      "description": "Bred at the Hop Research Institute in H\u00fcll, Smaragd is a fine aroma variety with many noble characteristics. It was formerly known as Emerald.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Anise",
+        "Clove",
+        "Tobacco"
+      ],
+      "styles": [
+        "Ale",
+        "Altbier",
+        "K\u00f6lsch"
+      ]
+    },
+    {
+      "name": "Sorachi Ace",
+      "description": "Developed in Japan in 1984 for Sapporo Breweries, Ltd., Sorachi Ace is a cross between Brewer\u2019s Gold, Saaz and Beikei No. 2 male. It is available in limited quantities, however, it remains a popular variety among craft brewers for its unique citrus fruit, herbal and dill aromas.",
+      "country": "United States",
+      "aroma_profile": [
+        "Dill",
+        "Lemon",
+        "Lime"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Belgian-Style Ale",
+        "Ipa",
+        "Lager",
+        "Saison"
+      ]
+    },
+    {
+      "name": "Southern Cross",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 1994, Southern Cross is a triploid cross between New Zealand Smoothcone and a 1950\u2019s research variety bred from a crossing of Californian and English Fuggle. It has excellent essential oils and low co-humulone delivering a delicate balance of citrus and spice when added at the end of boil.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Lemon Peel",
+        "Lime",
+        "Pine",
+        "Tropical Fruit"
+      ],
+      "styles": [
+        "Lager",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Sovereign",
+      "description": "Bred at Wye College in 1995 and released in 2004, Sovereign is a dwarf variety bred by open pollination. It is a granddaughter of Pioneer. Sovereign is often used in conjunction with Goldings in English-style beers.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Floral",
+        "Grass",
+        "Herbal",
+        "Mint",
+        "Pear"
+      ],
+      "styles": [
+        "English-Style Bitter",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Spalt",
+      "description": "A landrace variety originating from the Spalt region in Southern Germany, Spalt (or Spalter) is an aroma variety with characteristics similar to German Tettnang. It belongs to the Saaz group and displays fine, noble characteristics.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Noble"
+      ],
+      "styles": [
+        "Altbier",
+        "Bock",
+        "Helles",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Sterling",
+      "description": "Bred in 1990 and released in 1998, Sterling is an aroma variety with noble hop characteristics. Its lineage includes Saaz, Cascade, Brewer\u2019s Gold and Early Green.",
+      "country": "United States",
+      "aroma_profile": [
+        "Floral",
+        "Herbal",
+        "Noble",
+        "Spicy"
+      ],
+      "styles": [
+        "Lager",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Sticklebract",
+      "description": "Developed by New Zealand Horticultural Research Center at Riwaka (now New Zealand Institute for Plant and Food Research) and released in 1972, Sticklebract is a result of open pollination of New Zealand First Choice. It was originally released as a high alpha bittering hop, but has become a dual purpose variety characterized by citrus and pine flavors.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Citrus",
+        "Pine"
+      ],
+      "styles": [
+        "English Pale Ale",
+        "English-Style Bitter",
+        "Ipa",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Strisselspalt",
+      "description": "A traditional landrace variety from the Alsace region in France, near Strasbourg, Strisselspalt is globally accepted as a classic, noble variety. Its aroma is delicate with floral, spicy, herbal and subtle citrus notes.",
+      "country": "France",
+      "aroma_profile": [
+        "Floral",
+        "Grapefruit",
+        "Grass",
+        "Herbal",
+        "Spicy"
+      ],
+      "styles": [
+        "Belgian-Style Pale Ale",
+        "Biere De Garde",
+        "Lager",
+        "Saison"
+      ]
+    },
+    {
+      "name": "Summer",
+      "description": "Bred in 1997 at Tasmanian Bushy Park Breeding Garden, Summer\u2122 is the result of open pollination of a tetraploid Czech Saaz. It features balanced citrus and stone fruit flavors, but showcases distinct apricot and melon characteristics in dry hopping applications.",
+      "country": "Australia",
+      "aroma_profile": [
+        "Apricot",
+        "Melon"
+      ],
+      "styles": [
+        "Ale",
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Summit",
+      "description": "Bred by the American Dwarf Hop Association and released in 2003, Summit\u2122 is a cross between Lexus and an unspecified male derived from numerous hops including Zeus, Nugget and male USDA varieties. It is the first dwarf hop to be bred for production in the United States. Summit\u2122 is mainly used as a bittering hop, but does have earthy aromatic characteristics and subtle hints of citrus.",
+      "country": "United States",
+      "aroma_profile": [
+        "Anise",
+        "Incense",
+        "Orange",
+        "Pepper",
+        "Pink Grapefruit",
+        "Tangerine"
+      ],
+      "styles": [
+        "Double Ipa",
+        "Ipa",
+        "Pale Ale",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Super Pride",
+      "description": "Bred in 1987 at the Rostrevor Breeding Garden in Victoria and released in 1995, Super Pride is a daughter of Pride of Ringwood. It is predominantly used as a bittering hop, but offers a subtle resin and fruit characteristic as well.",
+      "country": "Australia",
+      "aroma_profile": [
+        "Fruit",
+        "Resin"
+      ],
+      "styles": [
+        "Bock",
+        "Ipa",
+        "Lager",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Sussex",
+      "description": "Discovered in 2005 at Gate Court, Northiam in East Sussex, Sussex is a \u201cchance find\u201d variety. It is likely to have resulted from open pollination of a wild hop.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Citrus",
+        "Earthy",
+        "Grass",
+        "Mint",
+        "Vanilla"
+      ],
+      "styles": [
+        "Ale"
+      ]
+    },
+    {
+      "name": "Sylva",
+      "description": "Bred in 1997 at Tasmanian Bushy Park Breeding Garden, Sylva\u2122 is a result of open pollination of Czech Saaz. Brewing characteristics closely resemble that of its parent, with complex yet subtle floral and herbal characteristics.",
+      "country": "Australia",
+      "aroma_profile": [
+        "Floral",
+        "Herbal",
+        "Noble"
+      ],
+      "styles": [
+        "Lager",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Tahoma",
+      "description": "Released by Washington State University in 2013, Tahoma is a daughter of Glacier. It retains the low co-humulone characteristic of Glacier but displays slightly higher alpha acid content. Tahoma is considered to be \u201cCascade-like\u201d with a pleasant, predominantly citrus aroma profile.",
+      "country": "United States",
+      "aroma_profile": [
+        "Cedar",
+        "Floral",
+        "Grapefruit",
+        "Green Melon",
+        "Lemon",
+        "Pepper",
+        "Pine"
+      ],
+      "styles": [
+        "American-Style Pale Ale",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Target",
+      "description": "Bred at Wye College and released in 1972, Target is a second generation selection from Northern Brewer and a male Eastwell Golding; it is a cousin to Challenger. As a dual purpose variety, Target provides strong bittering characteristics and is unusually effective in dry hop applications compared to other English varieties.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Citrus Marmalade",
+        "Pepper",
+        "Sage",
+        "Tangerine"
+      ],
+      "styles": [
+        "Brown Ale",
+        "English-Style Ale",
+        "Lager",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Taurus",
+      "description": "Bred at the Hop Research Center in H\u00fcll and released in 1995, Taurus is a high alpha cross with noble aroma characteristics. It has good pickability of small, compact cones.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Blackcurrant",
+        "Pepper",
+        "Zesty"
+      ],
+      "styles": [
+        "German-Style Ale",
+        "Lager"
+      ]
+    },
+    {
+      "name": "Tettnang",
+      "description": "A landrace variety originating from the Tettnang region on Lake Constance in Germany, Tettnang (or Tettnanger) is from the Saaz group. It displays fine, noble characteristics with a slight spiciness.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Black Tea",
+        "Pepper",
+        "Spicy"
+      ],
+      "styles": [
+        "German-Style Ale",
+        "Lager",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Tomahawk",
+      "hop_id": "F10 CV",
+      "description": "Bred by Charles Zimmermann, Tomahawk\u00ae F10 cv. was the first commercially grown \u201cSuper Alpha\u201d variety. Tomahawk\u00ae is often referred to as CTZ, a trio of similar hops including Columbus and Zeus.",
+      "country": "United States",
+      "aroma_profile": [
+        "Black Pepper",
+        "Curry",
+        "Licorice",
+        "Pungent"
+      ],
+      "styles": [
+        "Imperial Ale",
+        "Ipa",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Topaz",
+      "hop_id": "TC-85-70",
+      "description": "Bred during the 1980s, Topaz\u2122 did not find popularity within the brewing community until 2007-2008. Its ancestry includes an existing high alpha Australian variety crossed with a Wye College male. Topaz\u2122 is known for its single hop applications, producing resinous, grass and tropical fruit flavors.",
+      "country": "Australia",
+      "aroma_profile": [
+        "Grass",
+        "Lychee",
+        "Resin"
+      ],
+      "styles": [
+        "Amber",
+        "Ipa",
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Tradition",
+      "description": "Bred at the Hop Research Institute in H\u00fcll and registered in 1993, Tradition is a daughter of Hallertau Gold. It is often compared to Mittelfr\u00fch, displaying fine, noble characteristics with a fruity twist.",
+      "country": "Germany",
+      "aroma_profile": [
+        "Grass",
+        "Lavender",
+        "Orange",
+        "Tea"
+      ],
+      "styles": [
+        "German-Style Lager",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Triplepearl",
+      "description": "Released by USDA-ARS in 2013, TriplePearl is an open pollinated cross between a tetraploid Perle female and an unknown diploid male. Its lineage includes Northern Brewer and Hallertau. TriplePearl is similar to Perle but features more pronounced aroma characteristics.",
+      "country": "United States",
+      "aroma_profile": [
+        "Melon",
+        "Orange",
+        "Pepper",
+        "Resin",
+        "Spice"
+      ],
+      "styles": [
+        "Pale Ale"
+      ]
+    },
+    {
+      "name": "Triskel",
+      "description": "Developed in 2006 as a cross between Strisselspalt and Yeoman, Triskel contains many of the same characteristics as Strisselspalt but displays a more pronounced flavor profile.",
+      "country": "France",
+      "aroma_profile": [
+        "Citrus",
+        "Floral",
+        "Herbal",
+        "Spicy"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "Lager",
+        "Pale Ale",
+        "Pilsner",
+        "Saison",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Ultra",
+      "description": "Bred by the hops research program in Corvallis, Oregon in 1983 and released in 1995 by the USDA, Ultra is a triploid seedling of Hallertau Mittelfr\u00fch and half sister to Mt. Hood, Liberty and Crystal. Ultra is related to traditional German varieties and can be utilized in similar applications.",
+      "country": "United States",
+      "aroma_profile": [
+        "Floral Bouquet",
+        "Mild"
+      ],
+      "styles": [
+        "Lager",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Vanguard",
+      "description": "Bred in 1982 by the USDA and released in 1997, Vanguard is an aroma variety with similar characteristics to Hallertau Mittelfr\u00fch. Vanguard is typically utilized in traditional German- style beers as a noble type variety.",
+      "country": "United States",
+      "aroma_profile": [
+        "Wood"
+      ],
+      "styles": [
+        "Belgian-Style Ale",
+        "Lager",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Vic Secret",
+      "hop_id": "00-207-013",
+      "description": "Developed in 2000 and reaching commercial production in 2013, Vic Secret\u2122 is one of the newest hop varieties from Australia. It is a sister to Topaz\u2122 containing high alpha content and displaying pronounced tropical fruit flavors in whirlpool and dry hop additions.",
+      "country": "Australia",
+      "aroma_profile": [
+        "Earth",
+        "Passionfruit",
+        "Pine",
+        "Pineapple"
+      ],
+      "styles": [
+        "Ipa",
+        "Pale Ale",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Wai-Iti",
+      "hop_id": "HORT7709",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 2011, Wai-iti\u2122 is a granddaughter of Liberty and is derived from 1/3 Hallertau MIttelfr\u00fch. Fresh peaches and stone fruit dominate the aroma in single hopped beers and when combining with other varieties in late additions. Wai-iti\u2122 is best known for its fruity, aroma-driven results.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Apricot",
+        "Lime",
+        "Peach",
+        "Spice",
+        "Tropical Fruit"
+      ],
+      "styles": [
+        "Ipa",
+        "Pale Ale",
+        "Pilsner",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Waimea",
+      "hop_id": "HORT3953",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 2012, Waimea\u2019s lineage includes Californian Late Cluster, Saaz and Fuggle. Waimea is a big hop for big beers and can be used across an array of styles in a variety of brew house and dry hopping applications.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Citrus",
+        "Herbal",
+        "Pine"
+      ],
+      "styles": [
+        "Ipa",
+        "Lager"
+      ]
+    },
+    {
+      "name": "Wakatu",
+      "hop_id": "77-05",
+      "description": "Developed by the New Zealand Institute for Plant and Food Research hop breeding program and released in 1988, as Hallertau Aroma, Wakatu\u2122 was renamed in 2011. It is a triplod variety with two thirds Hallertau Mittelfr\u00fch parentage. Wakatu\u2122 is a well rounded variety with strong, fresh citrus characteristics and some bittering capabilities.",
+      "country": "New Zealand",
+      "aroma_profile": [
+        "Floral",
+        "Lime Zest"
+      ],
+      "styles": [
+        "Bock",
+        "Lager",
+        "Pale Ale",
+        "Pilsner"
+      ]
+    },
+    {
+      "name": "Warrior",
+      "hop_id": "YCR 5 CV",
+      "description": "Developed by Yakima Chief Ranches, Warrior\u00ae YCR 5 cv. was selected for its high alpha content, low co-humulone, good storage stability and tolerance to powdery mildew. It is primarily used for its mild, clean bittering properties.",
+      "country": "United States",
+      "aroma_profile": [
+        "Mild",
+        "Resinous"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Ipa",
+        "Rye Ale"
+      ]
+    },
+    {
+      "name": "Whitbread Golding",
+      "description": "Developed through grower selection circa 1911, Whitbread Golding (WGV) is not a true Golding. It displays many similar characteristics but has more robust and slightly sweet, hoppy flavor.",
+      "country": "United Kingdom",
+      "aroma_profile": [
+        "Floral",
+        "Fresh Earth",
+        "Sweet Fruit"
+      ],
+      "styles": [
+        "Biere De Garde",
+        "English-Style Bitter",
+        "Pale Ale",
+        "Saison",
+        "Wheat"
+      ]
+    },
+    {
+      "name": "Willamette",
+      "description": "Released in 1976 from the USDA breeding program, Willamette is a triploid seedling of English Fuggle. For years, it was the most widely grown aroma variety in the US. It is named after Oregon\u2019s Willamette River which runs through the heart of the state\u2019s hop growing region.",
+      "country": "United States",
+      "aroma_profile": [
+        "Elderberry",
+        "Floral",
+        "Incense"
+      ],
+      "styles": [
+        "Brown Ale",
+        "Esb",
+        "Lager",
+        "Pale Ale",
+        "Porter",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Yakima Gold",
+      "description": "Released by Washington State University in 2013, Yakima Gold is a cross between Early Cluster and a native Slovenian male. It is an excellent general purpose variety with smooth bitterness and pleasant aroma characteristics.",
+      "country": "United States",
+      "aroma_profile": [
+        "Grapefruit",
+        "Lemon Zest"
+      ],
+      "styles": [
+        "English-Style Ale",
+        "German-Style Ale"
+      ]
+    },
+    {
+      "name": "Zeus",
+      "description": "Although genetically different, Zeus is often referred to as part of CTZ along with Columbus and Tomahawk\u00ae, a trio of similar hops.",
+      "country": "United States",
+      "aroma_profile": [
+        "Black Pepper",
+        "Curry",
+        "Licorice",
+        "Pungent"
+      ],
+      "styles": [
+        "Barley Wine",
+        "Imperial Ale",
+        "Ipa",
+        "Lager",
+        "Pale Ale",
+        "Stout"
+      ]
+    },
+    {
+      "name": "Zythos",
+      "is_blend": true,
+      "description": "Named in honor of the Greek word for beer, Zythos\u00ae was designed to complement existing IPA and Pale Ale hop varieties. It is an excellent blend for any hop forward beer. Specific aroma descriptors include distinct tropical (pineapple) and citrus tones with slight pine characteristics.",
+      "country": "United States",
+      "aroma_profile": [
+        "Citrus",
+        "Tropical Fruit"
+      ],
+      "styles": [
+        "American Pale Ale",
+        "Ipa"
+      ]
+    }
+  ]
+}
