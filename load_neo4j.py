@@ -98,7 +98,7 @@ def create_styles(tx):
         MERGE (s:Style {style : styles})
         with s
         match (b:Beer) where b.style = s.style
-        MERGE (b)-[e:STYLE]-(s)
+        MERGE (b)<-[e:STYLE]-(s)
         return count(e) as c
         """
     records = tx.run(query)
