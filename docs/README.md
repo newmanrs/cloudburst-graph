@@ -1,6 +1,6 @@
 # Cloudburst Hop Graph
 
-Web-scraping [Cloudburst Brewing's](https://cloudburstbrew.com/) beer descriptions to create a Neo4j graph database showing relationships between various beers and hop varietals.  
+Web-scraping [Cloudburst Brewing's](https://cloudburstbrew.com/) beer descriptions to create a Neo4j graph database showing relationships between various beers and hop varietals.
 
 ![azacca](img/azacca.svg)
 
@@ -8,23 +8,26 @@ Additional examples are shown below in the [example queries](#example-db-queries
 
 ## Installation
 
-Project needs some flavor of Linux shell to function (Windows Subsystem for Linux, Linux, OSX etc) and a copy of Neo4j installed locally.
-A sample docker script for setup of Neo4j is provided in `start_neo4j.sh`, but you may want to consider using Neo4j Desktop as it also installs Neo4j Bloom on your local which provides a GPU-accelerated GUI that can be set up for more natural searching than the standard Neo4j database console.  
+This project requires Neo4j and for best search features Neo4j Bloom, which are populated via some python ETL scripts from files in the `data` folder.  These files are produced by [scrapers](#web-scrapers) whose scripts are included in the `scrapers` subfolder for those who wish to update the data files.
 
-The python scripts and provided docker scripts assume an environmental variable for the database password is set as:
+Most users can install Neo4j and Bloom by installing Neo4j Desktop for Windows or Mac.  A sample docker script for setup of Neo4j is provided in `start_neo4j.sh`, but without an enterprise server license you will not be abnle to install Bloom and use the enterprise grade interface, but can still run queries in the [console](#example-db-queries).
+
+The scripts assume an environmental variable for the database password is set as:
 ```
 export NEO4J_PW="yourpassword"
 ```
 with the default user `neo4j`, and that the ports are still set to the defaults for the console of 7474, and bolt database driver on 7678.  
 
-Scrape webpage using provided
+The database can be populated by running
 ```
-curl_cb_website.sh
+python3 config_neo4j_indexes.py
+```
+to configure indexes once, and then loaded with
+
+```
+python3 load_neo4j.py
 ```
 
-Parsing the website are done in a series of python scripts, starting with `parse.py` (parses the html file generated with curl script), `find_hops.py` (check descriptions from site for hop mentions), and `load_neo4j.py` (load DB).  Standard [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) pattern I suppose. These can be executed together with `./run_py.sh`.  
-
-Updating the database with new scrapes should merge nodes and relationships.  If you run into difficulties installing or running these scripts, feel welcome to open up an issue and I'll try to get back to you when I can.
 
 ## Example DB Queries
 
@@ -186,3 +189,9 @@ This returns the following json (beer lists shown are truncated to fit better in
 Neo4j Bloom is an enterprise UI that can run with locally on Neo4j Desktop for a single user (or Neo4j Enterprise if you're willing to pay for a server license for sharing with other users).  Sorry Neo4j Community users.  Bloom allows for the wrapping cypher queries with more human-usable phrases such as `find beers containing hop named Azacca` into something more akin to a dashboard that they call a database perspective.  I have exported a copy of my [bloom perspective](../neo4j-bloom-perspective/cloudburst-beer-graph.json) here that should be importable into Bloom via their GUI.
 
 Example pictures are forthcoming.
+
+##  Web Scrapers
+
+The web scraping code has now been moved to a subfolder organized as `scrapers/scraper_name`.  The project scrapes data from [Cloudburst](https://cloudburstbrew.com/) using curl then a python script using [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/).  This codepath is probably somewhat stable (until they redo their webpage).
+
+The hop data from Yakima Chief is processed via a mixture of `pdftotext`, `python`, and `sed`.  The scrapers are provided for those who want to try running them, but expect that over time these to decay quickly and become quite buggy.  The chain of scripts produce intermediate files, but you should be able to march forward as the scripts are numbered sequentially in order of necessary execution.  Not sure how often the PDF is updated, or if the same scripts will be usable again.
