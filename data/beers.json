@@ -1,6 +1,76 @@
 {
   "beers": [
     {
+      "beer_name": "From The Brew Deck IPA",
+      "beer_style": "IPA",
+      "abv": 6.8,
+      "ibu": "65",
+      "description": "Hello, this is your brewer speaking. This brew day will be roughly 7 hrs and 38 minutes. It should be pretty smooth, but keep your boots on in the event of light trubulence (get it?! TRUB!). Our team today consists of Mosaic and Amarillo in the front, along with Sabro and Citra in the main cabin. They will be at your service once we reach a rolling boil and are happy to assist all the way to dry hop. The flavors at your destination will be pineapple, tangelo, key lime, and mango with a local time of happy hour. Lastly, from the bottom of our pints, we\u2019d like to thank you for drinking Cloudburst. We know you have other options when choosing your IPA, and we appreciate you drinking this one."
+    },
+    {
+      "beer_name": "You\u2019ve Got Pale!",
+      "beer_style": "Pale",
+      "abv": 5.9,
+      "ibu": "45",
+      "description": "This idea for this beer was inspired by a box of beer. But not just any old box, filled with uninspiring or anonymous beers. This box contained world class hops brewed by our friends at Cellarmaker (SF), Highland Park (LA), Green Cheek (Orange) & Pinthouse (Austin) that was packed & shipped between our breweries throughout 2020. As one thing led to another, we thought it would be fun to brew a beer together.\u00a0 But not just any old beer - this one had to be magical. So we all started with a West Coast Hazy Pale recipe aka \u201cCellarmaker-Style Pale\u201d base - keeping the malt bill, pH adjustments, & neutral fermentation profile the same between the 5 breweries. For hops - we limited ourselves to 3 total varieties each: 1 old school variety, 1 new school variety, and Citra. The old school & new school varieties were blindly drawn out of hat for each brewery, and could only be used by one of us.\u00a0 We ended up with Simcoe (old school) & Talus (new school), which resulted in big notes of rugby red grapefruit, tangerine, passion fruit & pine.\u00a0 The other versions of this beer will be out in local markets this week as well - so feel free to try and trade some beer, via your own beer box, to collect them all! "
+    },
+    {
+      "beer_name": "Happy Little Clouds",
+      "beer_style": "Dry-Hopped Pilsner",
+      "abv": 5.3,
+      "ibu": "32",
+      "description": "We believe everyday is a good day when you brew. Start out, by believing here. A little touch of pilsner malt here, a little push of German and American hops there, caressed very gently layer after layer after layer. There are no limits here. Weyermann Pilsner Malt & an ever changing blend of hops. "
+    },
+    {
+      "beer_name": "Relative Fiction",
+      "beer_style": "Brett Pils",
+      "abv": 5.0,
+      "ibu": "27",
+      "description": "Our first beer out of our Shilshole location is here to set the tone of what the future beholds! In talking with our wild beer making friends, we found that starting with a basic intention for these beers was important. So, what is our intention? Well, to make approachable, simple beers in Stainless Steel that showcase Brettanomyces while remaining true to their core style. So for this beer, we started with a soft, floral leaning German Pilsner base that we co-fermented with Brett Brux & Brett Claus in addition to our German Lager yeast.  Over the course of 6 months, we watched the subtleties and complexities from the Brett slowly present themselves - resulting in aromatics of overripe pineapple, barnyard, sweaty funk - but underneath it all, is still an easy drinking base beer you can keep coming back to."
+    },
+    {
+      "beer_name": "Maximize Profits IPA",
+      "beer_style": "IPA",
+      "abv": 6.9,
+      "ibu": "53",
+      "description": "If you know us, like REALLY know us, then you know we\u2019re all about that bottom line. #CASHRULESEVERYTHINGAROUNDUS We eat, sleep, dream, live BUSINESS STUFF. How do we make money? Spend money. With efficiency. And then manipulate the market. While value adding. And thinking about synergy, alignment, and bandwidth to move the needle. Sometimes we take a deep dive, and then deep dive within a deep dive to go deeper diving. While constantly lowering our overhead and COGS but raising our OPEX, ROI, EBITDA retaining Motivation. Hunger. Thirst. Raising the Bar. Also - Forecast, Forecast, Forecast. Do another Forecast for core competency sake. And after all that, you keep producing widgets, like beer, and add three diversified portfolio lots of Nelson Sauvin hops from New Zealand while feathering in some Citra to tax harvest and we churn it out like diamond hands for you to enjoy because money never sleeps, and our IPAs don\u2019t either. "
+    },
+    {
+      "beer_name": "Roll Credits",
+      "beer_style": "DIPA",
+      "abv": 8.2,
+      "ibu": "68",
+      "description": "Other Malt\u2026\u2026. Weyermann Carafoam"
+    },
+    {
+      "beer_name": "Refracted Light IPA",
+      "beer_style": "IPA",
+      "abv": 6.8,
+      "ibu": "55",
+      "description": "Hey! It\u2019s June! Which means it\u2019s time to fly our beautiful big rainbow flag and celebrate PRIDE! (ps - it\u2019s always time to do this, as well as advocate for our LQBTQIA+ community.)\u00a0 This year, we\u2019ll be donating 10% of tasting room sales from this IPA to Gay City, a Cap Hill based, community driven organization that hosts a wide array of programs, services, & events - from free HIV testing & healthcare options, to fostering queer arts & culture, to supporting youth education. To help the spread the word about Gay City, we brewed a deliciously diverse IPA with Amarillo, Citra, Comet, Loral & Cascade hops.\u00a0"
+    },
+    {
+      "beer_name": "Two For The Show",
+      "beer_style": "Pale",
+      "abv": 6.0,
+      "ibu": "40",
+      "description": "They say that it\u2019s one to get ready. And, sure, that makes sense. If getting ready isn\u2019t the first thing you do before...whatever it is that you do, then you\u2019ll probably have a tough start. But since this beer is already ready, we\u2019d like to talk about the two hops in it - the \u201cstars of the show,\u201d if you will. GALAXY and SIMCOE. Both of these beauties can hold their own - but when their forces combine?! You get tropical highlights with citrusy & resinous undertones, which equals MONEY. Wait, it\u2019s one for the money?! And THREE to get ready?! Well now, that makes no sense. Ok, um, time to GO! "
+    },
+    {
+      "beer_name": "Kouzlo",
+      "beer_style": "Traditional Czech Pilsner",
+      "abv": 5.4,
+      "ibu": "50",
+      "description": "Kouzlo means charm. As in \u201cthird times the charm!\u201d but that entire phrase in Czech is a helluva mouthful. Still, it\u2019s significant because this is our third Czech Pils recipe we\u2019ve brewed, tweaking it ever so slightly each time, on a never ending journey to flavor match the memory of drinking a fresh pour from Pivovar Matuska, while sitting in a beer garden in Prague. This time - we upped the bitterness and dried it out a little more. Per custom, we used Weyermann Floor Malted Bohemian Pils and hopped it with a bag of Saaz Special that Adam gave us, along with more regular Czech Saaz. Na zdrav\u00ed! (pronounced: Naz-Drah-vee\u2026 it means \u201cCHEERS!\u201d... obviously.) "
+    },
+    {
+      "beer_name": "Stories From Now IPA",
+      "beer_style": "IPA",
+      "abv": 7.1,
+      "ibu": "65",
+      "description": "You know how we always talk about stories of the past? Like last year, or like pre-pandemic, or like back in the day? We know - it\u2019s fun to reminisce! But also, it\u2019s important to make some fresh memories - like right now - because those stories were back then and this beer wasn't there for it. And we want you to remember this beer - in real time! We used Citra (duh), a relatable hop you have lots of positive memories of, along with Talus (Hop 692), a new hop you totally need more memories of.\u00a0 We also threw in a splash of Skagit White Wheat to round out all of those beautiful citrusy and tropical notes, dancing around, splashing in your mouth, laughing HAHA as the sun recedes from sight, and the beer realizes that this it\u2019s last story ever because it\u2019s about to be digested. Damn, that got dark... "
+    },
+    {
       "beer_name": "Called To The Light",
       "beer_style": "German-Style Pilsner",
       "abv": 5.0,
@@ -34,13 +104,6 @@
       "abv": 6.8,
       "ibu": "68",
       "description": "Ok we\u2019re just going to say it. We love Mosaic like Leslie Knope loves Ann Perkins. Mosaic hops are just so beautiful and organized. They are thoughtful and brilliant and sweet and innocent and pretty. They are a rainbow infused space miracle. A glowing Sun goddess. And a Poetic noble land mermaid. ALL IN ONE. And since we\u2019re a rule breaking moth, we sprinkled in a little Chinook & Simcoe just to push this IPA a little more West Coast of Pawnee. The end result is a stupid hot bouquet of pineapple, ruby red grapefruit & purple urkle you\u2019ll want before AND after eating waffles with whip cream & sprinkles."
-    },
-    {
-      "beer_name": "Happy Little Clouds",
-      "beer_style": "Dry-Hopped Pilsner",
-      "abv": 5.3,
-      "ibu": "32",
-      "description": "We believe everyday is a good day when you brew. Start out, by believing here. A little touch of pilsner malt here, a little push of German and American hops there, caressed very gently layer after layer after layer. There are no limits here. Weyermann Pilsner Malt & an ever changing blend of hops. "
     },
     {
       "beer_name": "Here For It IPA",
@@ -1250,13 +1313,6 @@
       "abv": 7.2,
       "ibu": "48",
       "description": "When two like-minded ambassadors of the haze prerogative combine aesthetics, the end result is not unlike a lightweight, moisture wicking fabric soft against the tattooed skin of a laborer. Pilsner, Golden Promise, Wheat, Oats, Rye & Vienna malt fit together like tailored wool seams upon a sandstone backdrop, while Gr\u00dcngeist hops interwoven with Mosaic & Citra create an all purpose, multi-functioning blanket of yellow peaches, white grape, pineapple & tangelos.  All in all, it\u2019s really just a broken-in pint of athletic-cut, casual flannel flair that will keep you cool when it\u2019s hot, dry when it\u2019s wet, and poppy when it\u2019s sludge."
-    },
-    {
-      "beer_name": "Refracted Light IPA",
-      "beer_style": "IPA",
-      "abv": 7.0,
-      "ibu": "58",
-      "description": "Hey! It\u2019s June! Which means it\u2019s time to fly our beautiful big rainbow flag and celebrate PRIDE!  This year, we\u2019ll be donating 10% of tasting room sales from this IPA to Equal Right Washington,  a local non-profit that advocates for LGBTQ equity & justice. They\u2019re currently working to ban conversion therapy in the state of WA (um yeah, that shit still happens here\u2026), protect trans humans in public spaces, and promote gender & racial equity. To help the spread the word, we brewed a deliciously diverse IPA with Mosaic, Amarillo, Comet & Cascade hops and a touch of red wheat. "
     },
     {
       "beer_name": "People You May Know",
