@@ -2,6 +2,29 @@ from neo4j import GraphDatabase
 import json
 import os
 
+
+def create_beers(tx):
+
+    """ Load from the results of cloudburst site scraper """
+
+    with open('data/beers.json', 'r') as f:
+        beer_hops = json.load(f)
+        beers = beer_hops['beers']
+
+    query = """
+        UNWIND $beers as beer
+        MERGE (b:Beer {name : beer.beer_name,
+            abv : beer.abv,
+            style : beer.beer_style,
+            description : beer.description
+        })
+        RETURN count(b) as c
+        """
+    records = tx.run(query, beers = beers)
+    print('Merged {} Beer nodes'
+        .format(records.single()['c']))
+
+
 def create_hops(tx):
 
     """ Hops are loaded into the DB from multiple sources
@@ -56,26 +79,6 @@ def create_hops(tx):
     print("Merged {} Hop nodes".format(records.single()['c']))
 
 
-def create_beers(tx):
-
-    """ Load from the results of cloudburst site scraper """
-
-    with open('data/beers.json', 'r') as f:
-        beer_hops = json.load(f)
-        beers = beer_hops['beers']
-
-    query = """
-        UNWIND $beers as beer
-        MERGE (b:Beer {name : beer.beer_name,
-            abv : beer.abv,
-            style : beer.beer_style,
-            description : beer.description
-        })
-        RETURN count(b) as c
-        """
-    records = tx.run(query, beers = beers)
-    print('Merged {} Beer nodes'
-        .format(records.single()['c']))
 
 def create_beer_contains_hop_edges(tx):
 

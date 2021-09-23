@@ -24,14 +24,14 @@ def create_indexes(session):
     if not swt(index_exists,index_name):
         swt(create_fulltext_index,index_name, nodes, properties)
 
-    swt(print_db_indexes) 
+    swt(print_db_indexes)
 
 
 def create_property_index(tx,label,prop):
     query = """
         CREATE INDEX {} IF NOT EXISTS FOR (n:{}) ON (n.{})
         """.format(label+'_'+prop, label, prop)
-    tx.run(query)        
+    tx.run(query)
 
 def index_exists(tx,index_name):
     """ Check for index existence to prevent throwing
@@ -42,7 +42,7 @@ def index_exists(tx,index_name):
     for r in records:
         if index_name in r['name']:
             return True
-    return False        
+    return False
 
 
 def create_fulltext_index(tx,name,nodes,properties):
@@ -84,4 +84,4 @@ if __name__ == '__main__':
     with driver.session() as session:
         swt = session.write_transaction
         create_indexes(session)
-    driver.close()
+        driver.close()

@@ -1,6 +1,167 @@
 {
   "beers": [
     {
+      "beer_name": "Aqua Seafoam Shame",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.4,
+      "ibu": "60",
+      "description": "We have a confession to make. Again! We drove down to Goschie Farms in Oregon to make this beer - because last year\u2019s was such a hit. But seriously - what else should we be? All Apologies? We brew wet hop beers multiple times a week, for six weeks in a row. Why not make a few with Oregon hops? I mean, they do grow one of the hottest new varieties in the country - Strata - which was developed by Indie Hops in conjunction with Oregon State University. And with assertive tropical notes of guava & passion fruit and a citrus leafy finish thanks to 20#/bbl, you\u2019ll be easily amused. All in all is all we are.\u00a0 "
+    },
+    {
+      "beer_name": "It\u2019ll All Be Oatay",
+      "beer_style": "Oatmeal Stout",
+      "abv": 5.0,
+      "ibu": "40",
+      "description": "We know hop harvest is quite the distraction (at least it is for us!) but when we pick our heads up, the world still seems quite insane - the delta variant, hurricanes, wildfires, Florida being horrible, Texas being WORSE\u2026UGHHH. BUT! MAYBE. JUST MAYBE. Things are going to work out? Like this is the part of the real life movie where you hit rock bottom and the world is about to crumble but then the good guys persevere and start kicking ass, make positive strides, solve some problems, and live on happily ever after? We hope?! RIGHT? Um, what else. This beer! Let\u2019s talk about it for a second. Honestly, it\u2019s pretty straightforward and downright delightful. Some roasty aromas, a silky body, a chocolatey finish, a sessionable abv....it\u2019s here for you, a rich and comfy beverage, with a positive outlook on the future.  "
+    },
+    {
+      "beer_name": "Unlimited Breadsticks",
+      "beer_style": "Italian Pilsner",
+      "abv": 5.5,
+      "ibu": "35",
+      "description": "MAMA MIA! We made an Italian Pilsner! What makes it Italian?! Well, we used German malts (Weyermann Pils), German Lager yeast (thanks Chuckanut!), and Czech & German hops (some Saaz, but mostly Saphir)....AND THEN WE DRY HOPPED IT! SEI FUORI! Yeah, that\u2019s pretty much what this style is...which to us, is about as Italian as Olive Garden. VUOI LIMONARE?\u00a0 But a couple Italian breweries have been doing this for a couple decades, so CHE STORIA! Now it\u2019s a hot ticket style and delicious and refreshing and nutritious! ADESSO PEDALA! BON JOURNO! CHE PALLE! "
+    },
+    {
+      "beer_name": "A Little Space",
+      "beer_style": "Pale",
+      "abv": 5.8,
+      "ibu": "57",
+      "description": "Hey. Look at us. Right in the eyes. No blinking. Ok. This beer. Read the name. Got it? Ok, and then here\u2019s the hop bill - Chinook, Galaxy, Citra, & Amarillo. Sound familiar? And then a malt bill of \u2154 2 row and \u2153 Castle Pale. Is this adding up? But then, a toned down gravity - resulting in a \u201clittle\u201d version. Get it? A LITTLE SPACE\u2026.DUST?! OHHHH SNAP! WE GOT YOU!! DON\u2019T SLEEP ON US GOLIATH, YOU FUCKING CORPORATE MONSTER. WE WILL ALWAYS REMEMBER. WE WILL ALWAYS COME AT YOU. WE WILL ALWAYS FUCK AB-INBEV. "
+    },
+    {
+      "beer_name": "No Recess IPA",
+      "beer_style": "IPA",
+      "abv": 6.8,
+      "ibu": "65",
+      "description": "We last brewed this beer in 2017!? That\u2019s madness. The original description still holds true - we\u2019ve STILL been working around the clock for what seems like forever to keep Cloudburst moving forward - from tasting room procedures to canning lines - but our lack of recess is to your benefit. We brought back this NW IPA loaded with\u00a0 Chinook, Citra, Amarillo & Centennial for a welcome break from the grind.\u00a0 "
+    },
+    {
+      "beer_name": "Mosaicin\u2019 My Day!",
+      "beer_style": "DIPA",
+      "abv": 8.0,
+      "ibu": "65",
+      "description": "Once, maybe twice, we brewed this \u201csingle\u201d hop Mosaic IPA called \u201cMosaicin\u2019 Me Crazy\u201d. It was a bright, multi-dimensional expression of one of the best American IPA hops in existence (and, was a rejected Holy Mountain beer name that we picked up off the cutting \u2018doom\u2019 floor and put to good use).\u00a0 ANYWAYS - this is basically an imperial version of that - 5 unique lots of Mosaic from 4+ farms from 3 total harvests in 2 types of pellets. The end result is loaded with notes of ripe pineapple, tangerines, and passion fruit that will have you saying MO\u2019 PLEASE! "
+    },
+    {
+      "beer_name": "Happy Little Clouds",
+      "beer_style": "Dry-Hopped Pilsner",
+      "abv": 5.3,
+      "ibu": "32",
+      "description": "We believe everyday is a good day when you brew. Start out, by believing here. A little touch of pilsner malt here, a little push of German and American hops there, caressed very gently layer after layer after layer. There are no limits here. Weyermann Pilsner Malt & an ever changing blend of hops."
+    },
+    {
+      "beer_name": "Grainyard Graveyard IPA",
+      "beer_style": "IPA",
+      "abv": 6.6,
+      "ibu": "52",
+      "description": "You know when that one wildcard friend goes up to a soda fountain in a taco bell and puts a splash of everything in their 24oz cup? We call that a \u201cgraveyard\u201d. And we kinda did that with our malt bill on this beer. Like, we added 2 row, and Pils malt, and white wheat, and red wheat, and naked oats, and flaked barley, and flaked rye and carafoam and And ANDDDDDD maybe we got carried away. But it was fun at the time. And it tastes fun today - with layers of depth and body. To make it palatable, we hopped it with some NZ Cascade, Mosaic, & Citra to give it reliable, yummy notes of tropical fruit and citrus. So go ahead - push all the buttons!\u00a0 "
+    },
+    {
+      "beer_name": "And Another One IPA",
+      "beer_style": "IPA",
+      "abv": 6.8,
+      "ibu": "57",
+      "description": "ALL WE DO IS WIN, WIN, WIN (and brew hops)."
+    },
+    {
+      "beer_name": "\u201cBill\u201d",
+      "beer_style": "Experimental Pale Ale",
+      "abv": 6.2,
+      "ibu": "45",
+      "description": "We all know James Bond is Agent 007\u2026.but what about 008? Apparently, they call him Bill? Is he as cool as James? Is he a nerd and only deals with cyber criminals and crypto theft? What about rogue experimental breeding of agricultural triploid genomic species? We don\u2019t know. But we do know that this new HRC experimental hop variety also known as 008 is grown at Crosby Farm. And it exhibits notes of nectarine, lime flesh, & lemongrass, which should mean it will live on, and expand its reach, and may someday be seen throughout the public market. So it's got that going for it."
+    },
+    {
+      "beer_name": "Your Worst Nightmare",
+      "beer_style": "Dark Stuff",
+      "abv": 7.0,
+      "ibu": "30",
+      "description": "Imagine a bleak alternative reality where no new hop varieties were ever developed or evolved. Brewers still use them, but just for bittering. That\u2019s it. And when harvest comes around every year, there are no fresh hop beers, because they would all just taste like dirt and earth and grass. BUT, in their place, pumpkin beers fill the craft beer landscape - flooding the Fall market with vegetable beers. Every warm shelf and tap is taken over by jack-o-lantern themed beers with names like \u201cYUM YUM PUMPKIN!\u201d and \u201cDREAMY HALLOWEENY\u201d and \u201cPUMP FLUFF MUFFIN\u201d that make you want to stab your jugular with a pumpkin carving knife. And, every single offering has that blend of familiar spices, but at least they vary in color and base style. Some breweries are so prolific in their pumpkin brewing prowess that they not only attract attention from every beer nerd, but also Big Beer. AB-Inbev sees this growing market and wants -NEEDS- to be a player in it, so they start buying up independent breweries, one by one, slowly at first, then at rampant pace, until they confuse the consumer with so many options nobody knows who owns what anymore, creating customer indifference in ownership and operations and origins among the sea of SKUs, where only the deepest of pockets prevail, squeezing out small, independent, locally-owned and operated breweries until there are few left.\u00a0 In this Cantwellian Dystopia, THIS beer would be KING - a milk chocolatey base beer brewed with Libby\u2019s canned pumpkin and spiced with a blend of cinnamon, nutmeg, ginger, allspice and clove. OK WAKE UP! It was all a dream...WAIT BUT... "
+    },
+    {
+      "beer_name": "Bad With Directions IPA",
+      "beer_style": "IPA",
+      "abv": 6.7,
+      "ibu": "65",
+      "description": "It starts at point A. Yep, that\u2019s the starting point - a light grain bill of 2-row cut with some pilsner malt. Add water, a couple turns here and there, yada yada yada and you\u2019ll reach a 5 way intersection of hops. Every choice looks familiar and well-traveled - Chinook, Centennial, Amarillo, Cascade, & Simcoe - but you can\u2019t really go wrong with classic, seasoned options. At some point, pick up some yeast along the way at that place, and cruise on out with notes of prickly pine needles, grapefruit rind, tangerines and a dry finish with a brisk snap.\u00a0 "
+    },
+    {
+      "beer_name": "Wide Load",
+      "beer_style": "DIPA",
+      "abv": 8.5,
+      "ibu": "58",
+      "description": "HONK HOOONK! This DIPA doesn\u2019t like to share the road! Y\u2019all better be ready to take the expressway to FLAVORTOWN with a procession of three Nelson Sauvin lots all lined up, plus a little Citra for overdrive. We used such a heavy hand that we\u2019re going to have to cruise under the speed limit! Yield to large notes of passionfruit, gooseberry, lychee and a little bit of diesel fuel & burnt rubber for good measure (#lifeontheroad). And we\u2019ll keep the hazards flashing because the ABV is a sneaky one. If you hammer down, be careful, or you\u2019ll be riding the cradle!\u00a0 Ok, Bandit. We gotta bear rolling discos up ahead. Can we get a BIG 10-4?! Over and Out.\u00a0 "
+    },
+    {
+      "beer_name": "Jesus Take The Wheel IPA",
+      "beer_style": "IPA",
+      "abv": 6.9,
+      "ibu": "55",
+      "description": "Umm, so...this is where we\u2019re at right now. It\u2019s been a long ride throughout this pandemic, and a couple months ago it felt *almost* normal but here we are, asking people to wear masks again and checking vaccination cards to keep the people inside our space as safe and healthy as possible.\u00a0 And while over 80% of Seattlites have gotten vaccinated (WHICH IS AWESOME), there\u2019s still a portion of this country (who are traveling?! To HERE!? WHY.) that come up with some illogical/selfish/misinformed/conspiratorial/uneducated reasoning to not get the vaccine. [If you are one of those aforementioned people, and reading this rn, your money is probably better spent elsewhere, like at a business that shares your \u201cbeliefs\u201d...] ANYWAYS it is almost like, maybe we should start to believe in God, or something? No no, that\u2019s not where we\u2019re going with this. But it\u2019d be cool if SOMEBODY could take this virus from our hands and make it go away.\u00a0 We really want to let go. And let loose. And bring this delicious IPA brewed with Motueka, Citra, & Comet hops to a party, and not stress out about everything and just get lost in meaningful conversation while inhaling notes of mandarin oranges, meyer lemon, & lime leaf jumping out of the glass and laughing at a joke Dave made, because Dave is FUNNY and always there for us, and wait, maybe Dave can take the wheel?\u00a0 "
+    },
+    {
+      "beer_name": "One In Eight",
+      "beer_style": "Hoppy Summer Ale",
+      "abv": 5.2,
+      "ibu": "40",
+      "description": "We started One in Eight FOUR harvests ago with CLS Farms. Shelley (who owns/runs the farm with her husband Eric) was battling a second round of breast cancer, which coincided with Steve\u2019s mom undergoing radiation treatment for breast cancer at the same time. Since then, CLS Farms has run with this beer as an annual fundraiser for the Wellness House of Yakima, who provide housing, resources and services to women in need that are fighting cancer. This year Yakima Valley Hops and Skagit Valley Malt\u00a0 joined the effort as well - and we\u2019re using a new hop variety - Idaho Gem! Over a blend of Skagit Valley Fritz Pale, Fritz Pils, & Munich malt, the end result is an easy drinking beer perfect for those long, hot summer nights."
+    },
+    {
+      "beer_name": "Yakima Freeze",
+      "beer_style": "Frozen Wet Hop Ale",
+      "abv": 6.4,
+      "ibu": "50",
+      "description": "Frozen Wet Hops? FROZEN WET HOPS. That\u2019s what\u2019s in this beer. Like, they picked the hops and instead of conveying them to the kiln\u2026.they conveyed them to a flash freezer and sent them to a cold storage unit. And then, 3 months later, they showed up at our brewery\u2026.at -10 degrees. And we brewed with them the same we do with \u201cregular\u201d fresh wet hops. Technology, my dudes. It\u2019s pretty fucking cool.\u00a0"
+    },
+    {
+      "beer_name": "Splitting Hairs IPA",
+      "beer_style": "IPA",
+      "abv": 6.6,
+      "ibu": "50",
+      "description": "To some, an IPA can be practically anything - like a beer with fruit and/or lactose and/or lactic acid and/or Kellogg\u2019s fruit loops - so long as hops are in there somewhere. This beer is NOT referring to those types of \u201cIPA\u201d. This is more referring to the comparative minutiae between IPAs and Strong American Pales - which has quite the overlap in style guidelines. And we don\u2019t want to bore you with all those specifications, but let\u2019s just say this beer is firmly in the gray area. We added a splash of Simpsons Golden Naked Oats to the grain bill, and heavily hopped it with our favorite lots of Mosaic, Amarillo, Citra, Chinook. It\u2019s fruit first, pine second, wisp of dankness with a perceptible bitterness and dry finish and ever so slightly lower abv that will have you not caring so much about styles...or weird phrases from the 15th century....HOW DO YOU EVEN SPLIT A HAIR? IT\u2019S IMPOSSIBLE. FUCK IT! "
+    },
+    {
+      "beer_name": "I Just Saved Money On My Car Insurance",
+      "beer_style": "Pale",
+      "abv": 5.9,
+      "ibu": "45",
+      "description": "Did you know - a hop combination of Mosaic, Strata, Galaxy, & Citra will result in a delightful expression of passion fruit, pineapple, and apricot? And, if brewed over a base of 2 row with a splash of wheat & naked oats, it will result in a smooth and soft mouthfeel? And, if using our house yeast, it will still result in a quenching, dry finish? You did? Well kudos to you. We were busy watching commercials during the entire brew, and sometimes it just works out."
+    },
+    {
+      "beer_name": "Street Lights, People IPA",
+      "beer_style": "IPA",
+      "abv": 6.9,
+      "ibu": "55",
+      "description": "This last month has been nutso! Restrictions lifted, 100% occupancy, everybody out and about, flying Delta, transmitting Delta, the WHO saying one thing, the CDC....HELLO?! CDC! WHERE YOU AT?! - packed bars, house parties, drunk karaoke...so to celebrate (?) we brewed a recipe with commingling base malts (2 row, Pilsner, & Maris Otter) and hopped this ditty with El Dorado, Vic Secret, & Citra. Initially, we felt like this may be an unlikely hop combination - like the smell of wine and cheap perfume - but nope! Tangerines, Apricot, and White Grapefruit go on and on and on and on. It\u2019s just a nice reminder to not stop believing (in normalcy), and hold on to that feeling (of being safe & healthy) because cases are on the rise and shit is going to be weird. So walk on down that boulevard. We\u2019ll meet you halfway."
+    },
+    {
+      "beer_name": "Timbo",
+      "beer_style": "Dry-Hopped Pilsner",
+      "abv": 5.8,
+      "ibu": "50",
+      "description": "This is not our beer. Yes - we brewed it, fermented it, hopped it, carbed it, packaged it, and tasted it. But all in accordance to our LA friends at Highland Park Beer - who won a GABF Gold Medal in 2019 for this exact recipe. Timbo has had a cult following from the get go - it\u2019s intensely hoppy (mostly Mosaic, some Citra, some Hallertau Blanc, and a little Saphir), impeccably balanced, and dangerously crushable. This year, HPB is doing a Timbo week from 7/16-7/23 - and since their distro is mostly LA county, they asked a few of us to make it in our home markets. And so, here it is, in all its glory."
+    },
+    {
+      "beer_name": "Entschuldigung!",
+      "beer_style": "Keller Munich Helles",
+      "abv": 5.2,
+      "ibu": "28",
+      "description": "Dieses Bier ist ein traditionelles Helles-Rezept. JEDOCH, ist es auch ungefiltert und ungesch\u00f6nt - was ihm ein tr\u00fcbes Aussehen und ein weicheres Mundgef\u00fchl verleiht. Viele Deutsche w\u00fcrden denken: \u201cDas ist nicht richtig! Es ist nicht fertig! Ansonsten MUSS es kristallklar sein!\u201c Und zu ihnen sagen wir \u201cSorry!!\u201c Und wenn wir schon dabei sind: Regenschirm nicht vergessen! Und wir lieben Pfannkuchen!"
+    },
+    {
+      "beer_name": "Old Man Yelling IPA",
+      "beer_style": "IPA",
+      "abv": 7.2,
+      "ibu": "68",
+      "description": "SOCIALIZED MEDICINE IS COMMUNISM!...YES, I HAVE MEDICARE!"
+    },
+    {
+      "beer_name": "Mistakes Were Made",
+      "beer_style": "Smoked Dark Lager",
+      "abv": 5.3,
+      "ibu": "32",
+      "description": "We want something drinkable, sessionable if you will, with a lower abv. We want something clean, with subtle nuances and complexity, multiple layers of flavors slowly coming to light the more we sip it.  And we want a snappy hop presence. And a SMOOTH mid palate.  And A DRY FINISH! (Preach.) It\u2019s gotta be CRISPY! (YES!) AND... AND GERMAN CHOCOLATE CAKE (Umm.) AND CARAMELIZED RAISINS (What.) CAMPFIRE SMOKE!!!!! (Please Stop.) "
+    },
+    {
       "beer_name": "From The Brew Deck IPA",
       "beer_style": "IPA",
       "abv": 6.8,
@@ -13,13 +174,6 @@
       "abv": 5.9,
       "ibu": "45",
       "description": "This idea for this beer was inspired by a box of beer. But not just any old box, filled with uninspiring or anonymous beers. This box contained world class hops brewed by our friends at Cellarmaker (SF), Highland Park (LA), Green Cheek (Orange) & Pinthouse (Austin) that was packed & shipped between our breweries throughout 2020. As one thing led to another, we thought it would be fun to brew a beer together.\u00a0 But not just any old beer - this one had to be magical. So we all started with a West Coast Hazy Pale recipe aka \u201cCellarmaker-Style Pale\u201d base - keeping the malt bill, pH adjustments, & neutral fermentation profile the same between the 5 breweries. For hops - we limited ourselves to 3 total varieties each: 1 old school variety, 1 new school variety, and Citra. The old school & new school varieties were blindly drawn out of hat for each brewery, and could only be used by one of us.\u00a0 We ended up with Simcoe (old school) & Talus (new school), which resulted in big notes of rugby red grapefruit, tangerine, passion fruit & pine.\u00a0 The other versions of this beer will be out in local markets this week as well - so feel free to try and trade some beer, via your own beer box, to collect them all! "
-    },
-    {
-      "beer_name": "Happy Little Clouds",
-      "beer_style": "Dry-Hopped Pilsner",
-      "abv": 5.3,
-      "ibu": "32",
-      "description": "We believe everyday is a good day when you brew. Start out, by believing here. A little touch of pilsner malt here, a little push of German and American hops there, caressed very gently layer after layer after layer. There are no limits here. Weyermann Pilsner Malt & an ever changing blend of hops. "
     },
     {
       "beer_name": "Relative Fiction",
