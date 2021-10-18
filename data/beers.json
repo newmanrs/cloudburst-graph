@@ -1,6 +1,41 @@
 {
   "beers": [
     {
+      "beer_name": "Wet Brurrito",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.9,
+      "ibu": "59",
+      "description": "This freshie is ALL about those Brulotte Farms Extra Verde BRU-1 hops. Grown in partnership with Haas, BRU-1 hops are fairly new to the scene and are starting to gain some traction thanks to big notes of pineapples & nectarines with a little peppery spiciness to boot. Not unlike some fruity/spicy salsa you might find at one of the many amazing taco trucks and spots around the Yakima Valley. MMM TACOS. Oh yeah also MMM WET HOPS."
+    },
+    {
+      "beer_name": "As God Is My Wetness",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.7,
+      "ibu": "64",
+      "description": "Our Citra, who art in Yakima, hallowed be thy bine, as fresh as it is heaven. Give us our oils, our daily alphas. And forgive us bite, as we forgive those who bittered before us. Deliver us from haze, and temptation of rapid consumption, for the power and GLORY OF ALL THAT IS CITRA! WITH CITRA BY OUR SIDE, WE CAN BREW ANYTHING!\u00a0 AND WHEN IT\u2019S THE BESTEST LOFTUS CITRA THIS IS SOME LEGIT ULTRABEAM GOD DREAM KANYE LEVEL SHIT. DID WE EVER TELL YOU THE STORY ABOUT THE FOOTPRINTS IN THE HOP FIELD?! THERE\u2019S LIKE TWO SETS, AND THEN ONE SET, AND WE\u2019RE LIKE \u2018WHAT\u2019S UP WITH THAT?\u2019 AND GOD IS ALL LIKE, THOSE ARE STILL YOUR FOOTPRINTS BRO, I HAD TO LEAVE YOU FOR A HOT MINUTE BECAUSE IT\u2019S HARVEST AND ALL THESE DOPE CITRA BEERS ARE BEING RELEASED AND THEY ONLY LAST FOR SO LONG\u2026. "
+    },
+    {
+      "beer_name": "Green on Fort Road",
+      "beer_style": "Wet Hop Pale",
+      "abv": 5.8,
+      "ibu": "50",
+      "description": "ALL ABOARD THE FORT ROAD EXPRESS!! First stop: Green Acres Farm, where we\u2019ll be picking up 100# of fresh Cascade. Then, we pass VGF (wave everybody!) as we head to Joe Champoux Farms for 50# of\u00a0 mystery hops. What variety are they? Nobody knows! There was a mix up at the nursery! But they smell nice and fruity! Ok, onto the last stop at Cornerstone Ranches for 150# of extra piney Simcoe. Give Danessa and Graham a high five, and now we head back to the city to cram all these greenies into a sessionable Pale Ale base recipe! CHOO CHOO! "
+    },
+    {
+      "beer_name": "An Uplifting Work of Staggering Wetness",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.5,
+      "ibu": "65",
+      "description": "This freshie is all about overcoming a series of unpredictable events. The original farm we planned to grab the Simcoe from was on pause, dealing with the results of a rainstorm. This led us to sourcing Simcoe elsewhere - a necessity that had to be done swiftly, considerately, and concertedly. Loftus Ranches came through in the pinch with 500# of first picks - a welcome relief. But that following brewday, a part failed on our kettle burner mid usage. Fortunately, we had ordered a spare part the week before - on a hunch, no less! After an emotional and timely repair, we persevered through the brew day, to a victorious result. What does victory taste like? It tastes like ruby red grapefruit, fir tips, tangerine peel, and grass clippings. When the going gets wet, the wet gets wetting even more so.\u00a0 "
+    },
+    {
+      "beer_name": "Green Is My Favorite Color",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.0,
+      "ibu": "60",
+      "description": "It\u2019s true. Green IS our favorite color. It\u2019s just so versatile. It can be bright, it can be light, it can be dark, it can be camouflage, it can be neon, it can be almost grey or brown but not really, or it can be unquestionably...green. Where are we going with this...nobody knows. Amarillo is Spanish for \u201cyellow\u201d though. And, yellow and green are pretty close in color. AND, this beer was brewed with GREEN AMARILLOS from Virgil Gamache Farms to the tune of 18# per barrel - pretty crazy, huh? So here it is - in all it\u2019s fresh and wet and dank and citrus glory. "
+    },
+    {
       "beer_name": "Aqua Seafoam Shame",
       "beer_style": "Wet Hop IPA",
       "abv": 6.4,
