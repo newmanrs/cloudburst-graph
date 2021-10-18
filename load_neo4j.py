@@ -20,8 +20,9 @@ def create_beers(tx):
         })
         RETURN count(b) as c
         """
-    records = tx.run(query, beers = beers)
-    print('Merged {} Beer nodes'
+    records = tx.run(query, beers=beers)
+    print(
+        'Merged {} Beer nodes'
         .format(records.single()['c']))
 
 
@@ -38,17 +39,17 @@ def create_hops(tx):
     """
 
     with open('data/hopnames.txt') as f:
-        hoplist = f.read().splitlines();
+        hoplist = f.read().splitlines()
 
     hoplist = [h.title() for h in hoplist if len(h) > 0]
 
-    with open('data/yakimachiefhopdata.json','r') as f:
+    with open('data/yakimachiefhopdata.json', 'r') as f:
         ych = json.load(f)
 
     # This query is fast but definitely not idempotent
     query_params = []
-    for i,hop in enumerate(ych['hops']):
-        query_params.append([i,hop])
+    for i, hop in enumerate(ych['hops']):
+        query_params.append([i, hop])
 
     query = """
         UNWIND $query_params as params
@@ -57,7 +58,7 @@ def create_hops(tx):
         SET h.data_source = 'Yakima Chief'
         SET h.data_file = 'yakimachiefhopdata.json'
         """
-    tx.run(query, query_params = query_params)
+    tx.run(query, query_params=query_params)
 
     query = """
         with $hoplist as hoplist
@@ -69,7 +70,7 @@ def create_hops(tx):
         SET new.data_source = 'Curated List'
         SET new.data_file = 'hopnames.txt'
         """
-    tx.run(query,hoplist=hoplist)
+    tx.run(query, hoplist=hoplist)
 
     query = """
         match (n:Hop)
@@ -77,7 +78,6 @@ def create_hops(tx):
     """
     records = tx.run(query)
     print("Merged {} Hop nodes".format(records.single()['c']))
-
 
 
 def create_beer_contains_hop_edges(tx):
@@ -91,8 +91,10 @@ def create_beer_contains_hop_edges(tx):
     """
 
     records = tx.run(query)
-    print('Merged {} (:Beer)-[:CONTAINS]-(:Hop) relationships'
+    print(
+        'Merged {} (:Beer)-[:CONTAINS]-(:Hop) relationships'
         .format(records.single()['c']))
+
 
 def create_styles(tx):
     query = """
@@ -105,8 +107,10 @@ def create_styles(tx):
         return count(e) as c
         """
     records = tx.run(query)
-    print("Merged {} (:Beer)-[:STYLE]-(:Style) relationships"
+    print(
+        "Merged {} (:Beer)-[:STYLE]-(:Style) relationships"
         .format(records.single()['c']))
+
 
 def create_hop_aromas(tx):
 
@@ -121,7 +125,8 @@ def create_hop_aromas(tx):
         return count(e) as c
         """
     records = tx.run(query)
-    print("Merged {} (:Aroma)-[:RECOMMENDED]-(:Aroma) relationships"
+    print(
+        "Merged {} (:Aroma)-[:RECOMMENDED]-(:Aroma) relationships"
         .format(records.single()['c']))
 
 
@@ -132,8 +137,10 @@ if __name__ == '__main__':
     try:
         pw = os.environ['NEO4J_PW']
     except KeyError as e:
-        msg = "No environment variable `NEO4J_PW` found.  Consider running export NEO4J_PW='yourpassword' in the current shell environment or in your shell config file."
-        raise KeyError(msg)
+        msg = "No environment variable `NEO4J_PW` found. " \
+            "Export NEO4J_PW='yourpassword' " \
+            "in the current shell environment or in your shell config file."
+        raise KeyError(msg) from e
 
     driver = GraphDatabase.driver(uri, auth=("neo4j", pw))
 
