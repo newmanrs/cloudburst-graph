@@ -1,6 +1,9 @@
+#!/usr/bin/env python3
 from bs4 import BeautifulSoup
 import json
 import re
+
+
 with open('tmp/cb.html','r') as f:
     contents = f.read()
     soup = BeautifulSoup(contents,'html.parser')
@@ -10,11 +13,13 @@ beers = soup.find_all('button','cb-beer-button')
 
 for i, beer in enumerate(beers):
 
-    #Extract data
+    # Extract data
     b = dict()
     b['beer_name'] = beer.find("h3","cb-beer-title").text
 
-    #consider saving the container element for all beers, and not using the raw soup of entire file here - all file scan in this loop is by far the slowest step here.
+    # Consider saving the container element for all beers,
+    # and not using the raw soup of entire file here - i
+    # all file scan in this loop is the bottleneck
     s = 'cb-beer-modal-'+str(i+1);
     beer = soup.find('div', id = s)
     b['beer_style'] = beer.find("span","cb-beer-style").text
@@ -43,5 +48,9 @@ for i, beer in enumerate(beers):
 #    desc = beer['description'].lower().split(' ');
 #    print(desc)
 
-with open('tmp/beers.json','w') as f:
+output_destination = 'tmp/beers.json'
+
+with open(output_destination,'w') as f:
     json.dump({'beers': beer_list}, f, indent=2)
+
+print(f"Output written to{output_destination}")

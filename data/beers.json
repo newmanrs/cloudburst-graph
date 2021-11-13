@@ -1,6 +1,69 @@
 {
   "beers": [
     {
+      "beer_name": "Tell Me More",
+      "beer_style": "Experimental Pale Ale",
+      "abv": 6.0,
+      "ibu": "52",
+      "description": "During the deluge of wet hops, we were made aware of a cool new hop in the experimental pipeline - ADHA 218. And we were like - WOAH! COOL! CAN WE HAZ?! WAIT. NO ROOM IN TANKS. BUT PLEASE GIVE. - because that\u2019s how our minds compute new variables during the chaos of harvest. BUT, we were hella curious and lined up a box from Roy Farms to save for later. Well guess what?! LATER IS NOW. And this hop is pretty crazy!! There\u2019s so much tropical fruit that it\u2019s reminiscent of drinking a fruity cocktail on a sunny beach. Which we all need. LIKE RIGHT NOW. But we can\u2019t. So we won\u2019t. But this beer will suffice in the interim. "
+    },
+    {
+      "beer_name": "\u2018Tis The Damn Season",
+      "beer_style": "Hoppy Red Ale",
+      "abv": 6.4,
+      "ibu": "45",
+      "description": "Oh, November in Seattle. With rain and the cold, comes anticipation and celebration. But what happens when you can\u2019t find it?\u00a0 We could call it even, and you can drink this beer for the weekend. Tis the damn season, write this down. We\u2019re brewing in a malty \u2018house, and the red not taken looks real good now.\u00a0 Pine flies, hoppy like the bite from the old times. Now we\u2019re missing old times, hear us out.\u00a0 We could just ride around and drink northwest red ale hopped with Chinook & Simcoe all damn year. Why don\u2019t we do that? WHY CAN\u2019T WE JUST HAVE THIS ONE THING ALL YEAR ROUND. If it\u2019s ok with you, it\u2019s ok with us. And Taylor Swift. "
+    },
+    {
+      "beer_name": "Brontosaurus Supernova IPA",
+      "beer_style": "IPA",
+      "abv": 6.5,
+      "ibu": "50",
+      "description": "We first brewed this beer for Beer Junction\u2019s 6th Anniversary back in 2016. It was an IPA with dinosaurs and supernovas and space and hops and other great amazing things that make beer!\u00a0 It was also about supporting a small business with exceptional practices, offering fresh beer to the tight knit West Seattle community. The beer was a hit! And we said we\u2019d never brew it again! But in 2019, word got around that Morgan was battling Multiple Myeloma and after a couple conversations, we agreed to bring this beer back, so long as the profits would go to Fred Hutch earmarked for MM research. Shortly after our last exchange, Morgan passed away. The pandemic was taking off and we were forced to table the beer once more, until we could celebrate Morgan - which is NOW! Like, TODAY! In the interim, our friends at Skagit Valley Malt got wind of a great cause and donated the malt. As for hops, it\u2019s the same bill as before -\u00a0 GALAXY (duh), CITRA, MOSAIC, SIMCOE and MANDARINA. On that note, a cheers to you Morgan - Here\u2019s to good people gone too soon, here\u2019s to hope and faith in scientific research, and here\u2019s to keeping promises to friends, past and present. And to dinosaurs, in space, wearing spacesuits, shooting lasers. "
+    },
+    {
+      "beer_name": "Even More So IPA",
+      "beer_style": "IPA",
+      "abv": 7.5,
+      "ibu": "73",
+      "description": "We\u2019ve seen the pendulum swing back and forth on IPA preferences for DECADES. That\u2019s how old we are. And it\u2019s also why our IPAs often pick and choose from several IPA substyles, a hybrid of sorts. But this one, we went full send on a WEST COAST rendition. How WC? Very West. Like, go West, and when you get there, go FURTHER. Even more so. Why? Because this beer is LOADED with Simcoe, Mosaic, & Citra hops. And it\u2019s kinda clear. And it\u2019s pretty bitter. But it all works out. Some think West Coast IPA is Dead. We think not. "
+    },
+    {
+      "beer_name": "Happy Little Clouds",
+      "beer_style": "Dry-Hopped Pilsner",
+      "abv": 5.3,
+      "ibu": "32",
+      "description": "We believe everyday is a good day when you brew. Start out, by believing here. A little touch of pilsner malt here, a little push of German and American hops there, caressed very gently layer after layer after layer. There are no limits here. Weyermann Pilsner Malt & an ever changing blend of hops."
+    },
+    {
+      "beer_name": "Put Away Wet",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.5,
+      "ibu": "65",
+      "description": "Our final wet hop brew of the season! We did 11 beers, 17 turns, which was ~250 total barrels. Plus, 3 more collab brews away from home. We drove 2,372 miles on 13 trips to 9 farms for 11 total varieties, back and forth, forever. We ate 43 tacos, 14 burritos, and a few tortas and tamales to boot. Also 1 quesadilla. Not gonna lie, we\u2019re pretty tired. But that pales in comparison to the farmers, farmhands, agronomists, process operators, warehousers, & countless others that worked everyday, on long shifts, for 40 days straight. So let\u2019s give it up to the people in hops, as none of these amazing beers would be possible without them! It\u2019s been one helluva harvest, and we\u2019re going out hard with 23#/bbl of Talus from Perrault Farms that results in an explosion of bright, tropical and citrus notes all the way through. It doesn\u2019t get any wetter than this! "
+    },
+    {
+      "beer_name": "Wet Blanket",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.7,
+      "ibu": "65",
+      "description": "A lot of people say \u201cNobody likes a wet blanket\u201d...Well, we\u2019re here to look those people in the eyes and say \u201cHow UNTRUE!\u201d Because LOTS of people will like this Wet Blanket. It\u2019s loaded with 20#/bbl of Yakima\u2019s finest Cashmere, grown by Cornerstone Ranches. It\u2019s complex, it\u2019s soft, it\u2019s deep, it\u2019s chewy, it\u2019s fruity, it\u2019s WET. You\u2019ll want to get all wrapped up notes of blackberry, blood orange, pine needles & kelp. Get cozy, pour yourself a wet blanket, and ENJOY it.  "
+    },
+    {
+      "beer_name": "Wetness Protection Program",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.4,
+      "ibu": "65",
+      "description": "Look, we\u2019re no angels nor is this Mosaic. We\u2019ve both done some shit. And we\u2019ve definitely SEEN a whole lotta shit. Too much shit. So much shit that we both think it\u2019s time to lay low and get off the grid. We\u2019re gonna stop using the word \u201cshit\u201d now. Because this beer is definitely not shit. It is THE shit. Dammit, ok that was the last one! Before we go hide away until next harvest, this lot of Wet Mosaic from Perrault Farms is so ridiculously insane - candied pineapple, wisp of passionfruit, hint of blueberry, touch of tangerines - that we know you\u2019ll be remembering it for years to come. Just don\u2019t remember it TOO hard - we don\u2019t want to cause no trouble.\u00a0 "
+    },
+    {
+      "beer_name": "Wet Is As Wet Does",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.7,
+      "ibu": "65",
+      "description": "Some might think of Chinook as a simple hop. An afterthought. #oldnews Like, it HAS been around since 1985. But if you\u2019ve been paying attention, some of your favorite brewers have been sprinkling it in your IPAs and Pales and Stouts and Reds - forever, every year, and more and more these days. In fact, some of the most award winning IPAs in our region have substantial amounts of Chinook in them - ever heard of Bodhi? How about Breakside IPA? Pizza Port? Pfriem IPA? What about us? You\u2019ve heard of us, right? So yeah, it\u2019s kinda a big deal. And this lot from Roy Farms in Moxee has all those classic notes of grapefruit and pine - but also pineapple & spruce, characteristics often observed specifically in Roy Farm\u2019s lots. Don\u2019t underestimate this old timer - its staying power and prominence in PNW beer will keep it around for years to come. Papa always said, \u201cwet is as wet does.\" "
+    },
+    {
       "beer_name": "Wet Brurrito",
       "beer_style": "Wet Hop IPA",
       "abv": 6.9,
@@ -76,13 +139,6 @@
       "abv": 8.0,
       "ibu": "65",
       "description": "Once, maybe twice, we brewed this \u201csingle\u201d hop Mosaic IPA called \u201cMosaicin\u2019 Me Crazy\u201d. It was a bright, multi-dimensional expression of one of the best American IPA hops in existence (and, was a rejected Holy Mountain beer name that we picked up off the cutting \u2018doom\u2019 floor and put to good use).\u00a0 ANYWAYS - this is basically an imperial version of that - 5 unique lots of Mosaic from 4+ farms from 3 total harvests in 2 types of pellets. The end result is loaded with notes of ripe pineapple, tangerines, and passion fruit that will have you saying MO\u2019 PLEASE! "
-    },
-    {
-      "beer_name": "Happy Little Clouds",
-      "beer_style": "Dry-Hopped Pilsner",
-      "abv": 5.3,
-      "ibu": "32",
-      "description": "We believe everyday is a good day when you brew. Start out, by believing here. A little touch of pilsner malt here, a little push of German and American hops there, caressed very gently layer after layer after layer. There are no limits here. Weyermann Pilsner Malt & an ever changing blend of hops."
     },
     {
       "beer_name": "Grainyard Graveyard IPA",
