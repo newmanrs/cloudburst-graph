@@ -130,6 +130,23 @@ def create_hop_aromas(tx):
         .format(records.single()['c']))
 
 
+def style_abv_stats(tx):
+    query = """
+        match (s:Style)-[:STYLE]-(b:Beer)
+        with s, avg(b.abv) as abv_mean, stDevP(b.abv) as abv_std
+        set s.abv_mean = abv_mean
+        set s.abv_std = abv_std
+        """
+    tx.run(query)
+    print("Computed style mean/std abv.")
+
+    query = """
+        match (b:Beer)-[:STYLE]-(s:Style)
+        set b.style_abv_z_score = (b.abv - s.abv_mean) / s.abv_std
+    """
+    tx.run(query)
+    print("Computed beer style_abv_z_score")
+
 if __name__ == '__main__':
 
     uri = "neo4j://localhost:7687"
@@ -151,4 +168,5 @@ if __name__ == '__main__':
         swt(create_beer_contains_hop_edges)
         swt(create_hop_aromas)
         swt(create_styles)
+        swt(style_abv_stats)
     driver.close()
