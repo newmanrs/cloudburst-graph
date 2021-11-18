@@ -1,1 +1,0 @@
-This json is an exported Neo4j Bloom perspective.  It ought to be importable via the Bloom GUI.
