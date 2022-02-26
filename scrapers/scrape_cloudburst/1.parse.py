@@ -16,6 +16,7 @@ for i, beer in enumerate(beers):
     # Extract data
     b = dict()
     b['beer_name'] = beer.find("h3", "cb-beer-title").text
+    print(f"Found {b['beer_name']}")
 
     # Consider saving the container element for all beers,
     # and not using the raw soup of entire file here - i
@@ -46,4 +47,4 @@ output_destination = 'tmp/beers.json'
 with open(output_destination, 'w') as f:
     json.dump({'beers': beer_list}, f, indent=2)
 
-print(f"Output written to{output_destination}")
+print(f"Output written to {output_destination}")
