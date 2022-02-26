@@ -1,12 +1,14 @@
 from neo4j import GraphDatabase
 import json
 import os
+from neohelper.utils import init_neo4j_driver
 
 
 def create_indexes(session):
 
     swt = session.write_transaction
 
+    # B-tree single property indexes
     propindex = {
         'Beer': 'name',
         'Hop': 'name',
@@ -17,8 +19,8 @@ def create_indexes(session):
     for label, prop in propindex.items():
         swt(create_property_index, label, prop)
 
-    index_name = 'titlesAndDescriptions'
-    nodes = ['Beer']
+    index_name = 'name_and_description'
+    nodes = ['Beer', 'Hop']
     properties = ['name', 'description']
 
     # Fun fact - Neo4j's query to check indexes is
@@ -50,10 +52,6 @@ def index_exists(tx, index_name):
 
 def create_fulltext_index(tx, name, nodes, properties):
 
-    name = 'name_and_descriptions'
-    nodes = ['Beer', 'Hop']
-    properties = ['name', 'description']
-
     query = """
         CALL db.index.fulltext.createNodeIndex('{}', {}, {})
         """.format(name, nodes, properties)
@@ -69,24 +67,16 @@ def print_db_indexes(tx):
         d = dict(r)
         print(" Index Name '{}'".format(d['name']))
         del d['name']
-        s = json.dumps(d, indent=2)
+        s = json.dumps(d, indent=None)
         lines = s.splitlines(keepends=True)
         print(''.join(['  ' + l for l in lines]))
 
 
 if __name__ == '__main__':
 
-    uri = "neo4j://localhost:7687"
-
-    try:
-        pw = os.environ['NEO4J_PW']
-    except KeyError as e:
-        msg = "No environment variable `NEO4J_PW` found.  Consider running export NEO4J_PW='yourpassword' in the current shell environment or in your shell config file."
-        raise KeyError(msg) from e
-
-    driver = GraphDatabase.driver(uri, auth=("neo4j", pw))
+    # Instantiate driver using evironmental variables
+    driver = init_neo4j_driver("NEO4J_USER", "NEO4J_PW", "NEO4J_URI")
 
     with driver.session() as session:
-        swt = session.write_transaction
         create_indexes(session)
-        driver.close()
+    driver.close()

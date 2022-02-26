@@ -1,4 +1,5 @@
 from neo4j import GraphDatabase
+from neohelper.utils import init_neo4j_driver
 import json
 import os
 
@@ -147,19 +148,11 @@ def style_abv_stats(tx):
     tx.run(query)
     print("Computed beer style_abv_z_score")
 
+
 if __name__ == '__main__':
 
-    uri = "neo4j://localhost:7687"
-
-    try:
-        pw = os.environ['NEO4J_PW']
-    except KeyError as e:
-        msg = "No environment variable `NEO4J_PW` found. " \
-            "Export NEO4J_PW='yourpassword' " \
-            "in the current shell environment or in your shell config file."
-        raise KeyError(msg) from e
-
-    driver = GraphDatabase.driver(uri, auth=("neo4j", pw))
+    # Instantiate driver using evironmental variables
+    driver = init_neo4j_driver("NEO4J_USER", "NEO4J_PW", "NEO4J_URI")
 
     with driver.session() as session:
         swt = session.write_transaction
