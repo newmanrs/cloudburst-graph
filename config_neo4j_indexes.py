@@ -1,7 +1,7 @@
 from neo4j import GraphDatabase
 import json
 import os
-from neohelper.utils import init_neo4j_driver
+from neohelper import init_neo4j_driver, get_driver
 
 
 def create_indexes(session):
@@ -75,7 +75,8 @@ def print_db_indexes(tx):
 if __name__ == '__main__':
 
     # Instantiate driver using evironmental variables
-    driver = init_neo4j_driver("NEO4J_USER", "NEO4J_PW", "NEO4J_URI")
+    init_neo4j_driver("NEO4J_USER", "NEO4J_PW", "NEO4J_URI")
+    driver = get_driver()
 
     with driver.session() as session:
         create_indexes(session)

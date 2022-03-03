@@ -1,14 +1,14 @@
 from neo4j import GraphDatabase
-from neohelper.utils import init_neo4j_driver
+from neohelper import init_neo4j_driver, get_driver
 import json
 import os
 
 
-def create_beers(tx):
+def create_beers(tx, file : str):
 
     """ Load from the results of cloudburst site scraper """
 
-    with open('data/beers.json', 'r') as f:
+    with open(file, 'r') as f:
         beer_hops = json.load(f)
         beers = beer_hops['beers']
 
@@ -152,11 +152,12 @@ def style_abv_stats(tx):
 if __name__ == '__main__':
 
     # Instantiate driver using evironmental variables
-    driver = init_neo4j_driver("NEO4J_USER", "NEO4J_PW", "NEO4J_URI")
+    init_neo4j_driver("NEO4J_USER", "NEO4J_PW", "NEO4J_URI")
+    driver = get_driver()
 
     with driver.session() as session:
         swt = session.write_transaction
-        swt(create_beers)
+        swt(create_beers, 'data/beers.json')
         swt(create_hops)
         swt(create_beer_contains_hop_edges)
         swt(create_hop_aromas)
