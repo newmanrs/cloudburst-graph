@@ -1,6 +1,4 @@
-from neo4j import GraphDatabase
 import json
-import os
 from neohelper import init_neo4j_driver, get_driver
 
 
@@ -69,7 +67,7 @@ def print_db_indexes(tx):
         del d['name']
         s = json.dumps(d, indent=None)
         lines = s.splitlines(keepends=True)
-        print(''.join(['  ' + l for l in lines]))
+        print(''.join(['  ' + line for line in lines]))
 
 
 if __name__ == '__main__':

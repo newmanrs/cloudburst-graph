@@ -1,10 +1,9 @@
-from neo4j import GraphDatabase
-from neohelper import init_neo4j_driver, get_driver
 import json
-import os
+
+from neohelper import init_neo4j_driver, get_driver
 
 
-def create_beers(tx, file : str):
+def create_beers(tx, file: str):
 
     """ Load from the results of cloudburst site scraper """
 
