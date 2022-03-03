@@ -10,22 +10,24 @@ Additional examples are shown below in the [example queries](#example-db-queries
 
 This project requires Neo4j and for best search features Neo4j Bloom, which are populated via some python ETL scripts from files in the `data` folder.  These files are produced by [scrapers](#web-scrapers) whose scripts are included in the `scrapers` subfolder for those who wish to update the data files.
 
-Most users can install Neo4j and Bloom by installing Neo4j Desktop for Windows or Mac.  A sample docker script for setup of Neo4j is provided in `start_neo4j.sh`, but without an enterprise server license you will not be abnle to install Bloom and use the enterprise grade interface, but can still run queries in the [console](#example-db-queries).
+Most users can install Neo4j and Bloom by installing Neo4j Desktop for Windows or Mac.
 
-The scripts assume an environmental variable for the database password is set as:
+The scripts assume environmental variables contain login information to the database:
 ```
-export NEO4J_PW="yourpassword"
+export NEO4J_USER=neo4j
+export NEO4J_PW=password
+export NEO4J_URI=neo4j://localhost:7687
 ```
-with the default user `neo4j`, and that the ports are still set to the defaults for the console of 7474, and bolt database driver on 7678.  
 
-The database can be populated by running
+Install python dependencies with 
+```
+pip3 install -r requirements.txt
+```
+The hop graph and database indexes are then populated by running
+
 ```
 python3 config_neo4j_indexes.py
-```
-to configure indexes once, and then loaded with
-
-```
-python3 load_neo4j.py
+python3 cloudburst_graph_etl.py
 ```
 
 
@@ -194,4 +196,4 @@ Example pictures are forthcoming.
 
 The web scraping code has now been moved to a subfolder organized as `scrapers/scraper_name`.  The project scrapes data from [Cloudburst](https://cloudburstbrew.com/) using curl then a python script using [Beautiful Soup](https://beautiful-soup-4.readthedocs.io/en/latest/).  This codepath is probably somewhat stable (until they redo their webpage).
 
-The hop data from Yakima Chief is processed via a mixture of `pdftotext`, `python`, and `sed`.  The scrapers are provided for those who want to try running them, but expect that over time these to decay quickly and become quite buggy.  The chain of scripts produce intermediate files, but you should be able to march forward as the scripts are numbered sequentially in order of necessary execution.  Not sure how often the PDF is updated, or if the same scripts will be usable again.
+The hop data from Yakima Chief is processed via a mixture of `pdftotext`, `python`, and `sed`.  The scraper scriptss are provided for those who want to try running them, but I expect if the PDF is updated by Yakima Chief that there will be additional errors in the formatting.  Who knows, maybe they'll even add line breaks in the right locations in the main list of hops.  The scripts are numbered sequentially in order of necessary execution.
