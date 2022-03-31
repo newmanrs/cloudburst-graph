@@ -1,6 +1,62 @@
 {
   "beers": [
     {
+      "beer_name": "Friends of Friends IPA",
+      "beer_style": "IPA",
+      "abv": 6.4,
+      "ibu": "45",
+      "description": "Every time we visit Denver, Our Mutual Friend Brewing is a must stop. Their beers are fantastic, their vibe is welcoming, and they emphasize locally sourced ingredients - especially when it comes to malt. And thus, a collab was born! After settling on an IPA (obvs), we decided to emphasize local maltsters from both our regions in our base recipe - Troubadour Pevac Pilsner Malt from Fort Collins, CO; Skagit White Wheat from the Skagit Valley; and Linc Spelt from Othello, WA. As for hops - we used something familiar and predictable - Citra + Centennial - so that you (our drinkers) could pick up on the subtle differences from these unique and distinct base grains. The end result is a classic Hazy IPA that has delicate notes of water cracker and dried hay, along with a pop of ripe tangerine, ruby red grapefruit and blackberry, because it IS an IPA after all. "
+    },
+    {
+      "beer_name": "Take A Look IPA",
+      "beer_style": "IPA",
+      "abv": 6.9,
+      "ibu": "68",
+      "description": "Contributions of Chinook hops grown by Morrier Ranches, Roy Farms, Champoux Farms, and Coleman\u2019s Alluvial Farm. "
+    },
+    {
+      "beer_name": "For Me This Is Heaven",
+      "beer_style": "Modern American Helles",
+      "abv": 5.3,
+      "ibu": "40",
+      "description": "Our buddy Jimmy, who likes to wax poetic, once said \u201cThe first star I see may not be a star\u201d and we were like, \u201cDamn Jimmy that shit is deep.\u201d And then we started to think about that, and other things - like beer styles and traditional flavor profiles and if it\u2019d be possible to combine some of our favorite, yet disparate, things that could result in something entirely new, but also still as perceptible pieces and then Jimmy interrupted our thought process with \u201cIf not now when?\u201d and we were like \u201cJeez Jimmy, so timely, so sentimental.\u201d ANYWAYS - this base recipe started as a Munich-Style Helles - Pilsner malt with a splash of Munich, bittered with Magnum and flavored with Mittelfruh. But then we added a little Citra & Mosaic in the Whirlpool. And dry-hopped it with Citra & Mosaic Cryo. The result is essentially a low bitterness, slightly bready, highly aromatic hoppy lager.\u00a0\u00a0"
+    },
+    {
+      "beer_name": "Love Is Blind IPA",
+      "beer_style": "IPA",
+      "abv": 6.7,
+      "ibu": "58",
+      "description": "What if we didn\u2019t tell you what hops were in our IPA? And you just had to try it out, sight unseen, hops unknown, to find out if you really liked the flavor and aroma profile? You might actually surprise yourself to know what hops are on the brew sheet, and fall in love with a variety you\u2019d overlook on a normal beer menu, out in the real world.\u00a0 And you\u2019d potentially miss all these aromas of bright pineapple, papaya, & hibiscus and flavors of sweet citrus that carry through to a soft yet pithy type of bitterness.\u00a0 And at the end of the glass, you have to decide, once and for all, to drink this IPA\u2026 FOR-EV-ER. In sickness and in health, good times and bad, this is your only IPA. Even if you find out this IPA might\u2019ve wanted to be with another drinker, AFTER you already professed your commitment to it. Even if you find out its family is a bunch of weirdos. And their friends are insufferable and don\u2019t even like you. Or they thought this entire experiment was just a game, and only signed on to it to get famous. But maybe, just maybe, you really DO fall in love with Australian Enigma hops without us telling you\u2026ah shit. On that note, there is a little Citra and Mosaic in there doing the matchmaking. "
+    },
+    {
+      "beer_name": "Grandma Take Me Home",
+      "beer_style": "Double Oatmeal Brown w/ Coconut",
+      "abv": 7.5,
+      "ibu": "38",
+      "description": "Double Oatmeal Brown w/ Coconut | 7.5% | 38 IBU"
+    },
+    {
+      "beer_name": "Yakima Freeze",
+      "beer_style": "Frozen Wet Hop Ale",
+      "abv": 6.4,
+      "ibu": "50",
+      "description": "Frozen Wet Hops? FROZEN WET HOPS. That\u2019s what\u2019s in this beer. Like, they picked the hops and instead of conveying them to the kiln\u2026.they conveyed them to a flash freezer and sent them to a cold storage unit. And then, 4 months later, they showed up at our brewery\u2026.at -10 degrees. And we brewed with them the same we do with \u201cregular\u201d fresh wet hops. Technology, my dudes. It\u2019s pretty fucking cool.\u00a0"
+    },
+    {
+      "beer_name": "Convenient Parking IPA",
+      "beer_style": "IPA",
+      "abv": 6.5,
+      "ibu": "55",
+      "description": "You know when you find that perfect spot and it just makes your entire day? That\u2019s what we intended to do with this beer - encapsulate that feeling in liquid form. It\u2019s got our favorite lots of Citra, Mosaic, Strata, & Galaxy in it for a\u00a0 bright, fruity, fragrant, and complex blend of aromas you can just get lost in. And it\u2019s got a splash of wheat and naked oats in there so the edges are soft. Consider it a small victory to celebrate, a pleasant matter of happenstance, a rewarding gesture of karma from the universe. Because times are tough\u2026(thinking)...and the world is\u2026(bites tongue)...and\u2026can\u2019t\u2026help\u2026.FUCK RUSSIA! FUCK REGRESSIVE POLICIES ON WOMEN\u2019S RIGHTS!\u00a0"
+    },
+    {
+      "beer_name": "Crushcade Blast IPA",
+      "beer_style": "IPA",
+      "abv": 6.5,
+      "ibu": "55",
+      "description": "Fucking beer. It\u2019s so 2010s. And 2000s. 1990s also. But right now, in the 2020s, it\u2019s pretty much DOA. Industry nerds are all like \u201cBeer data declining equals numbers bad!\u201d And you wanna know why? BC HARD SELTZER NO DUHS. It\u2019s like carbonated water, but with alcohol and other flavors that taste like fruits! CRISPY! SNAPPY! REFRESHING! CHEMICALS! And so, we set out on a journey to follow this hot trend, because that\u2019s what we\u2019ve always done. Give the people what they want! Even if it\u2019s the lowest common denominator! For our version, we wanted to go with a bright & zesty citrus forward profile - like LEMON, LIME, & TANGERINE\u2026.but we hit our first roadblock. We didn\u2019t have any buckets of these flavors! And it was cold outside, so we didn\u2019t feel like walking down to Pike Market to pick up ACTUAL lemons, limes, and tangerines. So we used what we had available to us - and incorporated a blend of Citra, Comet, Motueka, Triumph, and Cascade Cryo hops. As for the alcohol, we needed to make sugar water and again, the source was right in front of our faces - why not use some malt!? So we did. And lastly, for body & texture, we added some salts and white wheat because we lacked sodium citrate or potassium sorbate. It is what it is! ANYWAYS, today, we PROUDLY present to you, the newest offering of the HOTTEST international trend\u2026wait\u2026.FUCK. We just made another IPA again, didn\u2019t we? "
+    },
+    {
       "beer_name": "That\u2019s So Metaverse IPA",
       "beer_style": "IPA",
       "abv": 6.7,
@@ -391,13 +447,6 @@
       "abv": 5.2,
       "ibu": "40",
       "description": "We started One in Eight FOUR harvests ago with CLS Farms. Shelley (who owns/runs the farm with her husband Eric) was battling a second round of breast cancer, which coincided with Steve\u2019s mom undergoing radiation treatment for breast cancer at the same time. Since then, CLS Farms has run with this beer as an annual fundraiser for the Wellness House of Yakima, who provide housing, resources and services to women in need that are fighting cancer. This year Yakima Valley Hops and Skagit Valley Malt\u00a0 joined the effort as well - and we\u2019re using a new hop variety - Idaho Gem! Over a blend of Skagit Valley Fritz Pale, Fritz Pils, & Munich malt, the end result is an easy drinking beer perfect for those long, hot summer nights."
-    },
-    {
-      "beer_name": "Yakima Freeze",
-      "beer_style": "Frozen Wet Hop Ale",
-      "abv": 6.4,
-      "ibu": "50",
-      "description": "Frozen Wet Hops? FROZEN WET HOPS. That\u2019s what\u2019s in this beer. Like, they picked the hops and instead of conveying them to the kiln\u2026.they conveyed them to a flash freezer and sent them to a cold storage unit. And then, 3 months later, they showed up at our brewery\u2026.at -10 degrees. And we brewed with them the same we do with \u201cregular\u201d fresh wet hops. Technology, my dudes. It\u2019s pretty fucking cool.\u00a0"
     },
     {
       "beer_name": "Splitting Hairs IPA",
@@ -2183,13 +2232,6 @@
       "description": "This IPA is looking tasty, really scrumptious. Like the equivalent of a human rocking Dad/Mom Jeans, which are back in fashion by the way. This beer has all the sexy hops from that original era - Centennial, Cascade, Chinook, & Simcoe - and at rates that has a little pale crystal malt asking, \u201cIs there any more room for me?\u201d The end result of pine, resin, blackberry & grapefruit brings the thunder, and makes us wonder...about those jeans. And IPAs. Styles evolve, and some things come and go and come back again. Like a timeless classic - tasting good, pretty tight - this retro IPA is guaranteed to look good on you."
     },
     {
-      "beer_name": "Grandma Take Me Home",
-      "beer_style": "Dad Beer",
-      "abv": 7.5,
-      "ibu": "38",
-      "description": "I kicked and screamed, said please don\u2019t go"
-    },
-    {
       "beer_name": "Art Deco Stuff",
       "beer_style": "DIPA",
       "abv": 8.3,
@@ -2618,10 +2660,10 @@
     },
     {
       "beer_name": "Inquiring Grinds",
-      "beer_style": "Dark Stuff",
-      "abv": 6.1,
+      "beer_style": "Milk Stout with Coffee & Cardamom",
+      "abv": 6.6,
       "ibu": "20",
-      "description": "Turns out, Turkish Coffee is a really cool thing. Not only is it delicious, but there\u2019s a tradition of reading one\u2019s fortune in the leftover grounds in one\u2019s cup. It\u2019s called Tasseography. Look it up. Using that as inspiration, we made a hefty milk stout and infused it with Captain Bert\u2019s beans from Lighthouse Roasters and hand crushed green cardamom pods. Whether the future ahead is positive or negative, it\u2019s best to enter it with open heart and open mind."
+      "description": "Turns out, Turkish Coffee is a really cool thing. Not only is it delicious, but there\u2019s a tradition of reading one\u2019s fortune in the leftover grounds in one\u2019s cup. It\u2019s called Tasseography. Look it up! Using that as inspiration, we made a hefty milk stout and infused it with homemade cold brew with Captain Bert\u2019s beans from Lighthouse Roasters and hand crushed green cardamom pods. Whether the future ahead is positive or negative - DEAR GOD PLEASE BE POSITIVE -\u00a0 it\u2019s best to enter it with an open heart and open mind\u2026unless things are truly fucked. In that case, let your hypothalamus take charge as fight or flight might work better.\u00a0 "
     },
     {
       "beer_name": "Efflorescent Adolescence IPA",
