@@ -26,6 +26,7 @@ huell
 idaho
 loral
 mandarina
+mittelfruh
 mosaic
 motueka
 nelson
@@ -35,6 +36,7 @@ sabro
 saphir
 secret
 simcoe
+strata
 talus
 waimea
 warrior

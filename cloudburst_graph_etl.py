@@ -1,7 +1,7 @@
 import json
 
 from neohelper import init_neo4j_driver, get_driver
-
+from slugify import slugify
 
 def create_beers(tx, file: str):
 
@@ -11,12 +11,21 @@ def create_beers(tx, file: str):
         beer_hops = json.load(f)
         beers = beer_hops['beers']
 
+    # Slugify beer descriptions to better
+    # string match with hop names, otherwise
+    # we won't match hop names followed by
+    # punctuation.
+    for beer in beers:
+        beer['slug_description'] = \
+            slugify(beer['description'], separator=' ').title()
+
     query = """
         UNWIND $beers as beer
         MERGE (b:Beer {name : beer.beer_name,
             abv : beer.abv,
             style : beer.beer_style,
-            description : beer.description
+            description : beer.description,
+            tmp_slug : beer.slug_description
         })
         RETURN count(b) as c
         """
@@ -25,6 +34,12 @@ def create_beers(tx, file: str):
         'Merged {} Beer nodes'
         .format(records.single()['c']))
 
+def remove_beers_tmp_slug(tx):
+    query = """
+        MATCH (b:Beer)
+        REMOVE b.tmp_slug
+        """
+    tx.run(query)
 
 def create_hops(tx):
 
@@ -85,7 +100,7 @@ def create_beer_contains_hop_edges(tx):
     query = """
         match (b:Beer)
         match (h:Hop)
-        where b.description contains h.name
+        where b.tmp_slug contains h.name
         merge (b)-[e:CONTAINS]-(h)
         return count(e) as c
     """
@@ -162,4 +177,5 @@ if __name__ == '__main__':
         swt(create_hop_aromas)
         swt(create_styles)
         swt(style_abv_stats)
+        swt(remove_beers_tmp_slug)
     driver.close()

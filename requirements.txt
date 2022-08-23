@@ -1,1 +1,3 @@
+python-slugify
 git+https://github.com/newmanrs/neohelper@main
+

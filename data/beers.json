@@ -1,6 +1,272 @@
 {
   "beers": [
     {
+      "beer_name": "Cosmic Lust IPA",
+      "beer_style": "IPA",
+      "abv": 7.8,
+      "ibu": "70",
+      "description": "Oh, what Dusty once was. He was vibrant! He was juicy! He was rough around the edges, with a little bite, and yet still balanced and approachable. Everybody loved him, and even more do today. Sure, he still looks the same - but his old friends know that he's changed. He's bigger now, a little less interesting - dull and dumbed down. He says money and opportunity haven't changed him....Ok. But to those who remember what once was, this Lust's for you.\u00a0"
+    },
+    {
+      "beer_name": "Sorry For Partying",
+      "beer_style": "Keller Festbier",
+      "abv": 5.6,
+      "ibu": "35",
+      "description": "It\u2019s almost that time of the year! Oktoberfest! One of the biggest parties in the world! FUN TIMES SEHR G\u00dcT! As a remote homage to this international beer holiday, we brewed up an unfiltered (we don\u2019t own a filter) and unfined (no clarifiers added) rendition of this style with pilsner, vienna, and caramunich malts from Weyermann and German Mittelfruh hops. And while we\u2019re still trying to find our way back to the good old days of partying our faces off, surrounded by friends and randos alike, we\u2019ll let this beer attend the party in proxy for now.\u00a0 "
+    },
+    {
+      "beer_name": "nelsonnugz.com",
+      "beer_style": "Pale Ale",
+      "abv": 5.0,
+      "ibu": "52",
+      "description": "Through the collaborative spirit of the digital realm, we decided to upload our newest version of this hoppy crusher in the progressive tech hub of Seattle. Pale Ales are as tried and true as floppy disks, MS-DOS, VHS tapes and MP3 players. They never go out of style - even if they go out of relevancy.\u00a0 A blend of 2-Row and White Wheat prop up the hard drive, while the Nelson Sauvin, Nugget, & Hop 630 use up all the memory. Have a Beer. Surf the Web. Taste the Technology. "
+    },
+    {
+      "beer_name": "Verse Jump IPA",
+      "beer_style": "IPA",
+      "abv": 6.9,
+      "ibu": "57",
+      "description": "It\u2019s that time of the year where we approach peak FOMO - all the concerts, beach parties, hikes to alpine lakes, backyard BBQs, friends with boats, M\u2019s games, road trips - ALL THE THINGS! And it\u2019s impossible to do it all at once - UNLESS - you channel yourself in multiple metaverses, and verse jump simultaneously through active portals with the help of your own self that lives in the Alphaverse. How do you FIND you? All you need are some old walkman headphones and this IPA, loaded with HBC 586, Mosaic, and a splash of Citra. Also, you might want to eat some mushrooms too, but you didn\u2019t hear that from us. HAPPY SUMMER FUN TIMES! "
+    },
+    {
+      "beer_name": "Jump To Conclusions IPA",
+      "beer_style": "IPA",
+      "abv": 6.7,
+      "ibu": "59",
+      "description": "Oh hey LOOK at this beer! It\u2019s ExTrA HaZy that\u2019s CrAzY! That\u2019s because there\u2019s oats in the malt bill! Spelt too! Therefore it should be soft and fluffy and sweet and cloying. BUTITSNOT. Those oats do a nice job of balancing the bright citrus flavors from mostly from Amarillo (in a hazy?! Whaaa!) along with some solid bitterness and a surprisingly dry finish. In short - hazy is not a flavor, looks can be deceiving, and assessing a beer on its appearance is much less important than for its aroma, flavor, and finish. Now go on, enjoy everything about this beer. "
+    },
+    {
+      "beer_name": "Happy Little Clouds",
+      "beer_style": "Contemporary American-Style Pilsner",
+      "abv": 5.3,
+      "ibu": "32",
+      "description": "Batch #912 \u201cIn Bob We Trust\u201d Brewer Notes: Bob\u2019s been getting a lot of love lately - a Silver at GABF, a Gold at Washington Beer Awards - and it means the world to us that it\u2019s finally getting noticed. But also, we\u2019ve felt it was special all along. So, this batch is hopped with GR Magnum, CZ Saaz, GR Mandarina, & Oregon Amarillo - a little more of a classic rendition - with notes of orange peel, lemon zest, and meadow grass.\u00a0"
+    },
+    {
+      "beer_name": "Reports Of My Death Have Been Greatly Exaggerated",
+      "beer_style": "West Coast IPA",
+      "abv": 7.2,
+      "ibu": "68",
+      "description": "Have you heard the word? West Coast IPAs are coming back baby, in all their clear and bitter glory. Can you believe they almost went extinct, near death by irrelevance, no thanks to that juicy haze craze cooler maze. PHEW! It\u2019s like Sierra Nevada and Lagunitas must\u2019ve been shaking in their boots the last 5 years, as everybody forgot about them and their millions of barrels! Oh the pendulum of time, the shifting of palate preference, and the perception of trends. Alas, let us rejoice in this new found love of yesteryear - loaded with Warrior, Mosaic, Citra, Chinook - as this style rises from the ashes of adjuncts. And remember, we have told you nothing about IPA that is not true.\u00a0 "
+    },
+    {
+      "beer_name": "Stratabulous! IPA",
+      "beer_style": "IPA",
+      "abv": 6.7,
+      "ibu": "63",
+      "description": "From the brewers that NEVER...er, RARELY...brew single hop beers...other than Snoozefest, and Mosaicin\u2019 Me Crazy...yes, we made each of those a few times...ANYWAYS...we proudly offer our newest and nextest iteration: STRATABULOUS! In this rendition, we used 7 unique lots of Strata, spanning 2 harvests (2020 + 2021) from four farms (Crosby, Goschie, Roy & Coleman) to give you depth and complexity like you\u2019ve never tasted before. There are notes of Guava! Passionfruit! Ruby Red Grapefruit! And Tangerines! So don\u2019t be fooled by the horrible name of this beer - it\u2019s magical. It\u2019s mesmerizing. It\u2019s fantastic. It\u2019s fabulous."
+    },
+    {
+      "beer_name": "Cool Space Photos IPA",
+      "beer_style": "IPA",
+      "abv": 6.7,
+      "ibu": "57",
+      "description": "Hey. Did you see those crazy photos from that new NASA space telescope? Well we did too. It\u2019s the largest AND most powerful space telescope on the earth\u2026but not necessarily in existence, because technically some other world could have one in a different galaxy and be like looking back at us, and like even more in depth, and see us making news about our $10 billion dollar telescope and be all laughing like \u201cHAHAHA\u201d or maybe like \u201cGlurgh Zok Zok Zok\u201d\u00a0 (bc that\u2019s how those specific beings laugh) and are all like \u201cthose humans can only barely see things 13.1 billions years old, what a bunch of plebes!\u201d But at least those cool space photos distracted us from all the other shit going on, and allowed us to think about how small we are in comparison to so many things, and that there is so much out there that we don\u2019t even know. But one thing we do know is, if you brew a beer with Galaxy hops, craft beer law states the name MUST reference space. So there\u2019s that. There\u2019s also Simcoe & Citra in there too, to create maximum intergalactic enjoyment. \u201cCHONK!\u201d (that means \u201ccheers\u201d) "
+    },
+    {
+      "beer_name": "Froth Goblin",
+      "beer_style": "Helles Lager",
+      "abv": 5.0,
+      "ibu": "30",
+      "description": "Crush that fresh nectar, that rocky white foam, that sweet bready malt, that alpine meadow Mittelfruh, that prickly carb, that clean crisp quench. That glug, that charge, that gulp, that burp. Froth Goblin is built for speed, engineered for maximum stoke, adhered to highest of German standards, designed for the lowest of introspection. Dig it, clink it, drink it, foam stache it, again and again, til you become one with the goblin of the froth. No idea what we\u2019re talking about? Have another. You\u2019ll see."
+    },
+    {
+      "beer_name": "Reverse Course IPA",
+      "beer_style": "IPA",
+      "abv": 6.7,
+      "ibu": "60",
+      "description": "Watch out! Inconveniently coming through! We\u2019re moving backwards, \u2018cause that\u2019s the hot new (?) thing in this country. From body autonomy to public safety, from the environment to the classroom, from voting rights to human rights, and the blurred line of church and state - IT\u2019S ALL GOING IN REVERSE. And since this is our current world, we figured we\u2019d jump on that backwards moving bandwagon and use some hops that were cool when Reagan was trickling down money and we had an ineffective war on drugs and Clarence Thomas was, uh, still sexually harassing women. These are hops that you didn\u2019t necessarily ask for, but that doesn\u2019t matter because we want to use them. They are classic, they are American, and their acreage (& relevance) is dwindling. OK, which hops?! CRYSTAL! NUGGET! CHINOOK! And\u2026ok fine we\u2019ll compromise, some CITRA is in there too. DON\u2019T SAY WE NEVER DID ANYTHING FOR YOU. Doesn\u2019t it taste great? Like the good old days? You know, like simpler times when everything was just swell? No? Those times never existed? "
+    },
+    {
+      "beer_name": "Conditional Hours",
+      "beer_style": "Pale Ale",
+      "abv": 6.1,
+      "ibu": "40",
+      "description": "And we get it, people serendipitously swing by everyday - mostly shocked, surprised, disappointed, annoyed - to find this information out.  Which is why all this information is on our website here and here, our ig profile here, and even on google over here. That said, both @googlebusiness and #fuckyelp don\u2019t allow us to specify these conditional hours in our public listings so they don\u2019t really help us that much. THAT SAID, our location at 5456 Shilshole Ave in Ballard (a mere 4.9 miles away) is open every day of the week to happily serve you fresh pints in an open/covered/heated space. We even have a food truck there that serves some of the best dumplings & noodles in town, while we\u2019re on the subject. "
+    },
+    {
+      "beer_name": "Too Late IPA",
+      "beer_style": "IPA",
+      "abv": 6.8,
+      "ibu": "55",
+      "description": "\u2026but it was TOO LATE. Steve was so excited about the Citra Vista IPA he had brewed a mere 2 days ago, that he inadvertently dry-hopped the tank with the next week\u2019s varieties. Citra and Vista had joined the Mosaic and Nelson party. And after some loudly exclaimed expletives, and a deep breath, he realized that this combination has potential to actually taste pretty great. And so, we decided to make things interesting by doing the inverse recipe from the week before for this beer. Which ended up being a fun experiment as far as flavor and aroma impact go in regards to hop addition sequences! And yeah, the malt bills are different, but sometimes hops happen and you just have to roll with it. Please enjoy this inadvertent yet delicious beer, and compare it to Wait Wait IPA to discover the nuance."
+    },
+    {
+      "beer_name": "So Last Summer",
+      "beer_style": "English Summer Ale",
+      "abv": 5.4,
+      "ibu": "27",
+      "description": "English Summer Ale | 5.4% | 27 IBU"
+    },
+    {
+      "beer_name": "Wait Wait IPA",
+      "beer_style": "IPA",
+      "abv": 6.9,
+      "ibu": "58",
+      "description": "As most of you - our customers, our drinkers, our fans - have come to know, our IPA recipes are created with explicit intent (even if the names and descriptions might not make it seem that way). We start with a blank slate: build the malt bill, perseverate over the hop bill, go back to the malt bill to see if we should tweak it now that we have an idea of what hops we\u2019re using, then finally go back over the hops and dry-hop. Oftentimes, we ask questions like: Are we building this beer around a specific hop variety? Is it the relationship between two hop varieties? Is it a combination of 2, 3, 4 maybe 5 hop varieties to express a desired flavor and aroma profile? Or is this a new combination so we can discover what that outcome might be? Why are we telling you all of this? Well, because this beer started out to see what two lots of Mosaic hops would do with one specific lot of Nelson Sauvin hops. But, nearing the end of a long day, 8 days after we brewed this beer, Steve carefully weighed out the hops for the dry hop addition, climbed up the ladder, and as soon as he finished adding 88# total pounds of Vista and Citra hops, an inner voice exclaimed \u201cWAIT! WAIT!\u201d..."
+    },
+    {
+      "beer_name": "Memory of a Memory IPA",
+      "beer_style": "IPA",
+      "abv": 7.0,
+      "ibu": "68",
+      "description": "If you were to think about IPAs brewed in the PNW in the early 2000s, what comes to mind? For us, they were assertive, rough around the edges, with a crystal malt presence that sometimes came off sweet and/or muddled, high perceived bitterness, unfiltered sheen of haze, with aromatic notes of grapefruit and pine trees and sharp esters. And while we look back fondly on these formative beers, if we were to replicate one, to the \u201cT\u201d, in this day and age, it probably wouldn\u2019t be all that great. Those are not fighting words - we\u2019re just being honest! And it won\u2019t stop us from re-imaging what they could\u2019ve been, with what we know now, twenty years later, and making one with all the things we looked back fondly on, while editing away some of those less desirable components. We hope this beer tastes familiar to you, but also, like it was brewed in the year 2022. "
+    },
+    {
+      "beer_name": "Millions Of Beaches IPA",
+      "beer_style": "IPA",
+      "abv": 6.8,
+      "ibu": "54",
+      "description": "Whenever we use Talus hops, we can\u2019t help but think of the beach. It\u2019s SO. FUCKING. TROPICAL  - like passionfruit, mango, key lime, pineapple, & coconut - and thus, we want to drink beers made with it by the beach, around the beach, while at the beach, looking at the beach, thinking of the beach, and the like. For this sandy little trip, we added some peachy Citra hops for depth and some ADHA 218 hops for maximum tropicalia. Seattle hasn\u2019t seen much beach weather yet\u2026but fingers crossed that changes soon. Until then, you can shove your nose in this beer, take a long sip, close your eyes, dream of summer vibes, until you get rudely interrupted and be all like BEACH, PLEASE!"
+    },
+    {
+      "beer_name": "Porter",
+      "beer_style": "Porter",
+      "abv": 5.8,
+      "ibu": "40",
+      "description": "That\u2019s it. This is the name of the beer. It\u2019s also the style of this beer. In almost 7 years of brewing beer, we\u2019ve never named a beer by its style. That would be so boring! And uninspiring! And old school! It\u2019s too simple! But here we are. And that\u2019s basically this beer. It is what it is - a straightforward, chocolatey, slightly roasty, hint of caramel, touch of earthy hops, with a blanched finish. PORTER. You either want it, or you don\u2019t. "
+    },
+    {
+      "beer_name": "Rock The Boat",
+      "beer_style": "Hazy Pale Ale",
+      "abv": 6.2,
+      "ibu": "40",
+      "description": "A few times in our lives, we\u2019ve been told to not \u201crock the boat.\u201d It\u2019s kinda similar to telling someone to \u201ccalm down,\u201d as it often garners a response that has the opposite of the desired effect. And if ever there was a time to rock the boat\u2026that time is NOW. Because among other things, we live in a country that: continuously cuts healthcare funding and is the only developed nation that refuses to offer universal healthcare; aims to strip the rights of body autonomy and LGBTQIA+ equality; gerrymanders and limits access to voting in free and fair elections; continues to insert Christianity into public policy and education; ignores a looming climate crisis while giving in to big industry and corporate greed; and refuses to pass reasonable, common sense gun control measures when more Americans have died domestically from firearms than from ALL WARS COMBINED\u00b9; among MANY other issues\u2026.so\u2026ok\u2026 FUCK THIS SHIT. Go on now, ROCK. THAT. BOAT. And if you get thirsty while you\u2019re doing it, here is a pleasant, juicy pale ale hopped with Strata and Citra upon a soft grist of 2- Row, Pils, Red Wheat, & Spelt."
+    },
+    {
+      "beer_name": "Do Over IPA",
+      "beer_style": "IPA",
+      "abv": 7.0,
+      "ibu": "62",
+      "description": "Every hop deserves a second chance. Most, maybe even a third. And that\u2019s where Ekuanot comes in. Wait WAIT. DON\u2019T YOU DARE STOP READING. We first had taste of Ekuanot as Hop #366 in 2013, before it was released to the public with the name Equinox\u2026.which then had to be changed with trademark reasons\u2026so yeah, it wasn't the smoothest roll out for a new hop variety. Anyways, the hop previously known as Equinox was promising! At times, at least! But then people started to make single hop IPAs with it and it would go all green bell pepper, and the farmers were still tweaking picking windows, and quite a few brewer\u2019s wrote this hop off. Acreage went from 890 planted acres in 2017 all the way down to 381 acres in 2021. But guess what? THIS SHIT IS FIRE NOW. STOP LAUGHING. Seriously, try this beer and tell us it doesn\u2019t deserve a seat at the IPA table. And yes, the recipe is cut with Citra - but the overall math is 30% Ekuanot T-90s, 30% Ekuanot Cryo, & 40% Citra T-90s, resulting in flavors of white pineapple, tangerine, dark cherry and a hint of red peppercorn. So yeah\u2026EkuaNOT? More Like EkuaYEAH!"
+    },
+    {
+      "beer_name": "Knock Knock IPA",
+      "beer_style": "IPA",
+      "abv": 6.6,
+      "ibu": "63",
+      "description": "Belma. Belma Who? Idaho 7. What? Citra. Citra? Are you just saying the hop bill? That\u2019s not how this works. Orange. I know this one, it's like \u2018Orange you glad you didn\u2019t say banana\u2019. We didn\u2019t say Banana! More like Strawberries and Pineapple. This is the worst knock knock joke of all time. Knock Knock. Ok this is also the worst beer description of all time. Delicious Beer! "
+    },
+    {
+      "beer_name": "Frozen Assets",
+      "beer_style": "Frozen Wet Hop IPA",
+      "abv": 6.7,
+      "ibu": "50",
+      "description": "We know, you know - Frozen Assets can be a big deal. And a big pain in the butt. And oftentimes - BAD NEWS. But fret not - you WANT these frozen assets. These ice cold bullets. These sub zero heroes. These arctic flavor darts. These things are so rare, you gotta call Yakima Chief to unlock them and ask for them to be released into the wild. This time we went with 22#/bbl of equal parts Citra, Mosaic, & Azacca for a fresh blast of pineapple, tangerine, and papaya. It\u2019s leafy, it\u2019s juicy, it\u2019s fleeting, it\u2019s fading - so get it before you get iced out like an ice age. On that note, this is our last fresh hop beer, frozen or otherwise, until September - so get it and CHILL.\u00a0 "
+    },
+    {
+      "beer_name": "Flashing Lights IPA",
+      "beer_style": "IPA",
+      "abv": 6.9,
+      "ibu": "57",
+      "description": "One thousand turns under the sun. That\u2019s a pretty big deal! And to commemorate it, instead of brewing something new and/or big and/or CRAZY, we chose to look back at the first IPA we ever made, in November of 2015. IPAs have changed quite a bit over the last 6+ years, but this beer still holds its own - a juicy, tropical and bright West Coast Hazy rendition that\u2019s bittered with Chinook, and finished with copious amounts of Citra, Mosaic, & Cascade. And after near-countless IPAs we\u2019ve made since, it feels pretty special to look back and re-brew the one that opened us up and introduced you all to our little brewery that could. We couldn\u2019t make IPAs if nobody drank them\u2026.so here\u2019s to YOU! And another 1,000 more!\u00a0 "
+    },
+    {
+      "beer_name": "Pretty Flowers IPA",
+      "beer_style": "IPA",
+      "abv": 7.2,
+      "ibu": "65",
+      "description": "This time of year just hits differently, and we\u2019ve decided it\u2019s because of\u2026.pretty flowers. Yes, they hit you right in the nasal glands. Also kinda dry your mouth out. And they get you in the back of the throat as well. But they sure do look beautiful! And guess what\u2026THIS BEER PRETTY MUCH CHECKS ALL THOSE BOXES AS WELL! It\u2019s a west coasty soiree of Warrior, Citra, Amarillo, Chinook, and Cascade Cryo that\u2019ll consume your senses with tangerine, meyer lemon, pineapple husk, along with some balanced yet assertive bitterness. You\u2019ll be like \u201cOh WOW! I remember how pretty West Coast IPAs are! Yum! Aggressive! Bitter! OK I\u2019ve had enough now!\u201d and then it will be gone for the year and you\u2019ll look back fondly upon it, until it blooms once again\u2026probably before Spring?\u2026we don\u2019t know\u2026we only schedule brews out a few weeks in advance, so seriously, no idea\u2026OH LOOK! TULIPS! "
+    },
+    {
+      "beer_name": "Mosaicin\u2019 Me Crazy IPA",
+      "beer_style": "IPA",
+      "abv": 6.9,
+      "ibu": "60",
+      "description": "From the brewers that refuse to do single hop beers... but still previously brought you Snoozefest (& brought it back)\u2026.comes this IPA only brewed with\u2026.MOSAIC\u2026.AGAIN. Wait WAIT, don\u2019t leave! Let us explain. On the surface level, it sure looks like a \u201csingle\u201d hop IPA. BUTITSNOT. We used 7 uniquely different lots of Mosaic, from 4 different harvest years (2018, 2019, 2020, & 2021), from 5+ different farms that we know of (because some lots are blended), in 3 different forms - T90 pellet, Cryo Pellet, and Cryo Powder. Ok, still with us? So by using this many different types of Mosaic, it allowed us to create more depth and gave us more control of the outcome than your typical boring ass single hop beer. The end result is the most robust and all encompassing Mosaic hop profile we could ever dream of. Got it? Get it. Good.  "
+    },
+    {
+      "beer_name": "Fun Differential",
+      "beer_style": "DIPA",
+      "abv": 8.1,
+      "ibu": "70",
+      "description": "Inspired by M\u2019s coach Scott Servais, we poured over recent metrics and statistics regarding the successful outcomes of certain double IPAs. Coach is right - often, an overlooked stat is called Fun Differential - which relates to how much more fun the drinker has while enjoying one of our DIPAs compared to DIPAs from other breweries.\u00a0 After a few observations and correlative calculations, we called up Galaxy, Strata, Citra and Azacca Cryo from the cooler and inserted them in the starting line-up. As a result, we predict our fun differential to be maximal, optimal, and optimaximal- largely in part to the notes of ripe tangerine, papayas, mangos and corresponding higher percentage of alcohol by volume. And as we all know, beers that end the season with higher fun differential percentages tend to have higher win rates. And EVERYBODY likes winning. So go, get out there and play some beer! "
+    },
+    {
+      "beer_name": "Abort the Court IPA",
+      "beer_style": "IPA",
+      "abv": 6.5,
+      "ibu": "60",
+      "description": "Way back when, in 2017, we brewed a beer called Rhythm Method, which raised funds for our regional Planned Parenthood branch. The name and description was cute. This one, less so. Five years later, the Supreme Court -\u00a0 a group that currently includes a couple of judges credibly accused of sexual assault and harassment - is about to strip the right of body autonomy away from women. They are trying to erase a ruling put in place to protect the health, safety, and privacy of a woman\u2019s body. Abortion is healthcare, and any reason to get one is, and should continue to be, none of your fucking business. Proponents will say it\u2019s about protecting \u201clife\u201d - but if that\u2019s true, then why is there so little attention and resources put towards universal healthcare, childcare, parental care & leave, and early education? On that note, maybe a court decision banning easy access to assault rifles that can take away the life of this post-fetus in mere seconds should, by this line of reasoning, also be coming any day now, no? Anyways - we\u2019re rambling here because we are fucking mad. 100% of the profits from this beer will be split between the Northwest Abortion Access Fund (nwaafund.org) and Planned Parenthood Great Northwest (plannedparenthood.org). This beer is our small way of helping women in our backyard along with women in more restrictive states (we\u2019re looking at you, Idaho) get safe abortions. Get fucked, SCOTUS.\u00a0"
+    },
+    {
+      "beer_name": "Shushhh!!!",
+      "beer_style": "Frozen Fresh Hop IPA",
+      "abv": 6.7,
+      "ibu": "50",
+      "description": "This ain\u2019t no ordinary frozen fresh hop brew, ok? Which, by the way, isn\u2019t ordinary to begin with! FROZEN FRESH HOPS ARE AMAZING! That said, THIS particular product used an even more experimental process involving whole cone frozen fresh hops that we had to sign an NDA for. AN NDA! That\u2019s shorthand for Non Disclosure Agreement, aka don\u2019t tell ANYBODY about this thing. We even blindfolded our other brewer Patrick, and he had to add these secret things to BOILING WORT sight unseen! Or else, we\u2019d be in trouble. Like super duper trouble if anybody found out that this crazy new thing is called YCH 301 Trial Simcoe that are essentially FROZEN FRESH WHOLE CONES TURNED INTO CRYO PELLETS. Oh. Ummm. UH OH. FUCK. Forget you just read that, ok? And, uh, if you don\u2019t hear from us in a while, please search behind the SE side of the Yakima Chief Warehouse* in Sunnyside, WA.\u00a0\u00a0"
+    },
+    {
+      "beer_name": "Not My Problem IPA",
+      "beer_style": "IPA",
+      "abv": 6.7,
+      "ibu": "63",
+      "description": "Rent increasing every year? Health insurance and business insurance premiums going up? Property Taxes Going Up? Personal Property Taxes Going Up? Cost of living going up? YOUR BILLS AND NOT OURS!"
+    },
+    {
+      "beer_name": "Performance Review",
+      "beer_style": "Extra Pale Ale",
+      "abv": 5.8,
+      "ibu": "48",
+      "description": "This is another pale that we brewed with a new hop variety, but this one is extra special. First, because NOBODY in the entire world has ever brewed with this hop before. How do we know this? Well, we\u2019re part of the trade group that CREATED IT. It was bred, trialed, planted, harvested and processed at OSU as part of some experimental lines funded by the Hop Quality Group. And this year\u2019s harvest yielded us\u2026.34 pounds of pellets. Total. And we got it all. So there\u2019s that. What\u2019s the Hop Quality Group? The Hop Quality Group was established in 2010 by a group of 9 breweries you\u2019ve probably heard of - Russian River, Sierra Nevada, Stone, Bell\u2019s, New Belgium, Firestone Walker, Odells, New Glarus, & Sam Adams\u00a0 - and has grown to a group of 50+ breweries, including yours truly. We tour hop farms, facilities and pellet mills; establish best practice guidelines for quality and safety; and fund a breeding program that someday will produce new, publicly available hops varieties\u2026maybe like this one, currently named HQ2015031-002, which has notes of Blueberry, White Peach, & Lemon Balm. "
+    },
+    {
+      "beer_name": "Soft Shock IPA",
+      "beer_style": "IPA",
+      "abv": 6.7,
+      "ibu": "50",
+      "description": "It\u2019s been ages since we took a deep dive listening to a whole lotta old Yeah Yeah Yeahs albums, so we decided to dust off this old recipe (from 2016!?) for Karen O (side Q: Is Karen O is the least \u201cKaren\u201d human with this name? We think yes.) This base of 2 Row, Oats, Wheat, Spelt and Rye - combined with less bittering - sets this recipe up with a soft & smooth body. A medley of Citra, Amarillo, Mosaic, El Dorado, & Melon hops yelp in harmony to give you a tropical fruit salad of hop flavors & aroma - pineapple, honeydew, mango, tangerine, & kiwi. Yes, kiwi. It\u2019s in there. All in all, this song is a sharp shock, to your soft side, summer moon, catch your shut eyes, in our (tasting) room. And other people\u2019s rooms (bars) around town. "
+    },
+    {
+      "beer_name": "Keller Whalez",
+      "beer_style": "Unfiltered German Pilsner w/ Spelt",
+      "abv": 5.4,
+      "ibu": "40",
+      "description": "This ain't your neck-bearded older brother's type of whale. But this unfiltered & unfined rustic AF German Pilsner, with a splash of Spelt and hopped with Magnum, Mittelfruh, Tettnang, & Saaz, has never been brewed before and nor will it ever be brewed again. You know what that means? ISOs for days. Secondary prices your I-banking roommate balks at. And people trying to sneak some of it outta the fest in their crinkled Aquafina bottles. Or none of that, because it's a pale lager.\u00a0 "
+    },
+    {
+      "beer_name": "Training Bines IPA",
+      "beer_style": "IPA",
+      "abv": 7.0,
+      "ibu": "45",
+      "description": "Heyo! It\u2019s another round of making our friend\u2019s beer, and this recipe comes from Pinthouse Brewing out of Austin, Texas. The Pinthouse crew is known for making some of the best IPAs in the country, garnering multiple GABF and World Beer Cup medals in those categories. This specific beer is all about highlighting their selected lots of Simcoe, Citra, & Mosaic, along with a splash of Motueka over a super drinkable base of 2 Row, Pils, & a splash of color. It\u2019s also pretty low in bitterness (compared to our usual IPAs), allowing the fruit flavors of tangerine, peach, key lime and watermelon to shine through. If you\u2019re interested in trying more versions of this recipe, Highland Park (LA), Cellarmaker (SF), Green Cheek (Anaheim), and Alvarado Street (Monterrey) will also be releasing versions in the coming days. Cheers to friends! "
+    },
+    {
+      "beer_name": "How To Get Rich",
+      "beer_style": "DIPA",
+      "abv": 7.7,
+      "ibu": "60",
+      "description": "We want to tell you about a dream. We found ourselves talking with John Wilson, when a Hummer limousine drove by. When you\u2019re rich, you have a lot of money - so much so you get driven around in a Hummer limousine like it\u2019s any old normal thing. Could this ever happen to us? Maybe if we find a way to get a lot of money? Or other valuable assets. So we talked to our accountant and they said finished beer is considered an asset. If we could just make more beer, we\u2019d be on the path of getting rich. But that means we\u2019d need to sell that beer to do so. So we responded to a few emails that claimed to only want a few moments of our time to talk about SEO and followers and brand recognition and vendor contact lists. They said, in order to sell beer, people need to find out about us, and we need to get more popular. We also need to optimize our exposure via online and in google searches, then we could attract influencers and post more pictures and videos of attractive people having fun while wearing our merchandise and drinking our beer. That would be ideal. Apparently, it doesn\u2019t even matter what the beer is or what it tastes like, the beer is just a vehicle to make more money, so we can get rich. But - what if the beer is good too?! We needed to find this out, so we went to local trade forums and it seems like all these bros and bois ISO juice and sauce and thicc and smoothies and BBA and haze. We don\u2019t know how to make many of those things, but we put some of the ingredients we had laying around the brewery all together and made a beer. We even added some Cryos. And it tastes good! Yum. Now we wait and watch the money come in so that someday we can be driven around in a Hummer limousine in real life with the actual John Wilson while we sip crispies and eat frozen pizza. That\u2019s the dream right there. "
+    },
+    {
+      "beer_name": "Space For Rent IPA",
+      "beer_style": "IPA",
+      "abv": 7.0,
+      "ibu": "55",
+      "description": "You know, there\u2019s a whole lotta space for rent these days. But not like the space you want. LIVING SPACE? Is it up to date? Clean? In a convenient location? At an affordable rate? Pshhh. COMMERCIAL SPACE? Oh cool - an empty office building downtown with a NNN more than the actual $/sf. OPEN SPACE? Fuck off - that shit should be free. Even LITERAL SPACE is for rent. You wanna rent the moon or a star, that shit is fair game - just give an \u201cofficial\u201d website your money. And CONCEPTUAL SPACE IS FOR RENT, like Web 3.0, where a meme of you can exist in a cloud on a server where you buy and sell NFTs, along with groceries and other things to keep your virtual tamagotchi-self from dying. EVEN FIGURATIVE SPACE is for rent, like in your head, sometimes rent free, because it\u2019s been infiltrated by another entity. HEAD SPACE! \u2026 Where are we going with all this? Um. Let\u2019s see. So. This beer\u2026 is\u2026 about ALL OF THOSE SPACES because it\u2019s a liquid convergence on an Ultra 4D triple axis - Galaxy hops take up the largest amount of space, Citra takes up the space between, and Cascade\u2019s shrinking space reminds you of previous spaces. And all of this can be had for a non-contractual single transaction, essentially like renting a pint glass for a moment, but on your terms.\u00a0 "
+    },
+    {
+      "beer_name": "Up Chuck The Boogie IPA",
+      "beer_style": "IPA",
+      "abv": 6.5,
+      "ibu": "58",
+      "description": "Fun fact: Chuck Shin, owner of the mini-empire known as Chuck\u2019s Hop Shop, has been asking us for an exclusive IPA going on SIX YEARS. Yes, that\u2019s also how long we\u2019ve been in existence. And FINALLY we found a spot in our production schedule to have Chuck\u2019s humans, representing all 3 locations, come down and help us brew a small batch of IPA. We even let them choose the hop bill! Which led to a never before used combination of HBC 630, Strata, Motueka, Galaxy, ADHA 218 resulting in a tropical smorgasbord that you can crush multiple pints of at any of their locations or ours, while you watch Chuck boogie in victory. "
+    },
+    {
+      "beer_name": "So Much Fun IPA",
+      "beer_style": "IPA",
+      "abv": 6.4,
+      "ibu": "60",
+      "description": "You know what we haven\u2019t had in a while? So much fun. Like, we\u2019ve had some fun\u2026but in small doses, accompanied with a side of anxiety and a slice of guilt\u2026because it\u2019s a weird time to have LOADS of fun with everything else going on around us and throughout the world. BUT, right now, at this very moment, there seems to be the tiniest reprieve in the storm, at least on the local level. It could be the eye of the hurricane or it could be the start of a new normal - we have NO FUCKING IDEA\u00a0 - but we\u2019re going to try to let ourselves YOLO a little more in the interim.\u00a0"
+    },
+    {
+      "beer_name": "You Oughta Know",
+      "beer_style": "New Hop Pale",
+      "abv": 5.6,
+      "ibu": "45",
+      "description": "We want you to know, that we are happy for you, and we wish nothing but the best for you both. We also want you to know about McKenzie hops - a new Oregon hop variety out of the West Coast Hop Breeding Company. It\u2019s got notes of yellow peach, mandarin orange, white grapefruit, sticky pine resin, and a whisper of electric lettuce. We\u2019re not\u00a0 here, to remind you, of the mess you left when you went away - that\u2019s not our job. That said, it\u2019s not fair to deny you of the hops we bear when we brew away. So, like, you oughta know\u2026McKenzie. "
+    },
+    {
       "beer_name": "Friends of Friends IPA",
       "beer_style": "IPA",
       "abv": 6.4,
@@ -76,13 +342,6 @@
       "abv": 7.2,
       "ibu": "60",
       "description": "We keep our heads down quite a bit, as we grind out new IPA recipes every other week. But every once in a while, we look up and take a step back - sometimes, to find we\u2019ve been walking in circles on the same track. The last time we brewed this recipe, it was just before the pandemic hit, and it was well received despite the impending global upheaval. A simple base of Rahr 2 row - and a citrus driven hop combination of Citra, Amarillo, Hop 522 & NZ Cascade.\u00a0 There\u2019s zesty nuance and delicious layers of juicy essence, some dark fruit, as well as a little bit of dankness you\u2019ve grown accustomed to - yet still, this beer is hauntingly recognizable.\u00a0"
-    },
-    {
-      "beer_name": "Happy Little Clouds",
-      "beer_style": "Dry-Hopped Pilsner",
-      "abv": 5.3,
-      "ibu": "32",
-      "description": "Batch #912 \u201cIn Bob We Trust\u201d Brewer Notes: Bob\u2019s been getting a lot of love lately - a Silver at GABF, a Gold at Washington Beer Awards - and it means the world to us that it\u2019s finally getting noticed. But also, we\u2019ve felt it was special all along. So, this batch is hopped with GR Magnum, CZ Saaz, GR Mandarina, & Oregon Amarillo - a little more of a classic rendition - with notes of orange peel, lemon zest, and meadow grass.\u00a0"
     },
     {
       "beer_name": "Zappa Dappa Do IPA",
@@ -778,13 +1037,6 @@
       "description": "We\u2019ve been staring at this box of Styrian Wolf hops for what feels like forever. We\u2019ve heard good things, friends have used the variety\u2026.we just...I don\u2019t know, get distracted? So we thought: If we aren\u2019t going to use these now, then when will we ever? If now is not when, when is now not when? Guess what?! Right now is when! Make sense?\u00a0"
     },
     {
-      "beer_name": "Cosmic Lust IPA",
-      "beer_style": "IPA",
-      "abv": 7.8,
-      "ibu": "60",
-      "description": "Oh, what Dusty once was. He was vibrant! He was juicy! He was rough around the edges, with a little bite, and yet still balanced and approachable. Everybody loved him, and even more do today. Sure, he still looks the same - but his old friends know that he's changed. He's bigger now, a little less interesting - dull and dumbed down. He says money and opportunity haven't changed him....Ok. But to those who remember what once was, this Lust's for you.\u00a0"
-    },
-    {
       "beer_name": "One in Eight",
       "beer_style": "American Wheat Ale",
       "abv": 5.4,
@@ -881,13 +1133,6 @@
       "abv": 6.8,
       "ibu": "58",
       "description": "El Dorado and Citra - these two hops, they just GO together. El Dorado has this reliably floral fruity thing going on - yellow plums, pears, apricot, rose petals, beach grass - and when Citra shows up, it brightens the union by adding a citrusy bursts of tangerines and yellow peach. They are like a fuzzy/blurry yin and yang\u2026.like a poorly drawn venn diagram drawn by a three year old...like those bird species that fall in love and keep the same mate for their entire existence...how crazy is that, btw? That\u2019s some miraculous fucking nature shit right there. Just think about that for a moment\u2026."
-    },
-    {
-      "beer_name": "Stratabulous! IPA",
-      "beer_style": "IPA",
-      "abv": 6.7,
-      "ibu": "63",
-      "description": "From the brewers that NEVER...er, RARELY...brew single hop beers...other than Snoozefest, and Mosaicin\u2019 Me Crazy...yes, we made each of those twice...ANYWAYS...we proudly offer our newest and nextest iteration: STRATABULOUS! In this rendition, we used 5 unique lots of Strata, spanning 2 harvests (2019 + 2020) from three Oregon farms (Crosby, Goschie, & Coleman) to give you depth and complexity like you\u2019ve never tasted before.There are notes of Guava! Passionfruit! Ruby Red Grapefruit! And Tangerines! So don\u2019t be fooled by the horrible name of this beer - it\u2019s magical. It\u2019s mesmerizing. It\u2019s fantastic. It\u2019s fabulous."
     },
     {
       "beer_name": "Loose Ends",
@@ -1175,13 +1420,6 @@
       "description": "This one is for the buzz. And the fuzz. What does that mean? It doesn\u2019t matter. We loaded this thing up with Galaxy hops. You know, from AUSTRALIA.\u00a0 And some Citra. And also, some Hop 692 for a little tropical twisty delight. The malt bill is simple, mostly 2 row, some pilsner, and THREE TYPES OF OATS. People love oats. So do horses. Back on the hops. Just think about this: GALAXY. It\u2019s vast, it\u2019s expansive, it\u2019s intangible, it\u2019s unique, it\u2019s delicious. GALAXY. That\u2019s the ticket.\u00a0  "
     },
     {
-      "beer_name": "Mosaicin\u2019 Me Crazy IPA",
-      "beer_style": "IPA",
-      "abv": 7.3,
-      "ibu": "60",
-      "description": "From the brewer\u2019s that refuse to do single hop beers... but still previously brought you Snoozefest (& brought it back)\u2026.comes this IPA only brewed only with\u2026.MOSAIC\u2026.AGAIN. Wait WAIT, don\u2019t leave! Let us explain. On the surface level, it sure looks like a \u201csingle\u201d hop IPA. BUTITSNOT. We used 7 uniquely different lots of Mosaic, from 3 different harvest years (2017, 2018, & 2019), from 5+ different farms that we know of (because some lots are blended), in 3 different forms - T90 pellet, Cryo Pellet, and Cryo Powder. Ok, still with us? So by using this many different types of Mosaic, it allowed us to create more depth and gave us more control of the outcome than your typical boring ass single hop beer. The end result is the most robust and all encompassing Mosaic hop profile we could ever dream of. Got it? Get it. Good.  "
-    },
-    {
       "beer_name": "Tell Me Lies",
       "beer_style": "Contemporary American-Style Pilsner",
       "abv": 5.4,
@@ -1362,13 +1600,6 @@
       "abv": 8.7,
       "ibu": "78",
       "description": "This beer goes out to that anxiety-ridden morning after of a drunken night out. As the brain fog lifts, and you start to remember pieces of specific conversations, events, actions that make you cringe with embarrassment, and laugh, and regret, and hope that nobody else remembers that you fell off the stage in the middle of singing Celine Dion karaoke that you decided to take artistic liberty on by ad-libbing a \u201cFuck Trump\u201d chant while the song crescendos. Wait. What? Galaxy, Citra, & Hop 522"
-    },
-    {
-      "beer_name": "Soft Shock IPA",
-      "beer_style": "IPA",
-      "abv": 7.7,
-      "ibu": "56",
-      "description": "It\u2019s another hop serenade from Karen O herself. Oats, Wheat, and Rye - combined with less bittering - set this IPA up with a soft & smooth body. A medley of Polaris, Citra, Amarillo, Mosaic, El Dorado, Melon & Ella hops blend together to give you a fruit salad of hop flavors & aroma. It\u2019s a sharp shock, to your soft side."
     },
     {
       "beer_name": "Remaining Mind",
@@ -2825,13 +3056,6 @@
       "abv": 5.2,
       "ibu": "40",
       "description": "Question: If a pale ale doesn\u2019t have any Citra, Mosaic, or Simcoe hops in it, is it still enjoyable? I mean, like sure, it\u2019s probably going to be drinkable - but would you come back to it again and again? Because this pale has none of those. But, what it lacks in familiar and friendly Yakima varietals, it makes up for with international experience and exotic flavors thanks to ample Australian Vic Secret and German Hallertau Blanc hops. Notes of lychee, white peach, and kiwi. Dealbreaker or Not?"
-    },
-    {
-      "beer_name": "Flashing Lights IPA",
-      "beer_style": "IPA",
-      "abv": 6.9,
-      "ibu": "57",
-      "description": "This was our first in a long line of American IPAs we\u2019ve released. We rarely ever revisit a beer, but we were curious what\u2019d it'd taste like with 250+ brews under our belt since we first brewed it in November of 2015. This IPA remains a juicy, tropical and bright West Coast rendition that\u2019s bittered with Chinook, and finished with copious amounts of Citra, Mosaic, & Cascade. You never thought we\u2019d take it this far\u2026.but we did."
     },
     {
       "beer_name": "Friendly Reminder",
