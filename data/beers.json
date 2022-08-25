@@ -1,6 +1,20 @@
 {
   "beers": [
     {
+      "beer_name": "Take Me With You IPA",
+      "beer_style": "IPA",
+      "abv": 6.7,
+      "ibu": "57",
+      "description": "Imagine a magical place with a lush, beautiful landscape and an endless scenic coastline; a place with universal healthcare and a stable, developed economy; a place with a robust and diverse education system and low cost of living; a place that grows awesome fucking hops. What if we told you this place already exists? Because guess what, it does, and it\u2019s called New Zealand. And someday, we want to go there. Maybe for a couple weeks. Maybe forever. But until that day comes, enjoy this tropical-forward IPA brewed with three different lots of Nelson Sauvin hops, plus a little Strata & Citra for support. "
+    },
+    {
+      "beer_name": "Yeah But Why Tho?",
+      "beer_style": "Cold Black IPA",
+      "abv": 6.6,
+      "ibu": "69",
+      "description": "Wanna hear a hot take? Black IPAs are one of the hardest styles of beer to make. Why? Well, the malt often clashes and muddles with the hops, plus esters, plus bitterness, plus lots of other things going on. The end result tends to be a mess. For every great version we try (like Firestone Walker Wookey Jack and Barley Brown\u2019s Turmoil), there are 9 that just flat out don\u2019t work. And that\u2019s why we\u2019ve never brewed one\u2026until NOW. And we started with a twist right off the bat - we used a Lager yeast to ferment the beer cooler than usual, for a smoother/cleaner/brighter overall experience. And we paired it with a decisive hop bill that typically lends itself well to malt forward American beers - like Simcoe, but also Warrior, Citra, & Amarillo - for a piney/pithey flavor & aroma profile along with an assertive west coast bitterness. And thus, the Cold Black IPA is born. "
+    },
+    {
       "beer_name": "Cosmic Lust IPA",
       "beer_style": "IPA",
       "abv": 7.8,

@@ -1,7 +1,8 @@
 import json
 
-from neohelper import init_neo4j_driver, get_driver
+from neohelper import nh
 from slugify import slugify
+
 
 def create_beers(tx, file: str):
 
@@ -24,9 +25,9 @@ def create_beers(tx, file: str):
         MERGE (b:Beer {name : beer.beer_name,
             abv : beer.abv,
             style : beer.beer_style,
-            description : beer.description,
-            tmp_slug : beer.slug_description
-        })
+            description : beer.description
+            })
+        SET b.tmp_slug = beer.slug_description
         RETURN count(b) as c
         """
     records = tx.run(query, beers=beers)
@@ -34,12 +35,14 @@ def create_beers(tx, file: str):
         'Merged {} Beer nodes'
         .format(records.single()['c']))
 
+
 def remove_beers_tmp_slug(tx):
     query = """
         MATCH (b:Beer)
         REMOVE b.tmp_slug
         """
     tx.run(query)
+
 
 def create_hops(tx):
 
@@ -141,7 +144,7 @@ def create_hop_aromas(tx):
         """
     records = tx.run(query)
     print(
-        "Merged {} (:Aroma)-[:RECOMMENDED]-(:Aroma) relationships"
+        "Merged {} (:Hop)-[:HAS_AROMA]-(:Aroma) relationships"
         .format(records.single()['c']))
 
 
@@ -166,8 +169,8 @@ def style_abv_stats(tx):
 if __name__ == '__main__':
 
     # Instantiate driver using evironmental variables
-    init_neo4j_driver("NEO4J_USER", "NEO4J_PW", "NEO4J_URI")
-    driver = get_driver()
+    nh.init_neo4j_driver("NEO4J_USER", "NEO4J_PW", "NEO4J_URI")
+    driver = nh.get_driver()
 
     with driver.session() as session:
         swt = session.write_transaction
