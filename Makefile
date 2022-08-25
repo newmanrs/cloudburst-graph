@@ -2,6 +2,7 @@
 
 graph-etl:
 	pip3 install --quiet -r requirements.txt
+	python3 config_neo4j_indexes.py
 	python3 cloudburst_graph_etl.py
 
 clean-db:
