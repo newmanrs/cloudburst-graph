@@ -1,6 +1,97 @@
 {
   "beers": [
     {
+      "beer_name": "wetwired",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.5,
+      "ibu": "52",
+      "description": "SURPRISE! It\u2019s back, baby. We just have one question for you: ARE YOU AFRAID OF THE WET?"
+    },
+    {
+      "beer_name": "Wet Is Just A Number",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.6,
+      "ibu": "50",
+      "description": "We know - it\u2019s hard to keep track of all those new experimental hop varieties. And for every 369 (aka Mosaic) and 394 (aka Citra) there\u2019s 472 or 344, which, uh, don\u2019t exist much anymore. But THIS one you should remember, as it might just be the next one to earn a name: HBC 586. We loaded this IPA up with 22#/bbl from Perrault Farms to finish out our wet hop season on top, with notes of fruit punch, blood orange and papaya. "
+    },
+    {
+      "beer_name": "Happy Little Clouds",
+      "beer_style": "Contemporary American-Style Pilsner",
+      "abv": 5.3,
+      "ibu": "32",
+      "description": "Batch #912 \u201cIn Bob We Trust\u201d Brewer Notes: Bob\u2019s been getting a lot of love lately - a Silver at GABF, a Gold at Washington Beer Awards - and it means the world to us that it\u2019s finally getting noticed. But also, we\u2019ve felt it was special all along. So, this batch is hopped with GR Magnum, CZ Saaz, GR Mandarina, & Oregon Amarillo - a little more of a classic rendition - with notes of orange peel, lemon zest, and meadow grass.\u00a0"
+    },
+    {
+      "beer_name": "Wetter Every Day",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.7,
+      "ibu": "50",
+      "description": "Some days are a slog. Heck, some years are a slog. But ya know what? Maybe things are looking up?! The new booster is out, the DOJ is digging deep, student debt relief is coming, and hop harvest is near complete - ALL GOOD THINGS! PLUS, NEW FRESH WET HOP BEER is going to keep coming out for another couple weeks! For this collaboration, our friends at Varietal Beer in Sunnyside drove us out 500 pounds of Citra from CLS\u2019s Wenas Farm, and that was super nice of them. We decided on a light malt bill of Pils and 2 Row to just let everybody\u2019s favorite hop express all that stone-fruity goodness, and my oh my did it deliver! We\u2019ve got to admit it\u2019s getting wetter, it\u2019s getting wetter every day."
+    },
+    {
+      "beer_name": "Wet Warp",
+      "beer_style": "Wet Hop West Coast IPA",
+      "abv": 6.9,
+      "ibu": "65",
+      "description": "Pshhhheewwwwwwwww VrrrrrrP! Hello. You have just been transported to the year 2001, where Simcoe is all the rage and Cascade is far and away the most popular flavor/aroma variety. But also, you are at a futuristic brewery that doesn\u2019t exist yet. And it\u2019s harvest! Aaaand they\u2019re picking these hops on the same day at different farms - Simcoe at Perrault Farms and Cascade at CLS Farms - so obviously we pick them up throw them in an IPA recipe, but not like a new IPA recipe, it\u2019s an old school California WC style one, which is also cool now, just like back then, then we go back to the brewery from the future, which we\u2019re at right now right? Wait. Where the fuck are we. What kinda timeskip wormhole have we gotten ourselves into? HELP?! "
+    },
+    {
+      "beer_name": "Wishy Washy",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.6,
+      "ibu": "53",
+      "description": "The story of Amarillo hops reads like a Shakesperian play\u2026minus the murder, and incest, and romance. Ok, it\u2019s more like a regular story arc from your Creative Writing 201 class. Amarillo came out of the gates on fire in the mid-00s and everybody wanted to put it in their IPA. It tried to meet that massive demand too quickly, its quality wavered, brewers balked, and by then newer exciting varieties were being released and ramped up, and the next generation of craft brewers and drinkers tagged it as \u201cold school\u201d and \u201cas cool as reebok classics.\u201d WELL GUESS WHAT. THE 00s ARE BACK IN STYLE WITH THE KIDS and AMARILLO IS FIRE AGAIN. AND SO IS THIS BEER! Brewed with 19#/bbl of Fresh Green Whole Cone Amarillo from Virgil Gamache Farms picked while Mercury is in retrograde so it hits different and is totally yassified (See kids? We\u2019re still hip!)."
+    },
+    {
+      "beer_name": "Thatz Not Okay",
+      "beer_style": "Unfiltered Czech-Style Pils",
+      "abv": 5.4,
+      "ibu": "50",
+      "description": "Umm, so we\u2019d like to have a word with you. As most of you know, we\u2019ve been lowkey brewing traditional-style lagers since our conception. BUT recently we\u2019ve really enjoyed not clarifying them. While we\u2019ve never filtered any of our beers (because we don\u2019t own a filter) we do occasionally add wort clarifiers to our kettle and during conditioning to brighten the appearance of our beer. These things (irish moss, whirlfloc, gelatin, biofine, etc) occasionally work well, though their effectiveness isn\u2019t wholly predictable, and while making the beer appear clear is \u201ctraditional\u201d, they tend to weaken the head retention and lessen the mid-palate texture. That said, you know what else clears up the appearance of beer quite well? Time! Also, temperature! And that brings us to\u2026this beer. We decided to not use any added clarifying agents other than time and temp for this batch of \u201cKeller\u201d Pils, allowing Weyermann\u2019s Floor Malted Bohemian Pilsner Malt and Czech Saaz hops to exist in their purest form, perhaps with the slightest sheen of haze, much to the chagrin of traditionalists. If that\u2019s not okay, we don\u2019t wanna be right."
+    },
+    {
+      "beer_name": "The Hop Aquatic",
+      "beer_style": "Wet Hop IPA",
+      "abv": 6.3,
+      "ibu": "57",
+      "description": "Here. WE. GOOOOOOOOO!!!!! This is our first Wet Hop IPA out of the gates for Harvest Year 2022.  As is the custom, this beer is loaded with 18#/bbl of FRESH GREEN WHOLE CONE Strata from Goschie Farms in Silverton, Oregon. But wait, there\u2019s more! In addition to using some Strata in the dry hop, we also used some frozen fresh Simcoe as well. Why? BECAUSE WE CAN. Get it while the getting\u2019s good - as this beer is sure to be more elusive than a Jaguar Shark. "
+    },
+    {
+      "beer_name": "Anyone\u2019s Ghost IPA",
+      "beer_style": "IPA",
+      "abv": 6.7,
+      "ibu": "54",
+      "description": "Do you want to know what one of the hardest recipes to create every year is? The last IPA before the fresh hops hit. Since it\u2019s often overlooked, we try hard to make it a sure fire, can't miss, unique & interesting BANGER. This year\u2019s version is loaded with a new lot of Vic Secret hops from Australia, plus a little Mosaic, and a splash of El Dorado, resulting in an intense tropical bomb cyclone of flavor. We\u2019re just as excited as you are about what\u2019s to come, but don\u2019t sleep on this batch, as it\u2019s designed to haunt your dreams\u2026not your tap lines or the back of your fridge."
+    },
+    {
+      "beer_name": "Sentimental Value",
+      "beer_style": "West Coast Pale Ale",
+      "abv": 5.5,
+      "ibu": "57",
+      "description": "While WC IPAs have their resurgence, which we love btw, we also started to think - what about the WEST COAST PALES?!  Forever overlooked, often forgotten, passed over for more exciting things. But maybe, JUST maybe, someday, hopefully, probably not\u2026.the Pale Ale will shine again. Until then, we will cherish them, and champion them, despite their lacking material and marketable worth. We volunteer this beer as tribute, hopped with several lots of Strata and Simcoe for modern notes of passion fruit, guava, & ruby red grapefruit."
+    },
+    {
+      "beer_name": "Beautiful Distraction IPA",
+      "beer_style": "IPA",
+      "abv": 6.6,
+      "ibu": "57",
+      "description": "Wanna hear a fun story? Ok, here it goes. We were doom scrolling early in 2022 and came across Joey Veltkamp\u2019s work - a Bremerton based artist whose medium is quilts, often with bright colors and scenic and/or cheeky vibes. His work is inviting, impressive, and downright joy-inducing - and the humble vehicle of the quilt really resonated with us. And so, we reached out to Joey to see if he\u2019d be down for a project - to design a beer can label, and to choose a local charity that we could donate the profits of this beer to. And after some brainstorming, and a little break (Joey was in the midst of putting the finishing touches on his current exhibit at the Bellevue Art Museum), a beautiful quilt and beer label was created! As for the charity of choice, we will be donating the profit from this beer to the Lavender Rights Project - a Seattle based organization that offers financial, legal and social services to the black and indigenous intersex and gender diverse community. Oh also - the beer! It was hopped with a bright, refreshing, citrus forward hop bill of Citra, Comet, & Motueka laid over a lighter grist of 2 row, Pils, & Spelt.  "
+    },
+    {
+      "beer_name": "Heavily Redacted IPA",
+      "beer_style": "IPA",
+      "abv": 6.8,
+      "ibu": "63",
+      "description": "In this unprecedented investigation of xxxxxxx involving interference, obstruction, xxxxxx, and top secret recipes, we feel it\u2019s in our best interests of xxxxxxxxxx to release an affidavit regarding this IPA. There are well founded concerns that xxxxxxxxx xxxxxxx xxxxx xxxxxxx xxxxx xxxxxxxxx xx xxx xxx. Additionally, other classified xxxxxx xxxxx xxxxxxx and sensitive materials like xxxxxx xxxxxxxxx xxxxxx and xxxxxxx \u00a0were involved in the information breach. In accordance with xxxxxxxx,\u00a0 Idaho 7 hops \u00a0xxxxxxxx \u00a0Chinook hops xxxx\u00a0 xxxxx\u00a0 xxxxx Citra hops. That said, a special master xxxxxxx \u00a0will xxxxxx xxxxxx xxxxxxx xxxxxxxx evidence of pineapple, grapefruit, & pine needles. Further investigation may include witness intimidation and xxxxxxx among xxxxxxxxxx xxxxxxx xxxxxxxx penalties of xxxxxxx xxxxxx xxxxxxxxx \u00a0many MANY years in jail for being a petulant, greedy, incompetent, incontinent, tax-evading, treasonous spy. CHEERS!"
+    },
+    {
+      "beer_name": "Your Worst Nightmare",
+      "beer_style": "Dark Stuff",
+      "abv": 6.6,
+      "ibu": "30",
+      "description": "Imagine a bleak alternative reality where no new hop varieties were ever developed or evolved. Brewers still use them, but just for bittering. That\u2019s it. And when harvest comes around every year, there are no fresh hop beers, because they would all just taste like dirt and earth and grass. BUT, in their place, pumpkin beers fill the craft beer landscape - flooding the Fall market with vegetable beers. Every warm shelf and tap is taken over by jack-o-lantern themed beers with names like \u201cYUM YUM PUMPKIN!\u201d and \u201cDREAMY HALLOWEENY\u201d and \u201cPUMP FLUFF MUFFIN\u201d that make you want to stab your jugular with a pumpkin carving knife. And, every single offering has that blend of familiar spices, but at least they vary in color and base style. Some breweries are so prolific in their pumpkin brewing prowess that they not only attract attention from every beer nerd, but also Big Beer. AB-Inbev sees this growing market and wants -NEEDS- to be a player in it, so they start buying up independent breweries, one by one, slowly at first, then at rampant pace, until they confuse the consumer with so many options nobody knows who owns what anymore, creating customer indifference in ownership and operations and origins among the sea of SKUs, where only the deepest of pockets prevail, squeezing out small, independent, locally-owned and operated breweries until there are few left.\u00a0 In this Cantwellian Dystopia, THIS beer would be KING - a milk chocolatey base beer brewed with Libby\u2019s canned pumpkin and spiced with a blend of cinnamon, nutmeg, ginger, allspice and clove. OK WAKE UP! It was all a dream...WAIT BUT... "
+    },
+    {
       "beer_name": "Take Me With You IPA",
       "beer_style": "IPA",
       "abv": 6.7,
@@ -48,13 +139,6 @@
       "abv": 6.7,
       "ibu": "59",
       "description": "Oh hey LOOK at this beer! It\u2019s ExTrA HaZy that\u2019s CrAzY! That\u2019s because there\u2019s oats in the malt bill! Spelt too! Therefore it should be soft and fluffy and sweet and cloying. BUTITSNOT. Those oats do a nice job of balancing the bright citrus flavors from mostly from Amarillo (in a hazy?! Whaaa!) along with some solid bitterness and a surprisingly dry finish. In short - hazy is not a flavor, looks can be deceiving, and assessing a beer on its appearance is much less important than for its aroma, flavor, and finish. Now go on, enjoy everything about this beer. "
-    },
-    {
-      "beer_name": "Happy Little Clouds",
-      "beer_style": "Contemporary American-Style Pilsner",
-      "abv": 5.3,
-      "ibu": "32",
-      "description": "Batch #912 \u201cIn Bob We Trust\u201d Brewer Notes: Bob\u2019s been getting a lot of love lately - a Silver at GABF, a Gold at Washington Beer Awards - and it means the world to us that it\u2019s finally getting noticed. But also, we\u2019ve felt it was special all along. So, this batch is hopped with GR Magnum, CZ Saaz, GR Mandarina, & Oregon Amarillo - a little more of a classic rendition - with notes of orange peel, lemon zest, and meadow grass.\u00a0"
     },
     {
       "beer_name": "Reports Of My Death Have Been Greatly Exaggerated",
@@ -685,13 +769,6 @@
       "abv": 6.2,
       "ibu": "45",
       "description": "We all know James Bond is Agent 007\u2026.but what about 008? Apparently, they call him Bill? Is he as cool as James? Is he a nerd and only deals with cyber criminals and crypto theft? What about rogue experimental breeding of agricultural triploid genomic species? We don\u2019t know. But we do know that this new HRC experimental hop variety also known as 008 is grown at Crosby Farm. And it exhibits notes of nectarine, lime flesh, & lemongrass, which should mean it will live on, and expand its reach, and may someday be seen throughout the public market. So it's got that going for it."
-    },
-    {
-      "beer_name": "Your Worst Nightmare",
-      "beer_style": "Dark Stuff",
-      "abv": 7.0,
-      "ibu": "30",
-      "description": "Imagine a bleak alternative reality where no new hop varieties were ever developed or evolved. Brewers still use them, but just for bittering. That\u2019s it. And when harvest comes around every year, there are no fresh hop beers, because they would all just taste like dirt and earth and grass. BUT, in their place, pumpkin beers fill the craft beer landscape - flooding the Fall market with vegetable beers. Every warm shelf and tap is taken over by jack-o-lantern themed beers with names like \u201cYUM YUM PUMPKIN!\u201d and \u201cDREAMY HALLOWEENY\u201d and \u201cPUMP FLUFF MUFFIN\u201d that make you want to stab your jugular with a pumpkin carving knife. And, every single offering has that blend of familiar spices, but at least they vary in color and base style. Some breweries are so prolific in their pumpkin brewing prowess that they not only attract attention from every beer nerd, but also Big Beer. AB-Inbev sees this growing market and wants -NEEDS- to be a player in it, so they start buying up independent breweries, one by one, slowly at first, then at rampant pace, until they confuse the consumer with so many options nobody knows who owns what anymore, creating customer indifference in ownership and operations and origins among the sea of SKUs, where only the deepest of pockets prevail, squeezing out small, independent, locally-owned and operated breweries until there are few left.\u00a0 In this Cantwellian Dystopia, THIS beer would be KING - a milk chocolatey base beer brewed with Libby\u2019s canned pumpkin and spiced with a blend of cinnamon, nutmeg, ginger, allspice and clove. OK WAKE UP! It was all a dream...WAIT BUT... "
     },
     {
       "beer_name": "Bad With Directions IPA",
